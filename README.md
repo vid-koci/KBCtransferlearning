@@ -1,9 +1,9 @@
-# OKBCwithEncoders
+# Knowledge Base Completion Meets Transfer Learning
 
-This code accompanies the paper Knowledge Base Completion Meets Transfer Learning.
+This code accompanies the paper Knowledge Base Completion Meets Transfer Learning published at EMNLP 2021.
 
 
-##Setup
+## Setup
 Following packages are needed to run the code
  * Python >=3.6
  * pytorch>=1.6
@@ -12,7 +12,7 @@ Following packages are needed to run the code
 
 Run setup.sh to download and transform GloVe embeddings and OlpBench dataset. Please note that this downloads 3.5GB of files which unzip into around 10GB of content.
 
-##Running the code
+## Running the code
 
 For full help, run `python main.py -h`, a couple of examples are given below:
 
