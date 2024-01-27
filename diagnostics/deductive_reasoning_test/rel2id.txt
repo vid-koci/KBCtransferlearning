@@ -1,0 +1,77 @@
+76
+expert in	0
+eating	1
+competes in	2
+watches	3
+playing	4
+visited	5
+has expertise	6
+visited the capital of	7
+lives in	8
+never visited	9
+has relatives in	10
+owns a house in	11
+refuses to visit	12
+traveled through	13
+speaks	14
+does not speak	15
+understands people from	16
+understands	17
+climbed	18
+has never been to	19
+has not visited	20
+has climbed	21
+took a photo of	22
+never been to	23
+has friends in	24
+knows people in	25
+visited all parts of	26
+swam in	27
+comes from	28
+studies	29
+works in	30
+is suffering from	31
+may have	32
+is in danger of	33
+has	34
+is doing	35
+doing	36
+weighs 	37
+is	38
+experiencing	39
+practicing	40
+has profession	41
+going through	42
+active in	43
+does	44
+is a	45
+posted on	46
+wrote a	47
+seeks	48
+seeks knowledge on	49
+not follower of	50
+follows teachings of	51
+follower of	52
+has aim	53
+dedicates life to	54
+deals with	55
+owns	56
+professor of	57
+teaches about	58
+has research focus	59
+researcher in	60
+lives close to	61
+trying to solve	62
+won	63
+plays	64
+trains on	65
+trains	66
+is avoiding	67
+trying to	68
+cannot play any	69
+cannot play	70
+is playing	71
+drives	72
+uses	73
+does not work in	74
+does not do	75

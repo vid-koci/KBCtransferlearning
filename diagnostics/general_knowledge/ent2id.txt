@@ -1,0 +1,8197 @@
+8196
+Jennifer Lawrence	0
+Katniss Everdeen in The Hunger Games	1
+Suzanne Collins	2
+David O. Russel	3
+Tiffany Maxwell	4
+Christian Bale	5
+Serena	6
+Bill Engvall	7
+Mystique	8
+Bradley Cooper	9
+Oscar	10
+Meryl Streep	11
+Mamma Mia!	12
+World War II	13
+Roman Holiday	14
+Gigi	15
+Ondine	16
+War and Peace	17
+Mars Attacks!	18
+Star Wars	19
+Where the Heart is	20
+Closer	21
+Humphrey Bogart	22
+top male film star of the 20th century	23
+Robert Sherwood	24
+Warner Brothers	25
+Duke Mantee	26
+John Huston	27
+Francis Ford Coppola	28
+Katharine Hepburn	29
+Lauren Bacall	30
+Henry Fonda	31
+Sabrina	32
+Aquaman	33
+underwater kingdom of Atlantis	34
+Atlantis	35
+Asgard	36
+Earth	37
+Marvel Comics	38
+railway	39
+Avengers	40
+New York	41
+X-Men	42
+Buffy the Vampire Slayer	43
+Gotham	44
+Clark Kent	45
+Superman	46
+Grant Morrison	47
+Lois Lane	48
+Jack Liebowitz	49
+Captain Marvel	50
+Otto Binder	51
+Lex Luthor	52
+Achilles	53
+Jimmy Olsen	54
+John F. Kennedy	55
+Charlie Brown	56
+Peanuts	57
+Captain America Comics	58
+DC Comics	59
+Fantastic Four	60
+Spider-Man	61
+James Bond films	62
+Wonder Woman	63
+All Star Comics	64
+dance	65
+movement of the body in a rhythmic way	66
+art	67
+philosophy	68
+criticism	69
+history	70
+writing	71
+time	72
+emotion	73
+culture	74
+pleasure	75
+Arthur Mitchell	76
+Dance Theatre of Harlem	77
+New York City Ballet	78
+High School for the Performing Arts	79
+Broadway musicals	80
+Ballet Society	81
+Lincoln Center for the Performing Arts	82
+American Ballet company	83
+Saratoga Performing Arts Center	84
+Paris Opéra Ballet	85
+New York City	86
+tap dance	87
+the United States	88
+USA	89
+tango	90
+samba	91
+rumba	92
+conga	93
+ballet	94
+minuet	95
+courante	96
+waltz	97
+polka	98
+opera	99
+rituals	100
+prayer	101
+battle	102
+rock concert	103
+leisure	104
+military training	105
+war	106
+Golden Globe Award	107
+Hollywood Foreign Press Association (HFPA)	108
+Juno Award	109
+Emmy Award	110
+Grammy Award	111
+Tony Award	112
+Academy Award	113
+Purple Heart	114
+television	115
+Hollywood	116
+Golden Globe	117
+Jean Hersholt Humanitarian Award	118
+Irving G. Thalberg Memorial Award	119
+Gordon E. Sawyer Award	120
+Tony Awards	121
+Antoinette Perry	122
+sugar	123
+sweet	124
+sour	125
+bitter	126
+oily	127
+salty	128
+spicy	129
+hot	130
+cold	131
+greasy	132
+disgusting	133
+beer	134
+hops	135
+ale	136
+apple	137
+oil	138
+meat	139
+cake	140
+spirit	141
+bread	142
+milk	143
+coffee	144
+lard	145
+animal slaughter	146
+olives	147
+soybean	148
+sunflowers	149
+green salad	150
+vegetables	151
+corn	152
+palm	153
+orange	154
+fruit	155
+chocolate	156
+carrot	157
+veil	158
+butter	159
+wine	160
+NBA	161
+basketball	162
+National Basketball Association	163
+baseball	164
+cricket	165
+rugby	166
+tennis	167
+football	168
+chess	169
+boxing	170
+golf	171
+figure skating	172
+England	173
+India	174
+Pakistan	175
+Australia	176
+West Indies	177
+Ireland	178
+Canada	179
+New Zealand	180
+Sri Lanka	181
+Sudoku	182
+number game	183
+sport	184
+dish	185
+literature	186
+card game	187
+historical event	188
+martial art	189
+sport requisite	190
+pawn	191
+king	192
+queen	193
+rook	194
+bishop	195
+knight	196
+chessboard	197
+checkmate	198
+meeple	199
+board game	200
+West Side Story	201
+Romeo and Juliet	202
+Slumdog Millionaire	203
+Titanic	204
+Les Vampires	205
+Queen Elizabeth	206
+The Circus	207
+Hamlet	208
+Henry V	209
+Oliver Twist	210
+western	211
+Wild West	212
+western movie	213
+film noir	214
+romance	215
+comedy	216
+drama	217
+documentary	218
+propaganda	219
+musical	220
+theatre	221
+Sci-fi	222
+A New Hope	223
+The Return of the King	224
+Toy Story	225
+A Bug’s Life	226
+The Incredibles	227
+Finding Nemo	228
+Crash	229
+The Prairie	230
+Under California Stars	231
+Alfred Hitchcock	232
+Psycho	233
+Kathryn Bigelow	234
+Sarah Polley	235
+Lina Wertmüller	236
+Norman Taurog	237
+Woody Allen	238
+Nancy Meyers	239
+Michael Curtiz	240
+William Wyler	241
+The Hurt Locker	242
+Detroit	243
+Blue Steel	244
+Take This Waltz	245
+Away From Her	246
+Duel	247
+A.I. Artificial Intelligence	248
+Schindler’s List	249
+War of the Worlds	250
+Ben-Hur	251
+Saving Private Ryan	252
+Steven Spielberg	253
+Saboteur	254
+Vertigo	255
+La Traviata	256
+Giuseppe Verdi	257
+Wolfgang Amadeus Mozart	258
+Ludvig van Beethoven	259
+Joseph Haydn	260
+Pyotr Ilyich Tchaikovsky	261
+Maurice Ravel	262
+Johannes Brahms	263
+Johann Sebastian Bach	264
+Claudio Monteverdi	265
+Modest Mussorgsky	266
+Salzburg	267
+Bonn	268
+Vienna	269
+London	270
+Prague	271
+Munich	272
+Paris	273
+Milano	274
+Frankfurt	275
+Stuttgart	276
+The Nutcracker	277
+La traviata	278
+The Marriage of Figaro	279
+Bolero	280
+Night on Bald Mountain	281
+Moonlight Sonata	282
+La campanella	283
+The Flying Dutchman	284
+Rhapsody in Blue	285
+An American in Paris	286
+Louis Armstrong	287
+trumpeter	288
+trumpet player	289
+Bing Crosby	290
+Sergey Prokofiev	291
+B.B. King	292
+Alicia Keys	293
+Tim Rice	294
+Neil Young	295
+Bruno Mars	296
+Charlie Parker	297
+Aretha Franklin	298
+house music	299
+electronic dance music	300
+classical music	301
+jazz	302
+film music	303
+gospel music	304
+R&B	305
+rock music	306
+pop music	307
+heavy metal	308
+soul music	309
+Andrew Lloyd Webber	310
+The Phantom of the Opera	311
+The Man Who Sold the World	312
+Heroes	313
+Hamilton	314
+In the Heights	315
+A Girl like Me	316
+Good Girl Gone Bad	317
+Proud Mary	318
+What Has Love Got to Do with It	319
+rhythm	320
+placement of sounds in time	321
+cantata	322
+scale	323
+mode	324
+conductor	325
+musical variation	326
+tuning	327
+band	328
+musical notation	329
+fugue	330
+throat singing	331
+Mongolia	332
+China	333
+Russia	334
+Europe	335
+America	336
+Africa	337
+Italy	338
+Germany	339
+France	340
+ensemble of musicians	341
+singing	342
+flute	343
+wind instrument	344
+keyboard instrument	345
+electronic instrument	346
+stringed instrument	347
+percussion instrument	348
+plucked string instrument	349
+wood	350
+musical key	351
+song	352
+trumpet	353
+brass	354
+violin	355
+piano	356
+harp	357
+lyre	358
+drum	359
+xylophone	360
+guitar	361
+bagpipe	362
+bell	363
+church	364
+electronic instruments	365
+pipa	366
+BBC	367
+British Broadcasting Corporation	368
+Glasgow	369
+Leeds	370
+Liverpool	371
+Birmingham	372
+San Francisco	373
+Los Angeles	374
+Berlin	375
+Disney Company	376
+Mickey Mouse	377
+National Broadcasting Co. Inc.	378
+Motorola, Inc.	379
+Philips Electronics NV	380
+WarnerMedia	381
+CBS Corporation	382
+HBO	383
+MTV	384
+PBS	385
+Late Show	386
+late-night talk show	387
+commercial broadcasting company	388
+manufacturer of wireless communications and electronic systems	389
+manufacturer of electronic components	390
+sketch comedy	391
+broadcasting system	392
+Mass-media company	393
+drama series	394
+American cable television company	395
+American musical comedy	396
+Shonda Rhimes	397
+producing Grey’s Anatomy	398
+Robert Bolt	399
+Tina Fey	400
+Sol Lesser	401
+Matt Groening	402
+Sven Nykvist	403
+David E. Kelley	404
+Lorne Michaels	405
+Edith Head	406
+John Bury	407
+Pixar Animation Studios	408
+Emeryville	409
+Chicago	410
+Washington	411
+Houston	412
+Lawrence of Arabia	413
+Broadway	414
+Manhattan	415
+Philadelphia	416
+puppetry	417
+making and manipulation of puppets	418
+creation and use of puppets	419
+acting	420
+performing arts	421
+design	422
+theatrical production	423
+stagecraft	424
+costumography	425
+mimicry	426
+imitation	427
+David Merrick	428
+theatrical producer	429
+actor	430
+puppeteer	431
+guitar player	432
+comedian	433
+shaman	434
+theatre designer	435
+playwright	436
+poet	437
+novelist	438
+Riyadh	439
+Saudi Arabia	440
+Buraydah	441
+Doha	442
+Al-Jubayl	443
+Al-Kharj	444
+Layla	445
+Medina	446
+Dubai	447
+Mecca	448
+Al-Dammām	449
+Istanbul	450
+Constantinople	451
+Asia	452
+Megara	453
+Bosporus	454
+Golden Horn	455
+Marmara	456
+Galata	457
+Hagia Sophia	458
+Ankara	459
+California	460
+Karachi	461
+Montreal	462
+Zürich	463
+Washington, D.C.	464
+Seoul	465
+Hamburg	466
+Quebec	467
+UK	468
+Switzerland	469
+Egypt	470
+Brazil	471
+Ukraine	472
+Eastern Europe	473
+Central Europe	474
+North America	475
+South America	476
+Oceania	477
+Antarctica	478
+Indochina	479
+New Delhi	480
+Hungary	481
+Austria	482
+Indonesia	483
+United Kingdom	484
+Malaysia	485
+South Africa	486
+Madagascar	487
+landlocked	488
+boot	489
+eagle	490
+rabbit	491
+hen	492
+pizza	493
+lake	494
+mountain	495
+tree	496
+rock	497
+Ancient Rome	498
+Tiber River	499
+Rhine	500
+Danube	501
+Euphrates	502
+north Africa	503
+Venice	504
+Carthage	505
+Alps	506
+Troy	507
+Lesbos	508
+Russian Empire	509
+Romanov dynasty	510
+Joseph Stalin	511
+Napoleon Bonaparte	512
+Ivan the Terrible	513
+Vladimir Lenin	514
+Mao Zedong	515
+Stenka Rabin	516
+Han dynasty	517
+Hapsburg dynasty	518
+House of Windsor	519
+German Empire	520
+Second Reich	521
+Nazi Germany	522
+Holy Roman Empire	523
+Prussia	524
+Bavaria	525
+the Netherlands	526
+The U.S.S.R.	527
+Soviet Union	528
+Pacific Crest Trail	529
+United States	530
+Whitehall	531
+King’s Highway	532
+Ho Chi Minh Trail	533
+Karakoram Highway	534
+Appian Way	535
+Unter den Linden	536
+Roman road system	537
+Silk Road	538
+Trans-Canada Highway	539
+Route 66	540
+highway	541
+motorway	542
+footpath	543
+river	544
+building	545
+mountain trail	546
+sea passage	547
+town street	548
+scenic trail	549
+gravel road	550
+country border	551
+Vietnam War	552
+Pakistan and China	553
+Pakistan and India	554
+India and Russia	555
+India and China	556
+Nepal and China	557
+Bangladesh and Kazakhstan	558
+Indonesia and India	559
+Nepal and India	560
+Afghanistan and India	561
+Afghanistan and Pakistan	562
+Aboriginal peoples	563
+Native American	564
+Plateau Indian	565
+Ancient Italic people	566
+South American nomad	567
+African American	568
+Maori	569
+Inuit	570
+Maya	571
+Mongol	572
+Ona	573
+islands of Tierra del Fuego	574
+Pampas	575
+Rio de la Plata	576
+Mato Grosso do Sul	577
+Gran Chaco	578
+Paraguay River	579
+Bering Strait	580
+Venezuela	581
+Alaska	582
+Oregon	583
+Navajo	584
+Native Americans	585
+Caucasian people	586
+Asian nomads	587
+enslaved people	588
+human communication by means of a set of visible marks	589
+literacy	590
+dialect	591
+speaking	592
+concept	593
+linguistics	594
+gestures	595
+paintings	596
+articulation	597
+English language	598
+Germanic language	599
+romance language	600
+slavic language	601
+celtic language	602
+Sino-tibetan language	603
+slang	604
+calligraphy	605
+Niger-Congo language	606
+Uralic language	607
+Hindi language	608
+Cantonese	609
+Chinese language	610
+Latin	611
+French	612
+Persian	613
+Finnish	614
+Swahili	615
+Arabic	616
+Spanish	617
+Sanskrit	618
+Hindi	619
+Mexico	620
+Portugal	621
+volcano	622
+molten rock	623
+lava	624
+continent	625
+iceberg	626
+canyon	627
+mesa	628
+island	629
+archipelago	630
+glacier	631
+massif	632
+Kilimanjaro	633
+landform that rises prominently above its surroundings	634
+hill	635
+ocean	636
+cave	637
+crater	638
+Mount Aconcagua	639
+Argentina	640
+Chile	641
+Uruguay	642
+Paraguay	643
+Nepal	644
+Arctic Ocean	645
+North Pole	646
+Great Pacific Garbage Patch	647
+Southern Ocean	648
+Atlantic Ocean	649
+Pacific Ocean	650
+Indian Ocean	651
+Nile	652
+Amazon	653
+Lake Ontario	654
+Lake Baikal	655
+Antarctic Ocean	656
+enormous continuous body of salt water	657
+Sequoia National Park	658
+Alberta	659
+Utah	660
+Colorado	661
+North Carolina	662
+Wyoming	663
+Norway	664
+Denali	665
+Mount McKinley	666
+Mount Everest	667
+Half Dome	668
+El Capitan	669
+Aconcagua	670
+Yellowstone	671
+Joshua Tree	672
+Clingmans Dome	673
+Elbrus	674
+Yosemite Valley	675
+Niagara Falls	676
+Old Faithful geyser	677
+Yellowstone National Park	678
+Denali National Park	679
+Banff National Park	680
+Yosemite National Park	681
+Zion National Park	682
+Mesa Verde National Park	683
+Great Smoky Mountains National Park	684
+Joshua Tree National Park	685
+Wrangell-Saint Elias National Park	686
+Queensland	687
+Minnesota	688
+Michigan	689
+Tibet	690
+Kentucky	691
+Taiwan	692
+Baltic states	693
+Maghreb	694
+North Africa	695
+Silicon Valley	696
+Palestine	697
+Uganda	698
+Arab peninsula	699
+Rocky Mountains	700
+Appalachians	701
+Caspian sea	702
+Central Asia	703
+Sub-Saharan Africa	704
+North Europe	705
+Southeast Asia	706
+Red Sea	707
+Mediterranean Sea	708
+Silicon valley	709
+San Francisco Bay	710
+Caspian Sea	711
+Wisconsin	712
+Midwest	713
+West Coast	714
+The Bible Belt	715
+Big Ben	716
+tower clock	717
+Machu Picchu	718
+Palace of Versailles	719
+Sydney Opera House	720
+Kruger National Park	721
+Mount Fuji	722
+Timbuktu	723
+Neuschwanstein Castle	724
+Taj Mahal	725
+Eiffel Tower	726
+Grand Canyon	727
+Colorado River	728
+Thames River	729
+Yangtze River	730
+Seine	731
+Elbe	732
+Volga River	733
+Danube River	734
+former French royal residence	735
+Tower of London	736
+San Diego Zoo	737
+Notre-Dame de Paris	738
+Windsor Castle	739
+Agra	740
+Peru	741
+Japan	742
+Toronto	743
+Mali	744
+brain	745
+learning of higher vertebrates	746
+mitochondrion	747
+human eye	748
+blood	749
+cell	750
+skeleton	751
+heart	752
+skin	753
+vitamin	754
+hormone	755
+aging	756
+dry skin	757
+age	758
+elastic skin	759
+brown hair	760
+quick healing	761
+increased liver mass	762
+better eyesight	763
+stronger bones	764
+stronger muscles	765
+better reaction time	766
+improved memory	767
+adenosine triphosphate	768
+ATP	769
+vacuole	770
+cell sap	771
+osmosis	772
+lysosome	773
+microbodies	774
+endoplasmic reticulum	775
+phospholipid	776
+Golgi apparatus	777
+nucleus	778
+eyelids	779
+cornea	780
+lens	781
+vitreous body	782
+iris	783
+digestive system	784
+bones	785
+ears	786
+teeth	787
+physiology	788
+functioning of living organisms and their cells	789
+anatomy	790
+meiosis	791
+zoology	792
+genetics	793
+physics	794
+morality	795
+psychology	796
+medicine	797
+motivation	798
+four sex cells	799
+blood type	800
+chromosomes	801
+mitosis	802
+two cells	803
+cytoplasm	804
+blood cells	805
+RNA	806
+immune system	807
+muscles	808
+saliva	809
+semen	810
+reflexes	811
+nerves	812
+urine	813
+acid	814
+human skeleton	815
+Alzheimer disease	816
+decline in memory	817
+anorexia nervosa	818
+bulimia	819
+renal system disease	820
+cardiovascular disease	821
+speech disorder	822
+poison	823
+cancer	824
+food allergy	825
+inflammation	826
+malnutrition	827
+obesity	828
+malignant tumors	829
+memory loss	830
+lung damage	831
+eyesight loss	832
+infectious disease	833
+bacteria	834
+eating disorders	835
+mental disorder	836
+nutritional disease	837
+heart and blood vessels	838
+memory	839
+eating habits	840
+urinary system	841
+mental impairment	842
+speech	843
+nutrition	844
+brains	845
+eyesight	846
+fatal effect on the body	847
+deadly consequences for the body	848
+food	849
+eye disease	850
+common cold	851
+paranoia	852
+schizophrenia	853
+water	854
+air	855
+uncontrolled growth of abnormal cells	856
+type of drug	857
+taste	858
+nose	859
+respiratory system	860
+humans and apes	861
+common ancestors	862
+chains	863
+same diet	864
+same beliefs	865
+gone extinct	866
+same genes	867
+evolved one from another	868
+children together	869
+adapted to space life	870
+three eyes	871
+speciation	872
+formation of new and distinct species	873
+missing link	874
+darwinism	875
+adaptation	876
+possession	877
+human evolution	878
+change	879
+anthropoid progenitors	880
+study	881
+modern humans	882
+australopithecus	883
+homo sapiens	884
+chimpanzees	885
+orangutans	886
+birds	887
+dinosaurs	888
+dirt	889
+mammoths	890
+trees	891
+mushrooms	892
+clay	893
+evolution	894
+natural selection	895
+hunger	896
+science	897
+environment	898
+heredity	899
+inheritance of acquired characters	900
+knowledge	901
+kindness	902
+explanations	903
+children	904
+parents	905
+kids	906
+neighbors	907
+twins	908
+diagnosis	909
+treatment	910
+micrographs	911
+egg	912
+books	913
+species fitting to their environment	914
+mosaic	915
+biology	916
+walking	917
+lineage	918
+albinism	919
+absence of pigment	920
+upright walking	921
+explantion for organic change	922
+hypothetical extinct creature	923
+splitting of an evolutionary line	924
+inheritance of characteristics	925
+theory by Charles Darwin	926
+fitting to environment	927
+cells with a clearly defined nucleus	928
+vitamins	929
+human body	930
+carbohydrates	931
+lipids	932
+fats	933
+disease	934
+bone cells	935
+neurons	936
+proteins	937
+hygene	938
+exercise	939
+monosaccharides	940
+minerals	941
+mental hygiene	942
+psychosis	943
+public health	944
+human nutrition	945
+metabolism	946
+physical culture	947
+energy provided by food	948
+Calories	949
+degrees Celsius	950
+newtons	951
+calorimeter	952
+alcohol	953
+physical activity	954
+warm-up	955
+endurance	956
+consumption of excessive calories	957
+stomach	958
+human digestive system	959
+lungs	960
+rib cage	961
+fruits	962
+dairy	963
+fitness	964
+infancy	965
+acquisition of language	966
+learning of human language	967
+birth	968
+adolescence	969
+understanding numbers	970
+empathy	971
+pain	972
+enhancement of social skills	973
+puberty	974
+sex urges	975
+old age	976
+average newborn infant	977
+3.4 kg	978
+7.5 pounds	979
+average teenager	980
+average adult man	981
+average adult woman	982
+average toddler	983
+typical elder man	984
+typical parent	985
+average child	986
+body cell	987
+human tooth	988
+senescence	989
+demography	990
+adulthood	991
+parenting	992
+human aging	993
+childhood	994
+life cycle	995
+hearing	996
+infants	997
+vision	998
+cognitive abilities	999
+emotional intelligence	1000
+dancing	1001
+taste in music	1002
+talking	1003
+gerontology	1004
+study of aging	1005
+study of death	1006
+study of infancy	1007
+childhood development	1008
+phase of adolescence	1009
+type of fat	1010
+blood clot	1011
+type of enzyme	1012
+the process of raising children	1013
+dentistry	1014
+treatment of oral diseases	1015
+vaccine	1016
+nursing	1017
+pediatrics	1018
+birth control	1019
+cloning	1020
+drugs	1021
+surgery	1022
+therapeutics	1023
+vaccines	1024
+injection	1025
+pills	1026
+spray	1027
+dentists	1028
+nasal swab	1029
+syrup	1030
+antibiotics	1031
+transplants	1032
+helping the injured and sick	1033
+transplantation	1034
+intimacy	1035
+cholera	1036
+human reproduction	1037
+oral diseases	1038
+microorganisms	1039
+care of the sick	1040
+acute injures	1041
+drug use	1042
+bacterial infections	1043
+bacterial diseases	1044
+syphilis	1045
+phospholipids	1046
+X-rays	1047
+20th century	1048
+Roentgen rays	1049
+19th century	1050
+21th century	1051
+18th century	1052
+middle ages	1053
+antics	1054
+ancient Egypt	1055
+Hellenistic Greece	1056
+22th century	1057
+ancient Rome	1058
+hospital	1059
+Sigmund Freud	1060
+psychoanalysis	1061
+therapy	1062
+Antisemitism	1063
+politics	1064
+cocaine	1065
+internal medicine	1066
+Carl Jung	1067
+analytic psychology	1068
+Daniel Kahneman	1069
+Anna Freud	1070
+Gestalt psychology	1071
+Ego	1072
+G. Stanley Hall	1073
+Charles Darwin	1074
+Eugen Bleuler	1075
+Herbert Read	1076
+modern study of perception	1077
+modern economics	1078
+neuroticism	1079
+dissociative disorder	1080
+anxiety disorder	1081
+phenomenology	1082
+humanism	1083
+child psychoanalysis	1084
+Attachment theory	1085
+John Bowlby	1086
+confirmation bias	1087
+tendency to process information that is consistent with your beliefs	1088
+background	1089
+attachment theory	1090
+human personality	1091
+body	1092
+disorder	1093
+language processing	1094
+ethic considerations	1095
+inferiority complex	1096
+distance learning	1097
+online learning	1098
+discipline	1099
+teaching	1100
+military	1101
+higher education	1102
+in-person learning	1103
+internet	1104
+electronic communications	1105
+education	1106
+school	1107
+museum	1108
+fields	1109
+forest	1110
+cinema	1111
+court	1112
+music hall	1113
+observatory	1114
+theater	1115
+teacher	1116
+researcher	1117
+lawyer	1118
+nurse	1119
+writer	1120
+president	1121
+priest	1122
+medic	1123
+engineer	1124
+farmer	1125
+legal education	1126
+preparation for the practice of law	1127
+philosophy of education	1128
+progressive movement in education	1129
+development of modern architecture	1130
+discipline concerned with methods of teaching	1131
+learning over the internet	1132
+education during the earliest phases of childhood	1133
+any of various types of education given in postsecondary institutions	1134
+oldest English-language general encyclopaedia	1135
+education required for the prevention and treatment of the disease	1136
+preschool education	1137
+entry into primary school	1138
+teacher education	1139
+medical education	1140
+architectural education	1141
+pragmatism	1142
+democracy	1143
+US independence day	1144
+July 4	1145
+fourth of July	1146
+September 29	1147
+May 1	1148
+December 6	1149
+October 6	1150
+May 12	1151
+December 31	1152
+January 1	1153
+February 4	1154
+December 25	1155
+Holocaust remembrance days	1156
+victims of Nazi Germany�s genocidal policies	1157
+Independence Day	1158
+World Heart Day	1159
+Labor Day	1160
+Halloween	1161
+New Year Festival	1162
+World Cancer Day	1163
+Remembrance Sunday	1164
+Thanksgiving Day	1165
+Gay Pride	1166
+All Saints’ Day	1167
+red poppy	1168
+Thanksgiving Day 	1169
+USA and Canada	1170
+United States of America and Canada	1171
+Christmas	1172
+Martin Luther King, Jr.	1173
+end of segregation of African Americans	1174
+female right to vote	1175
+the rule of law	1176
+end of second world war	1177
+Indian independence	1178
+women’s suffrage	1179
+rights of disabled persons	1180
+ban of nuclear weapons	1181
+American independence	1182
+German reunification	1183
+feminism	1184
+belief in social, economic, and political equality of the sexes	1185
+Human Rights Watch	1186
+Magna Carta	1187
+United Nations	1188
+Rights of Disabled Persons	1189
+human rights	1190
+chauvinism	1191
+sexism	1192
+Anti-semitism	1193
+King John	1194
+William I	1195
+Pope Alexander II	1196
+King Henry	1197
+Queen Victoria	1198
+Viola Desmond	1199
+Mahatma Gandhi	1200
+Elizabeth Cady Stanton	1201
+League of Nations	1202
+Feminism	1203
+Declaration on the Rights of Disabled Persons	1204
+Human Rights	1205
+Cold War	1206
+Universal Declaration of Human Rights	1207
+Roman Catholic Church	1208
+late 1820s gold rush	1209
+Trail of Tears	1210
+Highland Clearances	1211
+Hijrah	1212
+Chinese Exclusion Act	1213
+Operation Wetback	1214
+Genographic Project	1215
+Homestead Act of 1862	1216
+Edict of Nantes	1217
+Russian Revolution	1218
+Scotland	1219
+Potato Famine	1220
+Muhammad	1221
+Indians	1222
+Cherokee	1223
+Chickasaw	1224
+Scots	1225
+Syrian refugees	1226
+Americans	1227
+Chinese	1228
+Andrew Jackson	1229
+Abraham Lincoln	1230
+immigration	1231
+process through which individuals become permanent residents of another country	1232
+asylum	1233
+refuge	1234
+emigration	1235
+diaspora	1236
+exclusion	1237
+human migration	1238
+draft	1239
+nationalism	1240
+mass deportation of Mexican nationals	1241
+refugee	1242
+involuntary migrant who has crossed a frontier	1243
+prophet	1244
+soldier	1245
+migrant	1246
+emigrant	1247
+European	1248
+Chinese exclusion	1249
+Don’t Ask, Don’t Tell policy	1250
+Bill Clinton	1251
+Barack Obama	1252
+Sam Nunn	1253
+Robert Gibbs	1254
+Joe Biden	1255
+Dan Coats	1256
+Larry Kramer	1257
+Magnus Hirschfeld	1258
+Edmund White	1259
+Harry Hay	1260
+Same-sex marriage	1261
+practice of marriage between two men or between two women	1262
+homosexual marriage	1263
+homosexuality	1264
+group marriage	1265
+Islam	1266
+discrimination	1267
+heterosexual marriage	1268
+civil union	1269
+adoption	1270
+Stonewall riots	1271
+gay rights movement	1272
+homosexual rights movement	1273
+civil rights movement	1274
+feminist movement	1275
+same-sex marriage	1276
+Wolfenden report	1277
+AIDS crisis	1278
+criminalization of sexual conduct between two consenting adults of the same sex	1279
+ancient Greece	1280
+Judaism	1281
+Christianity	1282
+Islamic law	1283
+early 20-th century America	1284
+WWII	1285
+The Washington Post	1286
+Los Angeles Times	1287
+The North Star	1288
+National Enquirer	1289
+Chicago Tribune	1290
+New Pittsburgh Courier	1291
+The Times	1292
+Hansard	1293
+The New York Times	1294
+Associated Press	1295
+English	1296
+German	1297
+Russian	1298
+Hindu	1299
+Japanese	1300
+Turkish	1301
+Portuguese	1302
+newspaper	1303
+daily news	1304
+parliament	1305
+book	1306
+comic strip	1307
+crossword puzzle	1308
+magazine	1309
+hacker	1310
+slavery	1311
+company	1312
+Pittsburgh	1313
+Minneapolis	1314
+Commonwealth	1315
+Crimea	1316
+Sydney	1317
+tabloid	1318
+supermarket	1319
+condition in which one human being was owned by another	1320
+revolution	1321
+woman	1322
+fugitive	1323
+civil war	1324
+human trafficking	1325
+decision	1326
+rebellion	1327
+musician	1328
+American Civil War	1329
+four years	1330
+two years	1331
+6 days	1332
+a century	1333
+13 years	1334
+a lifetime	1335
+three centuries	1336
+one hour	1337
+twelve years	1338
+a millennium	1339
+fugitive slave	1340
+Comfort women	1341
+Dred Scott	1342
+confederate soldiers	1343
+Mark Twain	1344
+Huckleberry Finn	1345
+gladiator	1346
+John C. Calhoun	1347
+Plutarch	1348
+Twelve Years a Slave	1349
+Solomon Northup	1350
+Bartolome de Las Casas	1351
+Toussaint Louverture	1352
+Walter Hawkins	1353
+Harriet Tubman	1354
+Henry Box Brown	1355
+Spartacus	1356
+Claudius Pulcher	1357
+Karl Marx	1358
+communism	1359
+anarchism	1360
+new liberalism	1361
+progressivism	1362
+capitalism	1363
+liberalism	1364
+racism	1365
+monarchism	1366
+feudalism	1367
+Anarchism	1368
+government is both harmful and unnecessary	1369
+formal process of selecting a person for public office	1370
+election	1371
+dictatorship	1372
+militarism	1373
+totalitarianism	1374
+Democracy	1375
+rule by the people	1376
+Oliver Cromwell	1377
+English Civil War	1378
+The Great War	1379
+Second World War	1380
+War of Independence	1381
+Korean War	1382
+French Revolution	1383
+Balkan Wars	1384
+Emma Goldman	1385
+international anarchist	1386
+Vladimir I. Lenin	1387
+Gloria Steinem	1388
+Abby Hadassah Smith	1389
+Adolf Hitler	1390
+Benito Mussolini	1391
+sociology	1392
+social science	1393
+social movement	1394
+community	1395
+human	1396
+behavior	1397
+institution	1398
+economic system	1399
+crime	1400
+criminology	1401
+nonlegal aspects of crime	1402
+anthropology	1403
+police brutality	1404
+social service	1405
+governance	1406
+globalization	1407
+cultural anthropology	1408
+archaeology	1409
+language	1410
+human society	1411
+governmental system	1412
+chemicals	1413
+material remains of past human life	1414
+medicare	1415
+health insurance for the elderly	1416
+medicaid	1417
+kinship	1418
+government programs	1419
+heroic poetry	1420
+deeds of aristocratic warriors and rulers	1421
+fable	1422
+ballad	1423
+minstrel	1424
+proverb	1425
+praise song	1426
+folk literature	1427
+The Thousand and One Nights	1428
+Brothers Grimm	1429
+riddle	1430
+vampire	1431
+human blood	1432
+corpses	1433
+human heart	1434
+fire	1435
+holy water	1436
+sunlight	1437
+garlic	1438
+animals	1439
+narrative form, usually featuring animals that behave and speak as human beings	1440
+The Little Prince	1441
+Antoine de Saint-Exup�ry	1442
+Jean de La Fontaine	1443
+Zora Neale Hurston	1444
+Bjørnstjerne Martinius Bjørnson	1445
+Erasmus	1446
+Mike Fink	1447
+Heinrich August Ossenfelder	1448
+Lord Byron	1449
+Bram Stoker	1450
+Ali Baba	1451
+Dracula	1452
+Tristan and Isolde	1453
+The Maid Freed from the Gallows	1454
+Lord Randal	1455
+The Loves of Cupid and Psyche	1456
+Mule Bone	1457
+Their Eyes Were Watching God	1458
+Beowulf	1459
+James Bond	1460
+spy	1461
+secret agent	1462
+superhero	1463
+prince	1464
+detective	1465
+wizard	1466
+businessman	1467
+inventor	1468
+Don Quixote	1469
+Sancho Panza	1470
+La Mancha	1471
+Dale Wasserman	1472
+Miguel de Cervantes	1473
+Thor	1474
+Richard III	1475
+Sherlock Holmes	1476
+Hercule Poirot	1477
+Denmark	1478
+Rome	1479
+Belgium	1480
+Batman	1481
+Harry Potter	1482
+Iron Man	1483
+Amy Goodman	1484
+Democracy Now! The War and Peace Report	1485
+Today	1486
+Audition	1487
+Late Night Talk Show	1488
+The View	1489
+CBS Reports	1490
+60 Minutes	1491
+CBS Evening News	1492
+The Morning Show	1493
+Stone’s Weekly	1494
+Walter Cronkite	1495
+the most trusted man in America	1496
+Dan Rather	1497
+Barbara Walters	1498
+Bob Woodward	1499
+Seymour Hersh	1500
+Tim Russert	1501
+Hunter S. Thompson	1502
+Edward R. Murrow	1503
+I. F. Stone	1504
+Joseph Moses Levy	1505
+Watergate Scandal	1506
+assassination of John F. Kennedy	1507
+U.S.-led invasion of Iraq	1508
+September 11 attacks	1509
+Afghanistan War	1510
+Donald Trump’s presidency	1511
+American Civil Rights Movement	1512
+National Association for the Advancement of Colored People	1513
+Dorothy Thompson	1514
+first American correspondent to be expelled from Nazi Germany	1515
+almanac	1516
+astronomy	1517
+printing	1518
+sociobiology	1519
+geology	1520
+mineralogy	1521
+lexicography	1522
+botanics	1523
+dictionary	1524
+reference book that lists words in order and gives their meanings	1525
+library	1526
+atlas	1527
+letter	1528
+photograph	1529
+painting	1530
+drawing	1531
+journal	1532
+Bible	1533
+Library of Alexandria	1534
+Greece	1535
+Macedonia	1536
+Gaul	1537
+Athens	1538
+Rhodes	1539
+Byzantium	1540
+Jerusalem	1541
+Avicenna	1542
+medieval Islamic world	1543
+Pliny the Elder	1544
+Carolus Linnaeus	1545
+Paracelsus	1546
+Georgius Agricola	1547
+Ptolemy	1548
+Al-Bīrūnī	1549
+Asa Gray	1550
+Herodotus	1551
+Plato	1552
+Avesta	1553
+Zoroastrianism	1554
+Buddhism	1555
+Confucianism	1556
+Greek pagan religion	1557
+Roman pre-Christian religion	1558
+Hinduism	1559
+Dante Alighieri	1560
+Divine Comedy	1561
+Dino Frescobaldi	1562
+Guido Guinizelli	1563
+Cecco Angiolieri	1564
+Giovanni Boccaccio	1565
+Luigi Pirandello	1566
+Lorenzo de Medici	1567
+Giordano Bruno	1568
+Niccolo Machiavelli	1569
+Pope Leo XIII	1570
+Leo Tolstoy	1571
+Book of Revelation	1572
+The Song of Igor�s Campaign	1573
+Yevgeny Onegin	1574
+Ruslan and Ludmila	1575
+Death of a Poet	1576
+Crime and Punishment	1577
+The Possessed	1578
+The Brothers Karamazov	1579
+The Inspector General	1580
+Oscar Wilde	1581
+James Joyce	1582
+Meja Mwangi	1583
+Adonis	1584
+Franz Kafka	1585
+Friedrich Nietzsche	1586
+Thus Spoke Zarathustra	1587
+Heinrich Hart	1588
+Johann Wolfgang von Goethe	1589
+Friedrich Schiller	1590
+Gotthold Ephraim Lessing	1591
+Rainer Maria Rilke	1592
+Thomas Mann	1593
+Heinrich Heine	1594
+Oskar Kokoschka	1595
+Charles Baudelaire	1596
+The Flowers of Evil	1597
+George Bernard Shaw	1598
+T. S. Elliot	1599
+Samuel Johnson	1600
+Virginia Woolf	1601
+Paul de Man	1602
+Samuel Taylor Coleridge	1603
+Eugène Delacroix	1604
+Pierre-Joseph Proudhon	1605
+Edgar Allan Poe	1606
+University of Oxford	1607
+University of Cambridge	1608
+École Polytechnique	1609
+Harvard University	1610
+University College Dublin	1611
+Conrell University	1612
+Yale University	1613
+New York University	1614
+Princeton University	1615
+Imperial College London	1616
+Joseph de Maistre	1617
+Victor Hugo	1618
+evaluation of literary works	1619
+literary critic	1620
+merchant	1621
+mathematician	1622
+romantic	1623
+bookbinder	1624
+philosopher	1625
+linguist	1626
+liberal	1627
+historian	1628
+novel	1629
+invented prose narrative of considerable length and complexity	1630
+tragedy	1631
+sonnet	1632
+haiku	1633
+epic	1634
+metaphor	1635
+autobiography	1636
+Medieval England	1637
+Medieval Spain	1638
+Persia	1639
+Ancient Egypt	1640
+Tuscany	1641
+three lines	1642
+14 lines	1643
+hundreds of pages	1644
+multiple books	1645
+one punchline	1646
+a couple of words	1647
+three days	1648
+17 syllables	1649
+one scroll	1650
+journalism	1651
+collection and distribution of news	1652
+diary	1653
+prose	1654
+essay	1655
+blog	1656
+report	1657
+epitaph	1658
+scientific papers	1659
+biography	1660
+The Diary of Anne  Frank	1661
+World War I	1662
+sixties	1663
+beginning of 17th century	1664
+age of enlightenment	1665
+lunch	1666
+Napoleonic Wars	1667
+web	1668
+The Abolition of Man	1669
+C. S. Lewis	1670
+Anne Frank	1671
+Betty Friedan	1672
+Rachel Carson	1673
+Petrarch	1674
+James Boswell	1675
+The Great Gatsby	1676
+Jazz Age	1677
+A Farewell to Arms	1678
+The Castle of Otranto	1679
+Emma	1680
+The Hunchback of Notre Dame	1681
+Ulysses	1682
+Around the World in Eighty Days	1683
+Catch-22	1684
+All Quiet on the Western Front	1685
+graphic novel	1686
+words and images	1687
+pictures and writing	1688
+sound and video	1689
+music and images	1690
+words and taste	1691
+discipline and order	1692
+cave paintings	1693
+science and fiction	1694
+war and peace	1695
+religions	1696
+games	1697
+Ernest Hemingway	1698
+Lawrence Hill	1699
+F. Scott Fitzgerald	1700
+Horace Walpole	1701
+J. D. Salinger	1702
+H. G. Wells	1703
+Jules Verne	1704
+Jane Austen	1705
+American South	1706
+American Revolutionary War	1707
+Oratory	1708
+the rationale and practice of persuasive public speaking	1709
+poetry	1710
+law	1711
+theology	1712
+monasticism	1713
+resistance	1714
+Demosthenes	1715
+Alexander the Great	1716
+Aristotle	1717
+Oedipus	1718
+Sophocles	1719
+Patrick Henry	1720
+John Bright	1721
+Cicero	1722
+Isocrates	1723
+Give me liberty or give me death!	1724
+George Washington	1725
+John Donne	1726
+Daniel Webster	1727
+Winston Churchill	1728
+Sarah Shelton	1729
+King George III	1730
+Caesar	1731
+Charles the First	1732
+Tacitus	1733
+Germania	1734
+Turkey	1735
+Ohio River Valley	1736
+Waiting for Godot	1737
+Vladimir and Estragon	1738
+Henry IV	1739
+Pygmalion	1740
+The Seagull	1741
+Our Town	1742
+Oedipus Rex	1743
+A Raisin in the Sun	1744
+Macbeth	1745
+Faust	1746
+William Shakespeare	1747
+Henrik Ibsen	1748
+Anton Chekhov	1749
+Thornton Wilder	1750
+Lorraine Hansberry	1751
+Arthur Miller	1752
+Samuel Beckett	1753
+Mephistopheles	1754
+Helen of Troy	1755
+Goethe	1756
+Godot	1757
+Peter Pan	1758
+A Doll’s House	1759
+Norwegian	1760
+Italian	1761
+Swedish	1762
+Danish	1763
+Greek	1764
+Old English	1765
+Odyssey	1766
+Bhagavadgita	1767
+Mahabharata	1768
+Ramayana	1769
+Iliad	1770
+The Divine Comedy	1771
+The Raven	1772
+The Rime of the Ancient Mariner	1773
+The Waste Land	1774
+poem	1775
+ballade	1776
+utopian poetry	1777
+metre	1778
+Songs of Innocence and of Experience	1779
+Leaves of Grass	1780
+Howl	1781
+Homer	1782
+Odysseus	1783
+Telemachus	1784
+George Chapman	1785
+Alexander Pope	1786
+Robert Fitzgerald	1787
+Margaret Atwood	1788
+Edgar Alan Poe	1789
+Romulus and Remus	1790
+Rhea Silvia	1791
+Vestal Virgins	1792
+Numitor and Amulius	1793
+Faustulus and Acca Larentia	1794
+Titus Tatius	1795
+Jupiter and Juno	1796
+Homer and Hesiod	1797
+Heracleitus and Ephesus	1798
+Apollo and Minerva	1799
+Greek Gods	1800
+Mount Olympus	1801
+Gods of Greece	1802
+Indus River	1803
+Spain	1804
+Mediterranean	1805
+Crete	1806
+Gaea	1807
+Mycenae	1808
+Parthenon	1809
+Delphi	1810
+Tiamat	1811
+Babylonian epic of creation	1812
+Theseus	1813
+Naram-Sin	1814
+Ur	1815
+Marduk	1816
+Abraham	1817
+Thoth	1818
+Gilgamesh	1819
+Apsu	1820
+Ragnarök	1821
+end of the world	1822
+destruction of the world	1823
+beginning of the world	1824
+history of Iceland	1825
+magic charms	1826
+Viking age	1827
+Odin’s erotic affairs	1828
+world tree Yggdrasill	1829
+Nordic pantheon	1830
+contest of wits between Odin and an immensely wise giant	1831
+traditional Germanic heroes	1832
+Osiris	1833
+Egyptian religion	1834
+religion of ancient Egyptians	1835
+Odin	1836
+Zeus	1837
+Juno	1838
+Zarathustra	1839
+Mithra	1840
+Perkūnas	1841
+Saule	1842
+what is morally right and wrong	1843
+normative ethics	1844
+theoretical ethics	1845
+metaethics	1846
+mathematics	1847
+ethical relativism	1848
+hedonism	1849
+primitivism	1850
+legal ethics	1851
+utilitarianism	1852
+bioethics	1853
+altruism	1854
+good of others	1855
+egoism	1856
+biocentrism	1857
+epicureanism	1858
+animal rights	1859
+moral responsibility	1860
+return to the simple life	1861
+John Stuart Mill	1862
+historiography	1863
+writing of history	1864
+chronology	1865
+art criticism	1866
+epigraphy	1867
+economics	1868
+written matter on hard material	1869
+human mind	1870
+human societies	1871
+language and their development	1872
+time and event sequence	1873
+human behavior	1874
+animal body	1875
+material evidence of humankind	1876
+laboratory	1877
+store	1878
+temple	1879
+events in time	1880
+cosmic phenomena	1881
+evolution of Earth	1882
+evolution of life	1883
+historical literature	1884
+human bodies	1885
+religious beliefs	1886
+lands of an empire	1887
+pieces of food	1888
+works of art	1889
+pieces of art	1890
+Voltaire	1891
+Geneva	1892
+Sardinia	1893
+Annaba	1894
+Trier	1895
+Adam Smith	1896
+An Inquiry into the Nature and Causes of the Wealth of Nations	1897
+Jean-Jacques Rousseau	1898
+Socrates	1899
+John Locke	1900
+Noam Chomsky	1901
+Immanuel Kant	1902
+Georg  Wilhelm Friedrich Hegel	1903
+René Descartes	1904
+St. Thomas Aquinas	1905
+Noah Chomsky	1906
+Niccolò Machiavelli	1907
+United States of America	1908
+Thomas Hobbes	1909
+Francis Bacon	1910
+immoral cynic	1911
+religious zealot	1912
+good lawyer	1913
+poor scholar	1914
+revolutionary	1915
+pope	1916
+successful commander	1917
+Daoism	1918
+formal logic	1919
+epistemology	1920
+Indian philosophy	1921
+philosophical speculations about the concepts, methods, and theories of the physical sciences	1922
+philosophy of physics	1923
+philosophy of biology	1924
+metaphysics	1925
+philosophy of art	1926
+aesthetics	1927
+applied logic	1928
+George Boole 	1929
+Eastern Orthodoxy	1930
+Eschatology	1931
+Roman Catholicism	1932
+Sikhism	1933
+Mesopotamian religion	1934
+Paganism	1935
+ancient Hebrews	1936
+Romans	1937
+Ancient Greeks	1938
+Ancient Egyptians	1939
+Babylonians	1940
+Christians	1941
+Ancient Chinese	1942
+former Soviet countries	1943
+Sikhs	1944
+The Roman Catholic Church	1945
+Jesus Christ and the Apostles	1946
+Punjab region	1947
+Ancient Greece	1948
+Indus valley	1949
+Vietnam	1950
+Korea	1951
+Martin Luther	1952
+Protestant Reformation	1953
+St. John Paul II	1954
+John Calvin	1955
+Absalom	1956
+St. Augustine	1957
+St. Joan of Arc	1958
+Moses	1959
+Adam and Eve	1960
+St. Paul the Apostle	1961
+Poland	1962
+Israel	1963
+Maid of Orleans	1964
+Exodus	1965
+Dome of the Rock	1966
+left bank of Ganges	1967
+Cambodia	1968
+Bethlehem	1969
+Vatican	1970
+Serapeum	1971
+Serapis	1972
+Ramses II	1973
+Auguste Mariette	1974
+Jesus Christ	1975
+Yahweh	1976
+Buddha	1977
+St. Peter	1978
+Allah	1979
+Lotus Temple	1980
+Varanasi	1981
+Angkor Wat	1982
+Western Wall	1983
+Lumbini	1984
+Church of the Holy Sepulchre	1985
+St. Peter’s Basilica	1986
+Harmandir Sahib	1987
+Mahabodhi Temple	1988
+Queen Maha Maya	1989
+Anton Bruckner	1990
+Ave Maria	1991
+Ludwig van Beethoven	1992
+Luigi Boccherini	1993
+Franz Liszt	1994
+Igor Stravinsky	1995
+Franz Schubert	1996
+Gospel music	1997
+Thomas Tallis	1998
+Spem in alium nunquam habui	1999
+Oratorio	2000
+17th century	2001
+15th century	2002
+21st century	2003
+14th century	2004
+5th century	2005
+golden age of Islam	2006
+Dead Sea Scrolls	2007
+Hebrew	2008
+Shruti	2009
+Qurʾān	2010
+Synoptic Gospels	2011
+Smriti	2012
+Aranyakas	2013
+Atharvaveda	2014
+Hindu religion	2015
+Torah	2016
+Talmud and Midrash	2017
+angel Gabriel	2018
+Prophet Muhammad	2019
+God	2020
+Adam	2021
+Jesus	2022
+Mary	2023
+Joseph	2024
+act of communication by humans with the sacred or holy	2025
+nature worship	2026
+worship	2027
+mysticism	2028
+Rite of passage	2029
+Hell	2030
+Liji	2031
+Sacrifice	2032
+Miracle	2033
+miracle	2034
+supernatural event	2035
+mythology	2036
+shamanism	2037
+salvation	2038
+revelation	2039
+journey to heaven	2040
+sacrament	2041
+thunder and lightning	2042
+beneath Earth	2043
+Heaven	2044
+legends	2045
+Confucius	2046
+Zhu Xi	2047
+art market	2048
+labour	2049
+logistics	2050
+taxes	2051
+salary	2052
+property	2053
+insurance	2054
+machines	2055
+accounting	2056
+market advice	2057
+international payment and exchange	2058
+foreign exchange	2059
+organized labour	2060
+exchange of property	2061
+business finance	2062
+income tax	2063
+commodity trade	2064
+coin	2065
+metal	2066
+bank note	2067
+barrel	2068
+bank	2069
+turtles	2070
+spices	2071
+governmental revenue	2072
+banks	2073
+coping with risk	2074
+automation	2075
+wage	2076
+trade	2077
+money market	2078
+European Union	2079
+Slovenia	2080
+Serbia	2081
+Tunisia	2082
+Iceland	2083
+money	2084
+economic exchange	2085
+Jeff Bezos	2086
+Microsoft	2087
+Facebook	2088
+Apple	2089
+Google	2090
+J.P. Morgan	2091
+Trump Hotels	2092
+Oracle	2093
+News Corporation	2094
+Theranos	2095
+Cecil Rhodes	2096
+De Beers Mining Company	2097
+Nawaz Sharif	2098
+Indra Nooyi	2099
+Melinda Gates	2100
+Steve Jobs	2101
+Warren Buffet	2102
+Charles Koch	2103
+Rupert Murdoch	2104
+investor	2105
+CEO	2106
+president of USA	2107
+artist	2108
+fortuneteller	2109
+programmer	2110
+mannequin	2111
+Henry Ford	2112
+use of assembly-line methods in factory production	2113
+George M. Pullman	2114
+Ursula Burns	2115
+Xerox corporation	2116
+Wells, Fargo & Company	2117
+PepsiCo	2118
+Donald Trump	2119
+Great Depression	2120
+1929	2121
+1939	2122
+2007	2123
+1932	2124
+1928	2125
+1933	2126
+1937	2127
+1942	2128
+1924	2129
+2001	2130
+government budget	2131
+forecast of expenditures and revenues of the government	2132
+industrial relations	2133
+international trade	2134
+socialism	2135
+marketing	2136
+to promote and facilitate exchange	2137
+theft	2138
+trade unionism	2139
+Christian Democratic Union	2140
+Weimar Republic	2141
+Finland	2142
+negotiation	2143
+diplomacy	2144
+arms race	2145
+arms control	2146
+economic development	2147
+nature	2148
+jewish tribes	2149
+colonialism	2150
+Hussein-McMahon correspondence	2151
+American revolution	2152
+competitive acquisition of military capabilities	2153
+intelligence	2154
+Paris Agreement	2155
+2015	2156
+2016	2157
+2014	2158
+2021	2159
+1992	2160
+1997	2161
+2025	2162
+2005	2163
+2030	2164
+2050	2165
+spies	2166
+military intelligence	2167
+secret agents	2168
+missile crisis	2169
+International Monetary Fund	2170
+canon law	2171
+Christian Churches	2172
+police	2173
+ancient Babylon	2174
+socially harmful	2175
+detrimental to the society	2176
+land reform	2177
+commercial transaction	2178
+inheritance	2179
+private property	2180
+government	2181
+international law	2182
+Jeremy Bentham	2183
+Hugo Grotius	2184
+Mohamed ElBaradei	2185
+Christine Lagarde	2186
+Baltasar Garzon	2187
+Robert Lansig	2188
+Fyodor Fyodorovich Martens	2189
+Henri La Fontaine	2190
+Nikolaos Sokrates Politis	2191
+David Hunter Miller	2192
+police forces	2193
+constitution	2194
+members of parliament	2195
+philosophers	2196
+tort	2197
+criminal disputes	2198
+succession	2199
+howitzers	2200
+artillery	2201
+Wehrmacht	2202
+French Foreign Legion	2203
+Navy	2204
+War college	2205
+Intelligence	2206
+military aircraft	2207
+tank	2208
+archer	2209
+Luftwaffe	2210
+SS	2211
+Kosovo Liberation Army	2212
+Army of Tennessee	2213
+The United States Airforce	2214
+The United States Navy	2215
+Kriegsmarine	2216
+Heer	2217
+90s	2218
+KLA	2219
+European Middle Ages	2220
+The Iraq War	2221
+conscripting volunteers from any nation	2222
+Harlem Hellfighters	2223
+Knighthood	2224
+Swiss Regiments	2225
+British Army	2226
+tanks	2227
+medieval knight	2228
+cavalry warrior	2229
+howitzer	2230
+aircraft	2231
+shield bearer	2232
+mortar	2233
+submarine	2234
+aircraft carrier	2235
+war college	2236
+first conscription system	2237
+Napoleon	2238
+Alexander II	2239
+Edward Douglass White	2240
+Franklin D. Roosevelt	2241
+Theodore Roosevelt	2242
+Roman Republic	2243
+Imperial Japan	2244
+Marxism	2245
+Election	2246
+libertarianism	2247
+Fascism	2248
+Zapatista National Liberation Army	2249
+Zapatistas	2250
+1920	2251
+Warsaw Pact	2252
+NATO	2253
+Fascist	2254
+Marxist	2255
+Anarchist	2256
+Socialist	2257
+Communist	2258
+Monarchist	2259
+Liberal	2260
+leader in French Revolution	2261
+Pacifist	2262
+political party	2263
+to acquire and exercise political power	2264
+public administration	2265
+pacifist	2266
+worker	2267
+voter	2268
+Dallas	2269
+Charles de Gaulle	2270
+Peter I	2271
+George W. Bush	2272
+Frederick II	2273
+Alexander Hamilton	2274
+France’s Fifth Republic	2275
+Reichstag	2276
+Ottoman Empire	2277
+Republic of Turkey	2278
+British Empire	2279
+British Parliament	2280
+France’s Fourth Republic	2281
+Iraq War	2282
+Philip of Macedon	2283
+Epirus	2284
+Genghis Khan	2285
+Kemal Atatürk	2286
+Nikita Khrushchev	2287
+Chinggis Khan	2288
+Otto von Bismarck	2289
+Austria-Hungary	2290
+Neil Armstrong	2291
+set foot on the Moon	2292
+step on the Moon	2293
+Valentina Tershkova	2294
+Michael Collins	2295
+Edwin E. Aldrin	2296
+Yuri Gagarin	2297
+Valery Vladimirovich Polyakov	2298
+John Glenn	2299
+Mark Kelly	2300
+Dennis Tito	2301
+Sergey Volkov	2302
+Sun	2303
+star	2304
+planet	2305
+galaxy	2306
+star cluster	2307
+universe	2308
+Eclipse	2309
+Meteorite	2310
+comet	2311
+moon	2312
+Valentina Tereshkova	2313
+first woman in space	2314
+Sunita Williams	2315
+Susan Helms	2316
+Sally Ride	2317
+Liu Yang	2318
+search for extraterrestrial life	2319
+astrobiology	2320
+space tourism	2321
+planetarium	2322
+infrared astronomy	2323
+astrophysics	2324
+astronauts	2325
+Great Red Spot	2326
+Jupiter	2327
+Voyager	2328
+Galileo	2329
+51 Pegasi b	2330
+Altair	2331
+Betelgeuse	2332
+Orion Nebula	2333
+Alpha Centauri	2334
+marine biology	2335
+animals and plants that live in sea	2336
+progressive changes in size of an organism	2337
+science of classification	2338
+heredity and genes in particular	2339
+suite of interactions that appear between two or more animals	2340
+all living matter	2341
+microorganisms or microbes	2342
+members of animal kingdom and animal life in general	2343
+chemical structures and processes of biological phenomena	2344
+all vertebrates	2345
+Genetics	2346
+work of Gregor Mendel	2347
+taxonomy	2348
+microbiology	2349
+molecular biology	2350
+animal social behaviour	2351
+biotechnology	2352
+jellyfish	2353
+animal	2354
+plant	2355
+microorganism	2356
+microbe	2357
+fungus	2358
+vertebrates	2359
+insect	2360
+protists	2361
+monerans	2362
+grass	2363
+vertebrates only	2364
+amphibian	2365
+aquatic and terrestrial habitats	2366
+chondrichthyan	2367
+fish	2368
+snake	2369
+reptile	2370
+bird	2371
+lizard	2372
+sharks	2373
+rays	2374
+eggs	2375
+arctic ice	2376
+desert	2377
+oceanic islands	2378
+ozone layer	2379
+middle of the road	2380
+space	2381
+serpent	2382
+reptiles	2383
+mammals	2384
+turtle	2385
+shell	2386
+frog	2387
+salamander	2388
+boa	2389
+nematode	2390
+roundworm	2391
+giant squid	2392
+butterfly	2393
+leech	2394
+mollusk	2395
+fiddler crab	2396
+mantid	2397
+tapeworm	2398
+colossal squid	2399
+centipede	2400
+octopus	2401
+bee	2402
+mammal	2403
+vertebrate	2404
+sucking blood	2405
+worm	2406
+coral	2407
+bees	2408
+honey	2409
+nests	2410
+hair	2411
+pollen	2412
+nectar	2413
+flowers	2414
+skeletons	2415
+corals	2416
+element	2417
+decomposed by ordinary chemical processes	2418
+periodic table	2419
+chemistry	2420
+chemical compound	2421
+chemical molecule	2422
+salt	2423
+methane	2424
+neon	2425
+fluorescent lamps	2426
+enzymes	2427
+cells	2428
+genes	2429
+seawater	2430
+cooking	2431
+radioactivity	2432
+nuclear fission	2433
+fermentation	2434
+putrefaction	2435
+Dmitri Mendeleyev	2436
+periodic table of elements	2437
+Robert Boyle	2438
+Antoine-Laurent Lavoisier	2439
+J.-B.-A. Dumas	2440
+E. Lenssen	2441
+Stanislao Cannizzaro	2442
+Lothar Meyer	2443
+Lord Rayleigh	2444
+Sir William Ramsay	2445
+krypton	2446
+noble gas	2447
+Kr	2448
+alkali metal	2449
+alkaline-earth metal	2450
+transition metal	2451
+halogen	2452
+Rare-earth element	2453
+actinoid element	2454
+lanthanoid element	2455
+compound	2456
+mixture	2457
+carbon and hydrogen	2458
+oxygen	2459
+iron	2460
+sodium	2461
+chlorine	2462
+carbon dioxide	2463
+rainbow	2464
+Cambrian period	2465
+Adam Sedgwick	2466
+Roderick I. Murchison	2467
+Charles Lapworth	2468
+Conrad Schlumberger	2469
+Marcel Schlumberger	2470
+François Guizot	2471
+Alexander von Humboldt	2472
+Charles Lyell	2473
+tsunami	2474
+tidal wave	2475
+submarine earthquake	2476
+coastal landslide	2477
+volcanic eruption	2478
+stromatolite	2479
+trilobite	2480
+keeling curve	2481
+Burgess Shale	2482
+Gomphothere	2483
+seed fern	2484
+Permian period	2485
+Precambrian era	2486
+Devonian period	2487
+Mesozoic era	2488
+Triassic period	2489
+Jurassic period	2490
+Cretaceous period	2491
+Cenozoic era	2492
+Paleogene period	2493
+pteranodon	2494
+flying reptile	2495
+Tyrannosaurus	2496
+Triceratops	2497
+Velociraptor	2498
+Brachiosaurus	2499
+Allosaurus	2500
+Stegosaurus	2501
+Iguanodon	2502
+Batodonoides	2503
+atmospheric phenomena in troposphere and lower stratosphere	2504
+meteorology	2505
+geography	2506
+climatology	2507
+geochronology	2508
+ecology	2509
+cartography	2510
+oceanography	2511
+paleoclimatology	2512
+species extinction	2513
+loss of biodiversity	2514
+environmental protection agency	2515
+hydrosphere	2516
+recycling	2517
+tropical rainforest	2518
+climate change	2519
+atmosphere	2520
+human activity	2521
+pathology	2522
+equator	2523
+arctic	2524
+subarctic region	2525
+subantarctic region	2526
+East Asia	2527
+Patagonia	2528
+taiga	2529
+surface of Earth	2530
+soil	2531
+magma	2532
+vegetation	2533
+calcium	2534
+Mercury	2535
+Venus	2536
+Mars	2537
+Saturn	2538
+Neptune	2539
+Uranus	2540
+surface of the ocean	2541
+platypus	2542
+duckbill	2543
+duck	2544
+whale	2545
+porcupine	2546
+vampire bat	2547
+elephant	2548
+sea otter	2549
+llama	2550
+blesmol	2551
+armadillo	2552
+wallaby	2553
+Central America	2554
+largest land animal	2555
+otter	2556
+giraffe	2557
+bat	2558
+meerkat	2559
+lion	2560
+deer	2561
+suricate	2562
+number theory	2563
+properties of positive integers	2564
+equation	2565
+arithmetic	2566
+algebra	2567
+trigonometry	2568
+geometry	2569
+foundations of mathematics	2570
+philosophy of mathematics	2571
+probability theory	2572
+calculus	2573
+Riemman hypothesis	2574
+Millennium problem	2575
+solved problem	2576
+geometric problem	2577
+fractal	2578
+trigonometric problem	2579
+number	2580
+STEM field	2581
+random phenomenon	2582
+analysis of random phenomena	2583
+function	2584
+square root of 2	2585
+irrational number	2586
+sqrt 2	2587
+integer	2588
+rational number	2589
+negative number	2590
+fraction	2591
+polynomial equation	2592
+square number	2593
+perfect number	2594
+prime number	2595
+transcendental number	2596
+roses	2597
+beautiful flowers	2598
+baobab	2599
+cactus	2600
+rafflesia flower	2601
+saguaro cactus	2602
+organ pipe cactus	2603
+venus flytrap	2604
+pitcher plant	2605
+cape sundew	2606
+moss	2607
+carnivorous plant	2608
+rose	2609
+fern	2610
+potato	2611
+pine	2612
+succulent	2613
+freshwater flowering plant	2614
+photosynthesis	2615
+light	2616
+chloroplast	2617
+chlorophyll	2618
+fossil fuels	2619
+coal	2620
+relativity theories	2621
+Albert Einstein	2622
+mineral processing	2623
+mechanics of solids	2624
+fluid mechanics	2625
+cosmology	2626
+mirror	2627
+classical theory of gravitational force	2628
+dynamo theories	2629
+geomagnetic field	2630
+quantum mechanics	2631
+seismic waves	2632
+earthquake	2633
+seismograph	2634
+seismogram	2635
+seismoscope	2636
+clock	2637
+mercury	2638
+pendulum	2639
+magnetic field	2640
+relativity theory	2641
+electromagnetic radiation	2642
+fluid	2643
+sound	2644
+ultrasound	2645
+cosmos	2646
+liquid	2647
+gravity	2648
+transfer of heat	2649
+difference in temperature	2650
+high density	2651
+vibrations of frequencies greater than the upper limit of the audible range for humans	2652
+reflection	2653
+gas	2654
+plasma	2655
+Tampa Bay Buccaneers	2656
+Florida	2657
+Minnesota Vikings	2658
+Kansas City Chiefs	2659
+Baltimore Ravens	2660
+Tennessee Titans	2661
+Tom Brady	2662
+San Francisco 49ers	2663
+Seattle Seahawks	2664
+Green Bay Packers	2665
+Super Bowl	2666
+gridiron football	2667
+hockey	2668
+volleyball	2669
+handball	2670
+soccer	2671
+running	2672
+2020	2673
+New England Patriots	2674
+Los Angeles Rams	2675
+first Super Bowl	2676
+1967	2677
+1966	2678
+1970	2679
+1978	2680
+1987	2681
+1976	2682
+1974	2683
+1977	2684
+1968	2685
+3	2686
+College Football Playoff	2687
+1	2688
+seven	2689
+4	2690
+7	2691
+8	2692
+one	2693
+two	2694
+16	2695
+four	2696
+Nashville	2697
+Memphis	2698
+St. Louis	2699
+Oakland	2700
+Baltimore	2701
+Kansas	2702
+New England	2703
+Ichiro Suzuki	2704
+Johnny Bench	2705
+Roger Maris	2706
+Mickey Mantle	2707
+Lou Gehrig	2708
+Ernie Banks	2709
+Jackie Robinson	2710
+Mike Trout	2711
+Babe Ruth	2712
+George Sisler	2713
+61 home runs in one season	2714
+New York Yankees	2715
+Seattle Mariners	2716
+Miami Marlins	2717
+Cincinnati Reds	2718
+St. Louis Cardinals	2719
+Cleveland Indians	2720
+Chicago Cubs	2721
+Kansas City Monarchs	2722
+Baltimore Orioles	2723
+Boston Red Sox	2724
+the Bambino	2725
+the Iron Horse	2726
+Golden State Warriors	2727
+Washington Bullets	2728
+Dallas Mavericks	2729
+Cleveland Cavaliers	2730
+Chicago Bulls	2731
+Oklahoma City Thunder	2732
+Boston Celtics	2733
+Toronto Raptors	2734
+Houston Comets	2735
+Miami Heat	2736
+Kobe Bryant	2737
+Los Angeles Lakers	2738
+James Naismith	2739
+Stephen Curry	2740
+Michael Jordan	2741
+Space Jam movie	2742
+Dennis Rodman	2743
+Isiah Thomas	2744
+Scottie Pippen	2745
+Sheryl Swoopes	2746
+LeBron James	2747
+Kevin Durant	2748
+Rebecca Lobo	2749
+Seattle SuperSonics	2750
+ice hockey	2751
+puck	2752
+Sidney Crosby	2753
+Pittsburgh Penguins	2754
+Montreal Canadiens	2755
+Detroit Red Wings	2756
+Boston Bruins	2757
+Nashville Predators	2758
+St. Louis Blues	2759
+Washington Capitals	2760
+New York Rangers	2761
+Philadelphia Flyers	2762
+New Jersey Devils	2763
+Jaromir Jagr	2764
+Czech Republic	2765
+Wayne Gretzky	2766
+Gordie Howe	2767
+Steve Yzerman	2768
+Frederick Arthur	2769
+Tim Horton	2770
+Joel Quenneville	2771
+Nicklas Lidstrom	2772
+Scotty Bowman	2773
+The Great One	2774
+Stanley Cup	2775
+2011 Stanley Cup	2776
+FC Barcelona	2777
+1899	2778
+Football Club Barcelona	2779
+Manchester United	2780
+Real Madrid	2781
+Benfica	2782
+Aberdeen	2783
+Bundesliga	2784
+Premier League	2785
+Liverpool FC	2786
+Inter Milan	2787
+AS Roma	2788
+David Beckham	2789
+Los Angeles Galaxy	2790
+Paris Saint-Germain	2791
+Lionel Messi	2792
+Carli Lloyd	2793
+Cristiano Ronaldo	2794
+Wayne Rooney	2795
+Didier Drogba	2796
+Landon Donovan	2797
+Neymar	2798
+Sepp Blatter	2799
+Romário	2800
+FIFA World Cup	2801
+year	2802
+three years	2803
+eight years	2804
+6 months	2805
+2 days	2806
+month	2807
+hour	2808
+5 minutes	2809
+Los Blancos	2810
+swimming	2811
+propulsion of the body through water	2812
+gymnastics	2813
+ice skating	2814
+cycling	2815
+weightlifting	2816
+skiing	2817
+jumping	2818
+wrestling	2819
+Torvill and Dean	2820
+Michael Phelps	2821
+most-decorated athlete in Olympic history	2822
+Christopher Dean	2823
+Tessa Virtue	2824
+Scott Moir	2825
+Laurie Doherty	2826
+Wolfgang Linger	2827
+Tina Maze	2828
+Lindsey Vonn	2829
+Pierre de Coubertin	2830
+Usain Bolt	2831
+pommel horse	2832
+alpine skiing	2833
+winter olympics	2834
+first cycling race	2835
+1868	2836
+1869	2837
+1878	2838
+1890s	2839
+1903	2840
+1920s	2841
+1984	2842
+1896	2843
+1848	2844
+Olympic games	2845
+lugeing	2846
+tae kwon do	2847
+coin collecting	2848
+numismatics	2849
+gardening	2850
+mountaineering	2851
+roulette	2852
+bowling	2853
+poker	2854
+Grand Theft Auto	2855
+Chess	2856
+Bridge	2857
+earliest account in gardening in English	2858
+The Feate of Gardening	2859
+first written work in English about gardening	2860
+Tudor gardening arrangements	2861
+work by Carlus Clusius	2862
+earliest botanical garden in Europe	2863
+first botanical garden in England	2864
+plant trade	2865
+gardens at Leiden, Netherlands	2866
+history of vegetables	2867
+British royal gardens	2868
+gardens at Versailles	2869
+Mont Blanc	2870
+Michel-Gabriel Paccard	2871
+Monte Bianco	2872
+Horace-Bénédict de Saussure	2873
+Edward Whymper	2874
+duke d’Abruzzi	2875
+Edmund Hillary	2876
+Charles Evans	2877
+Gerlinde Kaltenbrunner	2878
+George Mallory	2879
+Tabei Junko	2880
+Reinhold Messner	2881
+gambling	2882
+wagering	2883
+fishing	2884
+book collecting	2885
+knocking down the pins	2886
+pet	2887
+videogame	2888
+shooter game	2889
+lottery	2890
+physically dangerous activity	2891
+Renshaw brothers	2892
+Wimbledon tennis competition in 1880s	2893
+Clarence Clark	2894
+Danica Patrick	2895
+Jeff Gordon	2896
+Richie McCaw	2897
+Danie Craven	2898
+Stephen Hendry	2899
+Allison Fisher	2900
+Joe Davis	2901
+Dot Richardson	2902
+21 balls and a cue ball	2903
+snooker	2904
+pool	2905
+carom	2906
+car racing	2907
+softball	2908
+skateboarding	2909
+Britain	2910
+GB	2911
+snowboarding	2912
+skydiving	2913
+twenty20 cricket	2914
+2003	2915
+1990s	2916
+1980s	2917
+2009	2918
+13th century	2919
+1770s	2920
+1814	2921
+1852	2922
+IndyCar championship event	2923
+Hélio Castroneves	2924
+Janet Guthrie	2925
+Lyn St. James	2926
+Aiko Uemura	2927
+Stein Eriksen	2928
+Sarah Fisher	2929
+Dorothy Gay Richardson	2930
+Kapil Dev	2931
+Sachin Tendulkar	2932
+tractor	2933
+save labour	2934
+crop rotation	2935
+terrace cultivation	2936
+collectivization	2937
+aquaculture	2938
+organic farming	2939
+livestock	2940
+beekeeping	2941
+crops	2942
+fertilizer	2943
+domestication	2944
+under human supervision	2945
+with human oversight	2946
+in the wild	2947
+to decrease traits that are advantageous for people	2948
+in Asia only	2949
+as subfield of archaeology	2950
+radiocarbon techniques	2951
+the climate change	2952
+without human interference	2953
+growing crops on sides of hills	2954
+livestock farming	2955
+poultry farming	2956
+tractors	2957
+Soviet government	2958
+kulaks	2959
+peasantry	2960
+collective farms	2961
+kolkhozy	2962
+Ukrainian peasants	2963
+early humans	2964
+herdsmen in Algeria	2965
+Australian Aborigines	2966
+fish farming	2967
+earth ponds	2968
+commercial fishing	2969
+goldfish	2970
+concepts of organic farming	2971
+early 1900s	2972
+1960s	2973
+late 20th century	2974
+2008	2975
+2019	2976
+2000	2977
+200,000 BC	2978
+15,000 BC	2979
+ice age	2980
+honeybees	2981
+domesticated	2982
+dogs	2983
+cats	2984
+cattle	2985
+sheep	2986
+goats	2987
+swines	2988
+horses	2989
+chicken	2990
+geese	2991
+cable car	2992
+Phoenix	2993
+Orlando	2994
+taxicab	2995
+chauffeur	2996
+taxi car	2997
+subway	2998
+train	2999
+ship	3000
+airplane	3001
+sled	3002
+bicycle	3003
+bus	3004
+underground	3005
+Model T automobile	3006
+Ford Motor Company	3007
+Nissan	3008
+Boeing	3009
+NASA	3010
+Leonardo Da Vinci	3011
+Kirkpatrick Macmillan	3012
+Pope Manufacturing Co.	3013
+National Railways	3014
+Amtrak	3015
+collision with iceberg	3016
+crash with floating ice	3017
+Lusitania	3018
+International Towing Tank Conference	3019
+tugboat	3020
+Estelle Maersk container ship	3021
+Ferdinand Magellan�s fleet	3022
+crane	3023
+ancient Egyptian ship	3024
+Columbus’ fleet	3025
+the Mayflower	3026
+carriage	3027
+charrey	3028
+electric automobile	3029
+Jeep	3030
+ice or snow	3031
+sleigh	3032
+driver	3033
+cyclist	3034
+electricity	3035
+petrol	3036
+updraft	3037
+diesel	3038
+steam turbine	3039
+machine learning	3040
+artificial intelligence	3041
+ML	3042
+AI	3043
+computer programming	3044
+operating systems	3045
+cybersecurity	3046
+logic	3047
+manufacture	3048
+discrete mathematics	3049
+electronics	3050
+software engineering	3051
+Deep Blue	3052
+IBM	3053
+Dell, Inc.	3054
+Bill Gates	3055
+Android	3056
+Alan Turing	3057
+Apple Inc.	3058
+UNIVAC	3059
+Ada Lovelace	3060
+Artificial Intelligence	3061
+Gary Kasparov	3062
+C++	3063
+programming language	3064
+Baby	3065
+Charles Babbage	3066
+zombie computer	3067
+malware	3068
+computer virus	3069
+operating system	3070
+Windows	3071
+zombie	3072
+pornography	3073
+JavaScript code	3074
+John D. Rockfeller	3075
+Marvin Minsky	3076
+Judea Pearl	3077
+John McCarthy	3078
+first automatic digital computer	3079
+JavaScript	3080
+first computer program	3081
+Bletchley Park	3082
+naval architecture	3083
+design boats	3084
+radar	3085
+nanotechnology	3086
+railroad	3087
+operations research	3088
+particle accelerator	3089
+dam	3090
+surveying	3091
+microscope	3092
+radiation measurement	3093
+air traffic control	3094
+manipulation of materials on the scale of atoms	3095
+nuclear physicists	3096
+construction techniques	3097
+hand tools	3098
+stream	3099
+road	3100
+electronic device	3101
+Draper prize	3102
+drill press	3103
+machine tool	3104
+bridge	3105
+water supply system	3106
+hand tool	3107
+rasp	3108
+reamer	3109
+lathe	3110
+milling machine	3111
+boring machine	3112
+iron needles	3113
+needles made of iron	3114
+stone age	3115
+industrial revolution	3116
+1900	3117
+1830	3118
+1860	3119
+rabies vaccine	3120
+Louis Pasteur	3121
+smallpox vaccine	3122
+antiseptics	3123
+polio vaccine	3124
+aspirin	3125
+anesthetics	3126
+opiates	3127
+penicillin	3128
+automotive industry	3129
+manufacturing	3130
+quarrying	3131
+iron needle	3132
+artisan cookery	3133
+mining	3134
+agriculture	3135
+forestry	3136
+passenger cars and light trucks	3137
+aerospace industry	3138
+materials testing	3139
+standard material testing methods	3140
+International Organization for Standardization	3141
+Charpy test	3142
+Izod test	3143
+Creep test	3144
+National Institutes of Health	3145
+National Science Foundation	3146
+Australian Heart Foundation	3147
+Heart and Stroke Foundation of Canada	3148
+Detroit Electric Car Company	3149
+flight vehicles	3150
+primary industry	3151
+heavy secondary industry	3152
+tertiary industry	3153
+quaternary industry	3154
+light secondary industry	3155
+service industry	3156
+information technology industry	3157
+research and development	3158
+transportation industry	3159
+investment industry	3160
+Thomas Edison	3161
+phonograph	3162
+Leonardo da Vinci	3163
+Tim Berners-Lee	3164
+Nikola Tesla	3165
+George Eastman	3166
+Les Paul	3167
+Lumière brothers	3168
+Alexander Graham Bell	3169
+James Watt	3170
+Galileo Galilei	3171
+renaissance	3172
+modern age	3173
+rococo	3174
+baroque	3175
+between the world wars	3176
+World Wide Web	3177
+Motion-picture camera	3178
+solid-body electric guitar	3179
+Jimmy Page	3180
+Eric Clapton	3181
+Leo Fender	3182
+Kodak camera	3183
+1888	3184
+1892	3185
+1854	3186
+1927	3187
+1954	3188
+1862	3189
+1895	3190
+1948	3191
+rotating magnetic field	3192
+Twitter	3193
+social networking website	3194
+social media	3195
+mobile telephone	3196
+personal computer	3197
+text message	3198
+music conference	3199
+government censorship	3200
+national disaster	3201
+satellite communication	3202
+computer network	3203
+geostationary orbit	3204
+35,786 km	3205
+Sputnik 1	3206
+the Sun	3207
+the Moon	3208
+space debris	3209
+low Earth Orbit	3210
+medium Earth Orbit	3211
+SMS commercial service	3212
+Kuwait	3213
+ARPANET	3214
+Internet	3215
+Wi-Fi	3216
+cables	3217
+wires	3218
+radio signal	3219
+electronic gaming	3220
+FTP protocol	3221
+file transfer	3222
+transmission of data	3223
+email	3224
+defense command and control	3225
+airline reservation	3226
+time-sharing	3227
+computer science research	3228
+radio signal transmission	3229
+wireless signal transmission	3230
+World Wide Web access	3231
+Internet browsing	3232
+telephone	3233
+Kazuyo Seyima and Ryue Nishizawa	3234
+The New Museum of Contemporary Art in New York City	3235
+Robert Venturi and Denise Scott Brown	3236
+Michelangelo	3237
+Yvonne Farrell and Shelley McNamara	3238
+Rafael Aranda, Carme Pigem, and Ramon Vilalta	3239
+Alison Smithson and Peter Smithson	3240
+Louis Sullivan	3241
+Andrea Palladio	3242
+Christopher Wren	3243
+Jacques Herzog and Pierre de Meuron	3244
+foundation stone of Notre-Dame de Paris	3245
+1163	3246
+1160	3247
+1250	3248
+1210	3249
+1804	3250
+1831	3251
+postmodernism	3252
+Sistine Chapel	3253
+Sculpture of David	3254
+Fallingwater	3255
+National Gallery, London	3256
+Ohio State University	3257
+Nanchan Temple	3258
+Teatro Farnese	3259
+Grafton Architects	3260
+St. Paul’s Cathedral, London	3261
+Sir Christopher Wren	3262
+Bollingen Prize	3263
+achievement in American poetry	3264
+Turner Prize	3265
+Crossword Book Awards	3266
+PEN/Faulkner Award	3267
+Costa Book Award	3268
+Booker Prize	3269
+Prix Goncourt	3270
+Akutagawa Prize	3271
+Pritzker Prize	3272
+Büchner Prize	3273
+Great Britain	3274
+Tokyo	3275
+Pulitzer Prize	3276
+Jnanpith Award	3277
+fiction	3278
+visual arts	3279
+architecture	3280
+film	3281
+popular Japanese literature	3282
+music	3283
+sculpture	3284
+1867	3285
+Akutagawa prize	3286
+Indian	3287
+Mandarin	3288
+Korean	3289
+Polish	3290
+pottery	3291
+glassware	3292
+tapestry	3293
+jewelry	3294
+heraldry	3295
+metalwork	3296
+stained glass	3297
+paper	3298
+ink	3299
+glass	3300
+fabric	3301
+jewels	3302
+wax	3303
+1st century BC	3304
+glassblowing	3305
+2500 BC	3306
+2200 BC	3307
+1490	3308
+945 BC	3309
+305 BC	3310
+1st century AD	3311
+4th century	3312
+7th century	3313
+beautiful handwriting	3314
+fresco painting	3315
+armour and seals	3316
+castle building	3317
+clothing	3318
+furniture making	3319
+flag making	3320
+corporations	3321
+national awareness	3322
+shoe	3323
+feet	3324
+foot	3325
+dress	3326
+perfume	3327
+hat	3328
+belt	3329
+coat	3330
+tunic	3331
+trousers	3332
+skirts	3333
+attire	3334
+Coco Channel	3335
+Karl Lagerfeld	3336
+Isaac Mizrahi	3337
+Ralph Lauren	3338
+Manolo Blahnik	3339
+Giorgio Armani	3340
+Vivienne Westwood	3341
+Jean Paul Gaultier	3342
+Marc Jacobs	3343
+Tom Ford	3344
+Mesopotamia	3345
+Stella McCartney	3346
+fur-free and leather-free apparel	3347
+wet-collodion process	3348
+1851	3349
+1866	3350
+750	3351
+868	3352
+1423	3353
+1450	3354
+1826	3355
+1893	3356
+1925	3357
+1938	3358
+intaglio	3359
+printmaking	3360
+photoengraving	3361
+Tintoretto	3362
+drafting	3363
+cartoon	3364
+woodcutting	3365
+El Greco	3366
+Doménikos Theotokópoulos	3367
+William Blake	3368
+Rembrandt	3369
+Edgar Degas	3370
+Giulio Clovio	3371
+Vincentio Anastagi	3372
+Fulvio Orsini	3373
+Middle East	3374
+engineering drawing	3375
+isometric drawing	3376
+orthographic projection	3377
+relief	3378
+surface	3379
+Banksy	3380
+Girl with Balloon	3381
+James Turrell	3382
+Ai Weiwei	3383
+Apichatpong Weerasethakul	3384
+Pablo Bronstein	3385
+Ann Hamilton	3386
+Lee Ufan	3387
+Dan Graham	3388
+Eduardo Kac	3389
+Robert Smithson	3390
+Ai Qing	3391
+James Turell	3392
+Afrum-Proto	3393
+Land Art Movement	3394
+Tracey Emin	3395
+Olafur Eliasson	3396
+Post-impressionism	3397
+Theophanes the Greek	3398
+Novgorod School	3399
+Dmitry Levitsky	3400
+Elizabeth of Russia	3401
+Ivan Argunov	3402
+Aleksandr Ivanov	3403
+Karl Pavlovich Bryullov	3404
+Ilya Repin	3405
+Charles IV	3406
+Claude Monet	3407
+Impressionism	3408
+Symbolism	3409
+Futurism	3410
+Expressionism	3411
+Tempera Painting	3412
+Oil painting	3413
+Rococo	3414
+Surrealism	3415
+Chinese painting	3416
+Last Supper	3417
+Vincent Van Gogh	3418
+Johannes Vermeer	3419
+Edvard Munch	3420
+Ludovico Sforza	3421
+Rembrandt van Rijn	3422
+Peter Paul Rubens	3423
+Gustave Moreau	3424
+Liberty Leading the People	3425
+Mona Lisa	3426
+Girl with a Pearl Earring	3427
+The Starry Night	3428
+The Scream	3429
+Indian and Woman	3430
+The Crucifixion	3431
+Dance at Le Moulin de la Galette	3432
+Poppies	3433
+Hannah Höch	3434
+WWI	3435
+North Korea	3436
+Edward S. Curtis	3437
+Eugène Atget	3438
+Hilla Becher	3439
+Walker Evans	3440
+Thomas Struth	3441
+Ansel Adams	3442
+Andreas Gursky	3443
+Garry Winogrand	3444
+Marie Curie	3445
+Bernd Becher and Hilla Becher	3446
+black and white images of industrial buildings	3447
+Museum Photographs	3448
+Donatello	3449
+Florence	3450
+Marseille	3451
+Valmondois	3452
+Milan	3453
+elephant tusks	3454
+ivory	3455
+tusks of walrus	3456
+mammoth tusks	3457
+hippopotamus teeth	3458
+medicine box	3459
+chopsticks	3460
+scrimshaw	3461
+whales’ teeth	3462
+Mah-Jongg sets	3463
+seals	3464
+Auguste Rodin	3465
+The Gates of Hell	3466
+David	3467
+St. George Killing the Dragon	3468
+The Ascension	3469
+Putto with Doplhin	3470
+Christ and St. Thomas	3471
+Madonna and Child	3472
+Torso of a Young Girl	3473
+The Family of Man	3474
+Power Figure	3475
+Gian Lorenzo Bernini	3476
+Baroque style in sculpture	3477
+Joseph Cornell	3478
+Andrea del Verocchio	3479
+Henry Moore	3480
+Joan Miro	3481
+Lorenzo Ghiberti	3482
+Pablo Picasso	3483
+wire assemblies that are activated in space by air currents	3484
+Alexander Calder	3485
+February 27, 2010	3486
+Haiti	3487
+Challenger disaster	3488
+explosion of a space shuttle	3489
+mine collapse	3490
+influenza pandemic	3491
+sunken ship	3492
+disease outbreak	3493
+hurricane	3494
+famine	3495
+nuclear power station accident	3496
+Great Famine	3497
+late blight	3498
+Chile Earthquake 2010	3499
+Influenza pandemic (H1N1)	3500
+Ebola outbreak of 2014-2016	3501
+Hurricane Katrina	3502
+Chernobyl Disaster	3503
+Great Smog of London	3504
+Great Chicago Fire	3505
+Deepwater Horizon oil spill	3506
+1986	3507
+1983	3508
+1996	3509
+1991	3510
+2010	3511
+1871	3512
+1850	3513
+1952	3514
+French revolution	3515
+1789	3516
+Meiji restoration	3517
+Haitian Revolution	3518
+Glorious Revolution	3519
+Texas Revolution	3520
+Iranian Revolution	3521
+Mexican Revolution	3522
+Cuban Revolution	3523
+American Revolution	3524
+slaves	3525
+bourgeois	3526
+aristocracy	3527
+Bolsheviks	3528
+colonizers	3529
+peasants	3530
+monarchists	3531
+Protestants	3532
+Conservatives	3533
+Meiji Restoration	3534
+Tokugawa Shogunate	3535
+Islamic Republic	3536
+monarchy	3537
+military dictatorship	3538
+socialist republic	3539
+Republic of Texas	3540
+anarchy	3541
+U.S. military government	3542
+Catholic Church	3543
+Babylonia	3544
+Sphinx	3545
+Ancient Greek civilization	3546
+Mayan Civilization	3547
+Olmec Civilization	3548
+Teotihuacan Civilization	3549
+Zhou dynasty	3550
+Qin dynasty	3551
+Qing dynasty	3552
+Tang dynasty	3553
+Ming dynasty	3554
+Yuan dynasty	3555
+Song dynasty	3556
+Shang dynasty	3557
+Xia dynasty	3558
+Sui dynasty	3559
+Jin dynasty	3560
+last Mesoamerican empire	3561
+Hernan Cortes	3562
+Babylon	3563
+Cleopatra	3564
+Julius Caesar	3565
+Ptolemy XII	3566
+Octavian Augustus	3567
+Isis	3568
+Ptolemy I Soter	3569
+Pompey	3570
+Ptolemy Caesar	3571
+Dionysus	3572
+Livy	3573
+Ancient China	3574
+Tunis	3575
+Historie de France	3576
+Jules Michelet	3577
+Thomas Carlyle	3578
+A.J.P. Taylor	3579
+Edward Gibbon	3580
+Thucydides	3581
+Leopold von Ranke	3582
+Ibn Khaldūn	3583
+Giambattista Vico	3584
+History of the Greco-Persian Wars	3585
+Medici family	3586
+Lombardy	3587
+Syria	3588
+Maccabees	3589
+Seleucid ruler Antiochus IV	3590
+House of Este	3591
+Barmakids	3592
+Mamluk	3593
+Wei dynasty	3594
+Fugger family	3595
+Rothschild family	3596
+Fāṭimid Dynasty	3597
+Scandinavia	3598
+Mohammed bin Salman	3599
+Salman bin Abdulaziz	3600
+Abd Rabbuh Mansur Hadi	3601
+Saad al-Hariri	3602
+al-Waleed bin Talal bin Abdulaziz Al Saud	3603
+Jamal Khashoggi	3604
+Recep Tayyip Erdogan	3605
+Muhammad bin Nayif	3606
+Ahmad bin Nayif	3607
+tsar of Russia	3608
+Russian czar	3609
+Norman adventurer	3610
+duke of Apulia	3611
+King of Saudi Arabia	3612
+prince of Novgorod	3613
+duke of Normandy	3614
+duke of Florence	3615
+Japanese premier	3616
+princess of Wales	3617
+grand prince of Moscow	3618
+Diana, princess of Wales	3619
+automobile accident	3620
+car crash	3621
+Robert	3622
+Cosimo I	3623
+Itō Hirobumi	3624
+Casimir IV	3625
+Montesquieu	3626
+Roger II	3627
+conquering Britain	3628
+pilgrimage to Jerusalem	3629
+drafting the Meiji constitution	3630
+extending Norman rule over Naples, Calabria, and Sicily	3631
+being the first tsar of Russia	3632
+writing The Spirit of Laws	3633
+being patron of Leonardo da Vinci	3634
+collaborating with Mongols	3635
+being a member of Medici family	3636
+struggle to elect an emperor independently of the papacy	3637
+David Livingstone	3638
+African interior	3639
+Abel Tasman	3640
+William Clark	3641
+Meriwether Lewis	3642
+René-Robert Cavelier	3643
+Ann Bancroft	3644
+Daniel Boone	3645
+Sir Francis Drake	3646
+Leif Erikson	3647
+Erik the Red	3648
+Olaf I Tryggvason	3649
+Thorfinn Karlsefni	3650
+Christopher Columbus	3651
+circumnavigating the globe	3652
+discovering Greenland	3653
+discovering America	3654
+discovering Tasmania	3655
+exploring African interior	3656
+exploring natural history of Ethiopia	3657
+writing Kosmos	3658
+leading an expedition down the Illinois and Mississippi rivers	3659
+successfully finishing an expeditions to Arctic and Antarctic	3660
+helping to blaze a trail through the Appalachian Mountains	3661
+Fall of Constantinople	3662
+1453	3663
+Western Schism	3664
+Battle of Agincourt	3665
+discovery of America	3666
+issue of Magna Carta	3667
+death of Charlemagne	3668
+Black Death	3669
+Norman Conquest of Britain	3670
+beginning of Hundred Years� War	3671
+Battle of Tours	3672
+Hundred Years� War	3673
+Barbarian invasions of Rome	3674
+Mongol invasion of Europe	3675
+Charlemagne	3676
+Franks	3677
+Sultan Mehmed II	3678
+Otto I	3679
+King Henry V	3680
+Joan of Arc	3681
+Phillip IV	3682
+King Edward III	3683
+William the Conqueror	3684
+King John II	3685
+Battle of Hastings	3686
+Harold II	3687
+Edward the Confessor	3688
+Baldwin V of Flanders	3689
+Harald III Sigurdson	3690
+Hannibal	3691
+Ali Fethi	3692
+Mehmed Vahideddin	3693
+Sultan Mehmed V	3694
+Şeyh Said	3695
+Sparta	3696
+tribes of Mongolia	3697
+Yesügei	3698
+British Government	3699
+Kindertransport	3700
+Government of UK	3701
+Czechoslovakia	3702
+American government	3703
+Vichy France	3704
+Quakers	3705
+the YMCA	3706
+Ho Chi Ming	3707
+Indochina Communist Party	3708
+French Communist Party	3709
+Chinese Communist Party	3710
+Popular Front Government	3711
+Hanoi	3712
+South Vietnam	3713
+Yugoslavia	3714
+Conservative Party	3715
+Spanish Inquisution	3716
+combat heresy	3717
+Two-State Solution	3718
+Nürnberg Rally	3719
+North Atlantic Treaty Organization	3720
+Nelson Mandela	3721
+Cuba	3722
+Stonehenge	3723
+Mogollon culture	3724
+Moche	3725
+Ancestral Pueblo Culture	3726
+Archaic Culture	3727
+Stela	3728
+Hohokam Culture	3729
+Venus of Willendorf	3730
+Venus of Vestonice	3731
+Poulnabrone dolmen	3732
+dolmen	3733
+stone	3734
+bone	3735
+bronze	3736
+ceramic	3737
+Andes	3738
+Mississippian culture	3739
+Magdalenian culture	3740
+Jōmon culture	3741
+Aurignacian culture	3742
+Ancestral Pueblo culture	3743
+Acheulean industry	3744
+Hohokam culture	3745
+prehistoric Japan	3746
+prehistoric North America	3747
+prehistoric England	3748
+Upper Paleolithic Europe	3749
+area of New Mexico, Arizona, Colorado and Utah	3750
+Bronze Age Canaan	3751
+old Babylonian period	3752
+Pearl Harbor attack	3753
+entry of the United States into World War II	3754
+clash at the Marco Polo Bridge	3755
+Operation Barbarossa	3756
+German invasion of Poland	3757
+September 11, 2001 attack	3758
+Assassination of Martin Luther King, Jr.	3759
+Battle of Gettysburg	3760
+Assassination of John F. Kennedy	3761
+War of 1812	3762
+Salem Witch Trials	3763
+Mexican-American War	3764
+Spanish-American War	3765
+United States Presidential Election of 2016	3766
+United States and Great Britain	3767
+US and GB	3768
+Plains Wars	3769
+1775	3770
+American War of Independence	3771
+1914	3772
+1918	3773
+1778	3774
+1779	3775
+1781	3776
+1773	3777
+1691	3778
+1774	3779
+1776	3780
+assassination of Franz Ferdinand	3781
+Crusades	3782
+Battle of Thermopylae	3783
+Punic Wars	3784
+Hundred Years’ War	3785
+retake the control of the Holy Land	3786
+Pacific War	3787
+Wars of the Roses	3788
+Greco-Persian Wars	3789
+Pacific	3790
+Afghanistan	3791
+The Southern League	3792
+the Football League	3793
+the Basketball League	3794
+the Baseball League	3795
+MLB	3796
+La Liga	3797
+Serie A	3798
+Super League	3799
+K-League	3800
+A Fall from Grace	3801
+Netflix	3802
+CNN	3803
+ABC	3804
+Youtube	3805
+Watcha	3806
+ESPN	3807
+Amazon Prime Video	3808
+Disney Plus	3809
+Most molds	3810
+loam	3811
+diamond	3812
+copper	3813
+pearl	3814
+ruby	3815
+crystal	3816
+organized tennis rules	3817
+International Tennis Federation	3818
+International Badminton Federation	3819
+The International Skating Union	3820
+United States Figure Skating Association	3821
+the All-England XI	3822
+the Union of the Asian Football Confederation	3823
+the Union of European Football Associations	3824
+The IOC	3825
+National Allied Publications	3826
+clarinets	3827
+most large orchestras	3828
+recorder	3829
+saxophone	3830
+harmonica	3831
+organ	3832
+keyboard	3833
+electric guitar	3834
+Charles Brackett and Billy Wilder	3835
+Ball of Fire	3836
+Mozart	3837
+Boris Kochno	3838
+Jon Voight	3839
+Johann Hasse	3840
+Gao Ming	3841
+Sir Timothy Miles Bindon Rice	3842
+Eddie Durham	3843
+Maria Anna	3844
+Eugene Manlove Rhodes	3845
+Hecht and MacArthur	3846
+Barbary Coast	3847
+Pipa ji	3848
+The Natya-shastra	3849
+Watchmen	3850
+The Incredible Hulk	3851
+The Dress Doctor	3852
+Diaghilev et les Ballets Russes	3853
+The Little Things	3854
+The Avengers	3855
+Elvis Presley	3856
+Lisa Marie Presley	3857
+James Cameron	3858
+Dortmunder	3859
+South Korea	3860
+Thailand	3861
+David Bowie	3862
+Bejing	3863
+Moscow	3864
+Madrid	3865
+Leonardo DiCaprio	3866
+LA	3867
+Jerome Robbins	3868
+Ney York	3869
+Julia Roberts	3870
+Smyrna	3871
+Twenty common amino acids	3872
+blocks of proteins	3873
+blocks of fats	3874
+blocks of carbohydrates	3875
+blocks of nitrogen	3876
+blocks of vitamins	3877
+blocks of muscles	3878
+blocks of cells	3879
+blocks of minerals	3880
+blocks of calciums	3881
+blocks of irons	3882
+A white root sheath	3883
+a chit	3884
+mustache	3885
+fingernail	3886
+eyebrow	3887
+leaf	3888
+flower	3889
+seed	3890
+stem	3891
+stalk	3892
+trunk	3893
+history of film	3894
+history of the motion picture	3895
+history of book	3896
+history of comic	3897
+history of song	3898
+history of music	3899
+history of painting	3900
+history of musical	3901
+history of opera	3902
+history of ballet	3903
+history of poem	3904
+Tinseltown	3905
+Wall streat	3906
+Westminster	3907
+Hyde Park	3908
+Champs Elysees	3909
+Theatre street	3910
+Leicester square	3911
+Trafalgar square	3912
+The RCA synthesizer	3913
+four musical tones simultaneously	3914
+ENIAC	3915
+Enigma	3916
+IBM BLEU	3917
+Apple Macintosh	3918
+Roomba	3919
+IBM System	3920
+Cray	3921
+Commodore 64	3922
+Amazon Web Services Cloud	3923
+La Betulia	3924
+John Rich	3925
+Harivansh Rai Bachchan	3926
+bird song	3927
+territorial and mating calls	3928
+tiger roaring	3929
+hyenas barking	3930
+lion roaring	3931
+dog barking	3932
+wolf howling	3933
+leopard roaring	3934
+cat roaring	3935
+orca crying	3936
+monkey howling	3937
+the tone of a musical bell	3938
+both harmonious partials and higher inharmonious partials	3939
+the tone of a temple block	3940
+the tone of a cymbal	3941
+the tone of a triangle	3942
+the tone of a steel drum	3943
+the tone of a marimba	3944
+the tone of a xylophone	3945
+the tone of a vibraphone	3946
+the tone of a chimes	3947
+the tone of a glockenspiel	3948
+Hanna and Barbera	3949
+the Tom and Jerry characters	3950
+grapdes	3951
+subtropic ans warm temperate zones	3952
+banana	3953
+pineapple	3954
+pomelo	3955
+litchi	3956
+durio	3957
+rose apple	3958
+mango	3959
+guava	3960
+Angelina Jolie	3961
+Maggie Smith	3962
+Egyptians	3963
+the first ovens	3964
+Asyrians	3965
+Greeks	3966
+Phoenicians	3967
+Carthaginians	3968
+Persians	3969
+Domesticated animals	3970
+social species in the wild	3971
+wild animals	3972
+untrained animals	3973
+undomesticated animals	3974
+marine animals	3975
+plants	3976
+fierce animals	3977
+predatory animals	3978
+herbivores	3979
+carnivores	3980
+biodiversity	3981
+climate	3982
+latitude	3983
+longitude	3984
+altitude	3985
+elevation	3986
+oxygen density	3987
+The Godfather	3988
+Inglorious Bastards	3989
+Fury	3990
+Gone with the Wind	3991
+Little Women	3992
+Parasite	3993
+Gladiator	3994
+Louis Letterier	3995
+Arthur Pond	3996
+Indiana Jones and the Last Crusade	3997
+vocal sound	3998
+communication	3999
+mating	4000
+fighting	4001
+digestion	4002
+work out	4003
+studying	4004
+reading	4005
+drinking	4006
+Laurence Olivier	4007
+Central School of Dramatic Art	4008
+FIFA	4009
+the World Cup championship	4010
+Federation Internationale de Football Association	4011
+the International Skating Union of America	4012
+WTO	4013
+Graduates of the public schools, Oxford and Cambridge	4014
+the first football clubs	4015
+the first rugby clubs	4016
+the first baseball clubs	4017
+the first basketball clubs	4018
+the first archery clubs	4019
+the first swimming clubs	4020
+the first badminton clubs	4021
+the first golf clubs	4022
+the first judo clubs	4023
+the first taekwondo clubs	4024
+The colleges, Amateur Athletic Union, and YMCA	4025
+the Joint Rules Committee	4026
+The Living Theatre	4027
+the New York Athletic Club	4028
+1860s	4029
+1880s	4030
+1670s	4031
+1780s	4032
+1680s	4033
+1900s	4034
+1810s	4035
+1940s	4036
+Kirstein	4037
+Ballet Caravan	4038
+Malcolm Wheeler-Nicholson	4039
+William Clarke of Nottingham	4040
+Netherlands	4041
+Oxford	4042
+Loki	4043
+mischief	4044
+Apollo	4045
+Athena	4046
+Artemis	4047
+Utu	4048
+Enki	4049
+Inanna	4050
+the Alsace-Lorraine region	4051
+Austrian	4052
+Dutch	4053
+American	4054
+British	4055
+Audrey Hepburn	4056
+Australian	4057
+James Quin	4058
+Robusta	4059
+Asia Minor	4060
+Siberia	4061
+sugarcane	4062
+cooler months of the year	4063
+Lenaea winter festival	4064
+Frankfrut	4065
+Amsterdam	4066
+the term graphic novel	4067
+Haydn	4068
+Janissary music	4069
+Richard Wrangham	4070
+anthropologist	4071
+chemist	4072
+physician	4073
+libralian	4074
+docter	4075
+astronaut	4076
+architect	4077
+DC Comics character	4078
+Ironman	4079
+Captin America	4080
+Hulk	4081
+Spiderman	4082
+Captin Marvel	4083
+Thanos	4084
+Black Panther	4085
+Black Widow	4086
+English lyricist	4087
+enzyme	4088
+large protein molecule	4089
+protein	4090
+pepsin	4091
+carbonhydrase	4092
+ferment	4093
+insulinase	4094
+esterase	4095
+calcuim	4096
+mineral	4097
+constant-rate period	4098
+the initial stages of drying	4099
+pre-treatment	4100
+evaporation	4101
+drying rate maximum	4102
+falling rate period	4103
+final moisture content	4104
+cooling	4105
+warming	4106
+post-treatment	4107
+pre-moisture content	4108
+the major orchestra instrument	4109
+crime drama	4110
+in divisions	4111
+clarinet	4112
+maintaining the regular celebration of the Olympic Games	4113
+International Olympic Committee	4114
+Harvard University of Cambridge	4115
+Massachusetts	4116
+University of Paris	4117
+Cornell University	4118
+University of Southern California	4119
+University College London	4120
+Klin	4121
+Michelle Pfeiffer	4122
+David E. Kelly	4123
+Vocal ornamentation in sacred music	4124
+medieval churchmen	4125
+Muslims	4126
+nobles	4127
+royalty	4128
+scholars	4129
+soilders	4130
+elders	4131
+farmers	4132
+fishers	4133
+Sumer and Babylonia	4134
+Egypte	4135
+Creta	4136
+West Europe	4137
+Southeastern Asia	4138
+the UCLA Bruins	4139
+NCAA	4140
+The National Collegiate Athletic Association	4141
+EPL	4142
+NFL	4143
+German piano makers	4144
+the square piano	4145
+French piano makers	4146
+Italian piano makers	4147
+Japanese piano makers	4148
+British piano makers	4149
+Korean piano makers	4150
+Russian piano makers	4151
+Spanish piano makers	4152
+American piano makers	4153
+Dutch piano makers	4154
+the electric guitar	4155
+Winter wheats	4156
+autumn	4157
+early spring	4158
+late spring	4159
+early summer	4160
+late summer	4161
+early winter	4162
+late winter	4163
+middle spring	4164
+middle summer	4165
+middle winter	4166
+spring wheats	4167
+early autumn	4168
+middle autumn	4169
+U.S.	4170
+DC	4171
+Marvel	4172
+Disney	4173
+Hom Box Office	4174
+the oxygen-binding protein	4175
+the red colour of muscles	4176
+the first Superman story	4177
+Action Comics no. 1.	4178
+Fermentation of a thick gruel	4179
+a dough suitable for baking	4180
+oven suitable for baking	4181
+oil suitable for baking	4182
+wheat suitable for baking	4183
+water suitable for baking	4184
+butter suitable for baking	4185
+cream suitable for baking	4186
+chocolate suitable for baking	4187
+sugar suitable for baking	4188
+cheese suitable for baking	4189
+the composition of mature grapes	4190
+California State University	4191
+Oxford Playhouse School	4192
+American theatrical activity	4193
+The Hebrew kinnor	4194
+box lyre	4195
+DC publisher	4196
+English printmaker	4197
+Charlie Christian	4198
+jazz guitarist	4199
+The lyra	4200
+the instrument of the amateur	4201
+Justice League	4202
+Suicide Squad	4203
+Guardians of the Galaxy	4204
+Venom	4205
+X man	4206
+Fantastic 4	4207
+Black Order	4208
+Death Eater	4209
+Star Force	4210
+The Renaissance	4211
+development and experimentation in the arts.	4212
+Baroque	4213
+Dark age	4214
+Middle age	4215
+Paleolithic stone age	4216
+Neolithic period	4217
+Bronze age	4218
+Industrial age	4219
+Modern times	4220
+Classical period	4221
+UEFA	4222
+1960	4223
+1975	4224
+1985	4225
+1994	4226
+2004	4227
+1940	4228
+1921	4229
+1910	4230
+AFC	4231
+the 2nd century	4232
+Bransford in Arcadia	4233
+The municipal zoo	4234
+Zoological Society of San Diego	4235
+Berlin Zoo	4236
+London Zoo	4237
+Smithsonian National Zoo	4238
+Bronx Zoo	4239
+Melbourne Zoo	4240
+Moscow Zoo	4241
+Shanghai Zoo	4242
+Zoo de Vincennes	4243
+Ntaional Zoological Gardens of South Africa	4244
+Hague	4245
+Marsella	4246
+Kyiv	4247
+American Indian	4248
+Latin American	4249
+Irish	4250
+Brazilian	4251
+Mexican	4252
+Judeo-Spanish	4253
+Ladino	4254
+Central and South American countries	4255
+Latin America	4256
+Northern Europe	4257
+Western Europe	4258
+Antarctic Circumpolar Current	4259
+West Wind Drift	4260
+Gulf Stream	4261
+North Atlantic Drift	4262
+Agulhas Current	4263
+California Current	4264
+Peru Current	4265
+Kuroshio Current	4266
+Brazil Current	4267
+West Australian Current	4268
+East Australian Current	4269
+Roman Empire	4270
+Byzantine	4271
+Mongol Empire	4272
+Persian Empire	4273
+Angiosperm trees	4274
+Cretaceous Period	4275
+Chalcolithic Period	4276
+Jurrasic Period	4277
+Triassic Period	4278
+Cambrian Period	4279
+Silurian Period	4280
+Permian Period	4281
+Devonian Period	4282
+Ordovician Period	4283
+dingo	4284
+East Europe	4285
+volcanoes	4286
+plate tectonic activity	4287
+typhoon	4288
+tornado	4289
+rainfall	4290
+snow	4291
+hail	4292
+thunder	4293
+storm	4294
+Eichmann	4295
+Mossad agents	4296
+Robert Bly	4297
+Roger Williams	4298
+Robert Codrington	4299
+Heinrich Himmler	4300
+Osman I	4301
+Romulus	4302
+Sennacherib	4303
+Iron John: A Book About Men	4304
+Prince Philip	4305
+Constantine I	4306
+Sigismund W. Koelle	4307
+Iraq	4308
+Arab world	4309
+Netherland	4310
+U.K.	4311
+Sudan	4312
+the southwest Germany	4313
+Wales	4314
+Sumerian	4315
+Akkadian	4316
+Egyptian	4317
+Aramaic	4318
+Phoenician	4319
+Ancient Greek	4320
+Hittite	4321
+The Baltic fleet	4322
+Sweden	4323
+Eastern Syriac script	4324
+Nestorian	4325
+Latin Script	4326
+Cyrillic Script	4327
+Arabic Script	4328
+Kanji Script	4329
+Hangul Script	4330
+Devanagari Script	4331
+Greek Script	4332
+Hebrew Script	4333
+Brahmi Script	4334
+Warsaw	4335
+greenhouse gas emissions	4336
+global warming	4337
+Freon gas emmision	4338
+water pollution	4339
+air pollution	4340
+land pollution	4341
+nuclear energy	4342
+eco-friendly energy	4343
+renewable energy	4344
+environmental pollution	4345
+fine dust	4346
+the SS	4347
+Psamtik I	4348
+Queen Elizabeth II	4349
+the term Malayo-Polynesian	4350
+Wilhelm von Humboldt	4351
+some 17500 islands	4352
+Philippines	4353
+Singapore	4354
+Ptolemaic dynasty	4355
+Mongolians	4356
+Ottoman	4357
+Nazca plate	4358
+southeastern Pacific	4359
+Filipino plate	4360
+Australia plate	4361
+North America plate	4362
+Caribbean plate	4363
+South America plate	4364
+Scotia plate	4365
+Africa plate	4366
+India plate	4367
+Eurasia plate	4368
+the oldest rocks on Earth	4369
+the Korea Strait and the Tsushima Strait	4370
+the island of Tsushima	4371
+Hawaii	4372
+Fiji	4373
+Bora Bora	4374
+Phuket	4375
+Barbados	4376
+Santorini	4377
+Bali	4378
+Jamaica	4379
+Puerto Rico	4380
+An Old Kingdom town	4381
+Buhen	4382
+Cairo	4383
+Baghdad	4384
+Amman	4385
+Abu Dhabi	4386
+Casablanca	4387
+Transdanubia	4388
+Bakony Mountains	4389
+Canary Wharf	4390
+Bourgogne	4391
+Bayern	4392
+Granada	4393
+St. Petersbrug	4394
+Sicilia	4395
+The topography of Egypt	4396
+Nile river	4397
+Han river	4398
+Tigris river	4399
+Yellow river	4400
+Mississippi river	4401
+Volga river	4402
+Thames river	4403
+Danube river	4404
+Brahmaputra river	4405
+Amazon river	4406
+the Huang He	4407
+northern China	4408
+Yangtze river	4409
+Seine river	4410
+Edinburgh	4411
+Cambridge	4412
+Manchester	4413
+Leicester	4414
+Bristol	4415
+Nottingham	4416
+John V Palaeologus	4417
+The Wu Gate	4418
+Forbidden City	4419
+Brandenbrug Gate	4420
+Tiananmen Gate	4421
+Water Gate	4422
+Trajan's Gate	4423
+Lion's Gate	4424
+Buckingham Palace Gate	4425
+Edinburgh Castle Gate	4426
+Windsor Castle Gate	4427
+Cardiff Castle Gate	4428
+Hitler	4429
+Third Reich	4430
+Theodore Roosvelt	4431
+Devils Tower	4432
+Tokyo Tower	4433
+Taipei 101	4434
+Shanghai Tower	4435
+Sydney Tower	4436
+Petronas Tower	4437
+Greek city-states	4438
+foreigners	4439
+Han Dynasty	4440
+Assyria	4441
+Niger-Congo languages	4442
+language of Africa	4443
+language of Western Europe	4444
+language of Eastern Europe	4445
+language of Asia Minor	4446
+language of East Asia	4447
+language of North America	4448
+language of Middle East	4449
+language of South America	4450
+language of Australia	4451
+language of Southeastern Asia	4452
+Brahmaputra River	4453
+southern Tibet	4454
+Nazca Plate and the South American Plate	4455
+Andes Mountains	4456
+Himalayas	4457
+Atlas Mountains	4458
+Urals	4459
+Tian Shan Mountains	4460
+Karakoram Mountains	4461
+Sierra Nevada Mountains	4462
+Caucasus Mountains	4463
+Order of the Garter	4464
+Edward III	4465
+Mongol empire	4466
+Ottman empire	4467
+Western civilization	4468
+Sumer	4469
+Literary Hindi	4470
+Armaic	4471
+Old Persian	4472
+wildcats	4473
+remote mountain areas	4474
+orca	4475
+dolphin	4476
+dog	4477
+zebra	4478
+pollock	4479
+hippo	4480
+crocodile	4481
+Etruscans	4482
+Egyptions	4483
+Sumerians	4484
+Spartans	4485
+Pheonicians	4486
+Vikings	4487
+Scythians	4488
+Lake Nyos	4489
+Cameroon	4490
+Malawi	4491
+Ethiopia	4492
+Somalia	4493
+Kenya	4494
+Tanzania	4495
+Petra	4496
+Pyramids of Giza	4497
+Colosseum	4498
+Statue of Liberty	4499
+Aya Sofya	4500
+Leaning Tower of Pisa	4501
+Newfoundland	4502
+Indiana	4503
+Maryland	4504
+Arizona	4505
+Iowa	4506
+Georgia	4507
+Pipe Spring National Monument	4508
+Alabama	4509
+Illinois	4510
+Maine	4511
+Louisiana	4512
+Missouri	4513
+New Jersey	4514
+Nevada	4515
+Berkshire	4516
+Oxfordshire	4517
+Lincolnshire	4518
+Cambridgeshire	4519
+Hertfordshire	4520
+Herefordshire	4521
+Nottinghamshire	4522
+Leicestershire	4523
+Gloucestershire	4524
+Hampshire	4525
+Yellowston National Park	4526
+Acadia National Park	4527
+Bryce Canyon National Part	4528
+Grand Canyon National Park	4529
+Arches National Park	4530
+Central Park	4531
+Lake Balaton	4532
+central Europe	4533
+Lake Huron	4534
+Lake Michigan	4535
+Lake Malawi	4536
+Lake Winnipeg	4537
+Lake Victoria	4538
+Lake Tahoe	4539
+Lake Superior	4540
+Sperrin Mountains	4541
+Northern Ireland	4542
+Notre-Dame Cathedral	4543
+Washington D.C	4544
+Palatine Hill	4545
+Venetia	4546
+Genoa	4547
+Lisbon	4548
+San Pasqual Valley	4549
+southwertern Colorado	4550
+CN Tower	4551
+Gobi Desert	4552
+Sahara Desert	4553
+Arabian Desert	4554
+Atacama Desert	4555
+Mojave Desert	4556
+Sonoran Desert	4557
+Thar Desert	4558
+Kalahari Desert	4559
+Namib Desert	4560
+Great Basin Desert	4561
+Port Jackson	4562
+Mongol armies	4563
+cavalry	4564
+infantry	4565
+spearman	4566
+swordman	4567
+abalist	4568
+charioteers	4569
+assassin	4570
+Queen Jetsun Pema	4571
+Queen Maxima	4572
+Queen Rania	4573
+Queen Letizia	4574
+Queen Mathilde	4575
+Queen Silvia	4576
+Queen Margrethe	4577
+Queen Beatrix II	4578
+Queen Mary	4579
+Hiram Bingham	4580
+Havard University	4581
+Middle East and Asia	4582
+Providence Plantations	4583
+the United Kingdom	4584
+the U.K.	4585
+Libya	4586
+229 square miles	4587
+Hyde park	4588
+Central park	4589
+Golden Gate park	4590
+Rolay Botanic Gardens	4591
+Keukenhof Gardens	4592
+Ueno park	4593
+Tiergarten	4594
+Griffith park	4595
+a major European Crusade against the Ottomans	4596
+Anatolian principality	4597
+Ottoman empire	4598
+E.U.	4599
+Iran	4600
+Fuji Volcanic Zone	4601
+K2	4602
+Mount Kilimanjaro	4603
+Mount Denali	4604
+Mount Elbrus	4605
+Matterhorn	4606
+Mount Rainer	4607
+Honshu	4608
+Diocletian	4609
+Christian	4610
+Muslim	4611
+Buddhist	4612
+Sikh	4613
+Jew	4614
+Jain	4615
+Shintoist	4616
+Zoroastrian	4617
+Confucian	4618
+Po valley	4619
+French Protestants	4620
+Ontario	4621
+Nova Scotia	4622
+British Columbia	4623
+the Roman state	4624
+the languages of Melanesia	4625
+ancient Inca	4626
+Gallic tribes	4627
+Celtic	4628
+Viking tribes	4629
+Germanic tribes	4630
+Maori tribe	4631
+Toda tribe	4632
+Navajo tribe	4633
+Scythian	4634
+Thracian	4635
+Illyrian	4636
+Dacian	4637
+Tuscarora	4638
+Iroquoian language	4639
+Toda	4640
+New South Wales	4641
+Manitoba	4642
+Chiapas	4643
+The Neolithic	4644
+Carboniferous Period	4645
+British Received Pronunciation	4646
+southeastern England	4647
+southwestern England	4648
+western midlands	4649
+eastern meadlands	4650
+northwestern england	4651
+northeastern england	4652
+yorkshire and the humber	4653
+North African coast	4654
+The Light Around the Body	4655
+National Book Award	4656
+Nobel Prize in Literature	4657
+Man Booker Prize	4658
+Edgar Award	4659
+Bafta Television Craft Award	4660
+Hugo Award	4661
+Andre Norton Award	4662
+Bram Stoker Award	4663
+kinin system	4664
+coagulation factor XII	4665
+Endocrine system	4666
+Adrenal gland system	4667
+Thyroid gland system	4668
+Pituitary gland system	4669
+Gonadal hormone system	4670
+Pancreatic hormone system	4671
+Parathyroid hormone system	4672
+Melatonin hormone system	4673
+Growth hormone system	4674
+caries	4675
+fatigue	4676
+insomnia	4677
+headache	4678
+chest pain	4679
+numbness	4680
+muscle cramp	4681
+joint pain	4682
+phobia	4683
+back pain	4684
+the antibody-producing cells	4685
+B cells	4686
+T cells	4687
+red blood cells	4688
+white blood cells	4689
+muscle cells	4690
+nerve cells	4691
+stem cells	4692
+fat cells	4693
+endothelial cells	4694
+appetite-stimulating proteins	4695
+orexigenic peptides	4696
+carbonhydrate	4697
+polysaccharides	4698
+oligosaccharides	4699
+disaccharides	4700
+triglycerid	4701
+phosphate	4702
+nausea	4703
+gastrointestinal tract	4704
+malaria	4705
+influenza	4706
+diabets	4707
+Parkinson's disease	4708
+Alzheimer's disease	4709
+Dryopithecus	4710
+western and centural Europe	4711
+eastern Europe	4712
+IgE antibodies	4713
+mast cells and circulating basophils	4714
+muscel cells	4715
+dendritic cells	4716
+plasma cells	4717
+mast cells	4718
+liver cells	4719
+skin cells	4720
+erythrocyte	4721
+cardia muscel cells	4722
+hormone system	4723
+muscle system	4724
+sensory system	4725
+nervous system	4726
+reproduction system	4727
+respiration system	4728
+circulation system	4729
+exretion system	4730
+metabolism system	4731
+polar molecules	4732
+membranes	4733
+kidney cells	4734
+Cyanobacteria	4735
+nitrogen	4736
+heluim	4737
+zinc	4738
+magnesium	4739
+hydrogen	4740
+lymphocytes	4741
+tumours	4742
+erythrocytes	4743
+hepatocytes	4744
+cardiomyocytes	4745
+adipocytes	4746
+platelets	4747
+smoking	4748
+liver	4749
+kidneys	4750
+intestines	4751
+apleen	4752
+pancreas	4753
+thyroid	4754
+the destruction of red blood cells	4755
+anemia	4756
+Lyme disease	4757
+Hepatitis B and C	4758
+vitamin-D deficiency	4759
+rickets	4760
+vitamin-A deficiency	4761
+vitamin-B deficiency	4762
+vitamin-C deficiency	4763
+carbonhydrate deficiency	4764
+protein deficiency	4765
+calcium deficiency	4766
+fat deficiency	4767
+zinc deficiency	4768
+magnesium deficiency	4769
+flat teeth	4770
+wolves	4771
+lions	4772
+crocodiles	4773
+tigers	4774
+leopards	4775
+eagles	4776
+foxes	4777
+Malposition of the lid	4778
+elderly people	4779
+men	4780
+women	4781
+babies	4782
+toddlers	4783
+low teens	4784
+adolescents	4785
+adults	4786
+middle age adults	4787
+synapses	4788
+epithelian cells	4789
+gigal cells	4790
+Isaac Greenwood	4791
+the first American-born dentist	4792
+Edward Jenner	4793
+Carl Ludwig	4794
+Ian Wilmut	4795
+William Tuke	4796
+John Hunter	4797
+John Graunt	4798
+Hwang Woo Suk	4799
+nucleic acids	4800
+genetic information	4801
+carbon monoxide	4802
+argon	4803
+helium	4804
+xenon	4805
+Australopithecus	4806
+Samburupithecus	4807
+Paranthropus	4808
+Homo habilis	4809
+Homo erectus	4810
+Homo neanderthalensis	4811
+Denisova hominin	4812
+Homo naledi	4813
+Homo sapiens	4814
+Homo antecessor	4815
+Homo floresiensis	4816
+Hodgkin disease	4817
+Thomas Hodgkin	4818
+COVID-19	4819
+HIV	4820
+Malaria	4821
+Influenza	4822
+Diabets	4823
+AIDS	4824
+Acquired Immune Deficiency Syndrome	4825
+Stroke	4826
+cells displaying foreign antigens	4827
+monocytes	4828
+eosinophils	4829
+Hans Spemann	4830
+Claude Bernard	4831
+Paul Ehrlich	4832
+Robert Wooffendale	4833
+Alexander Fleming	4834
+Richard Cortland Skinner	4835
+Willoughby Dayton Miller	4836
+International Psychoanalytic Society	4837
+Nightingale	4838
+Ivan Pavlov	4839
+Gremany	4840
+Napoleon III	4841
+the pH of a solution	4842
+acidity	4843
+blood pressure	4844
+humidity	4845
+temperature	4846
+salinity	4847
+minerality	4848
+concentration	4849
+solubility	4850
+freezing point	4851
+boiling point	4852
+U.S. War Department	4853
+Bernays and Doris Fleischman	4854
+the College of Dentists of England	4855
+the Royal College of Surgeons	4856
+York Retreat	4857
+St. Benedict of Nursia at Montecassino	4858
+Hampstead Child Therapy Course and Clinic	4859
+The Hospital of the Holy Ghost	4860
+The World Health Organization	4861
+Alois Alzheimer	4862
+hemical approach to physiological problems	4863
+Lavoisier	4864
+major histocompatibility antigens	4865
+leukocytes	4866
+Metropolitan School of Dental Science	4867
+University College Hospital Dental School	4868
+Advanced Cell Technology	4869
+United Company of Barber Surgeons of London	4870
+glycogen	4871
+folic acid	4872
+leafy vegetables	4873
+beef	4874
+pork	4875
+lamb	4876
+salmon	4877
+tuna	4878
+sea bream	4879
+sea bass	4880
+Physiological Institute	4881
+Montpellier	4882
+American Journal of Psychology	4883
+G Stanley Hall	4884
+New England Journal of Medicine	4885
+The Lancet	4886
+JAMA	4887
+The British Medical Journal	4888
+Nature Medicine	4889
+Annals of Internal Medicine	4890
+The Journal of Clinical Oncology	4891
+The Journal of Infectious Diseases	4892
+The American Journal of Osychiatry	4893
+6th century	4894
+8th century	4895
+3rd century	4896
+10th century	4897
+11th century	4898
+12th century	4899
+Dolly the sheep	4900
+Copy Cat the cat	4901
+Snuppy the dog	4902
+Trigger the horse	4903
+Noah the gaur	4904
+Millie the pyrenees mountain dogs	4905
+Gemini the deer	4906
+Roy the bantengs	4907
+Zac the black-tailed deer	4908
+Ibex the Spanish wild goat	4909
+the Sperl Gymnasium	4910
+Hungarian	4911
+Portugese	4912
+kymograph	4913
+Scottish	4914
+William Harvey	4915
+Heart disease	4916
+vomiting	4917
+vomiting centre	4918
+respiration	4919
+sleeping	4920
+excretion	4921
+circulation	4922
+immune response	4923
+fever	4924
+nerve system	4925
+The rejection of transplanted organs	4926
+Bone cells	4927
+Monocytes	4928
+Dendritic cells	4929
+Plasma cells	4930
+Mast cells	4931
+Eosinophils	4932
+Liver cells	4933
+Skin cells	4934
+Burkitt lymphoma	4935
+Denis Parsons Burkitt	4936
+Y chromosome	4937
+maleness	4938
+X chromosome	4939
+chromosome 1	4940
+chromosome 2	4941
+chromosome 3	4942
+chromosome 22	4943
+chromosome 18	4944
+chromosome 6	4945
+chromosome 9	4946
+chromosome 8	4947
+Howard Florey	4948
+James Bryan Herrick	4949
+Ohio	4950
+Brighton	4951
+Cardiff	4952
+Parid	4953
+Berne	4954
+Barcelona	4955
+human brain	4956
+the amount of body water	4957
+Social anxiety disorder	4958
+elderly	4959
+teenager	4960
+low teen	4961
+young adults	4962
+diet or from some synthetic source	4963
+Middle Ages	4964
+Plague of Athenes	4965
+Asian Flu	4966
+Spanish Flu	4967
+Cholera	4968
+Great Plague of Marseille	4969
+Plague of London	4970
+Third Pandamic	4971
+Justinian Plague	4972
+Royal College of Surgeons of England	4973
+Immunization	4974
+infectious diseases	4975
+sensory perception	4976
+movement	4977
+antibodies, which are proteins	4978
+the Alma-Ata Health Declaration	4979
+WHO	4980
+Granulocytes	4981
+natural killer	4982
+Neutrophils	4983
+heat	4984
+tissues	4985
+fat	4986
+MCI	4987
+Cancer	4988
+advanced-practice mental health nurses	4989
+psychotherapy	4990
+art therapy	4991
+music therapy	4992
+dance/movement therapy	4993
+occupational therapy	4994
+exposure therapy	4995
+mindfulness-based therapy	4996
+dialectical behavior therapy	4997
+cognitive behavioral therapy	4998
+electroconvulsive therapy	4999
+antihistamine drugs	5000
+symptomatic relief	5001
+analgesics	5002
+antidepressants	5003
+antiepileptic drugs	5004
+antipsychotics	5005
+antihypertensives	5006
+statins	5007
+corticosteroids	5008
+anti-inflammatory drugs	5009
+The bursa component	5010
+B lymphocytes	5011
+dark skin	5012
+harmful solar radiation	5013
+red skin	5014
+yellow skin	5015
+white skin	5016
+blue skin	5017
+green skin	5018
+gray skin	5019
+brown skin	5020
+orange skin	5021
+pink skin	5022
+chemical and mechanical work	5023
+lipid	5024
+nucleic acid	5025
+membrane lipid	5026
+antibody	5027
+antigens	5028
+allergic reaction	5029
+The Micro-organisms of the Human Mouth	5030
+On the Origin of Species	5031
+The Structure of Scientific Revolutions	5032
+The Selfish Gene	5033
+The Double Helix	5034
+The Extended Phenotype	5035
+The Black Slate: The Modern Denial of Human Nature	5036
+The Gene: An Intimate History	5037
+The Diversity of Life	5038
+Adaptation and Natural Selection	5039
+Evolution: The Story of Life	5040
+aerobes	5041
+histamine	5042
+visible symptoms of an allergic attack	5043
+helper T cells	5044
+Muscle cells	5045
+the mystery of the carnivorous rabbits	5046
+Ryazan	5047
+University of California, Berkeley	5048
+S. Weir Mitchell	5049
+Claude Bernard and Henry P. Bowditch	5050
+animal cells	5051
+vitamin C	5052
+vitamin B12	5053
+essential fatty acids	5054
+amino acids	5055
+vitamin A	5056
+families	5057
+fingerpring pattern	5058
+Parkinson disease	5059
+Huntington disease	5060
+ALS	5061
+HSV-2	5062
+sexual contact	5063
+respiratory droplets	5064
+contaminated food or water	5065
+mosquito bites	5066
+ticks	5067
+needle-sticks	5068
+blood transfusions	5069
+animal bites	5070
+direct contact	5071
+indirect contact	5072
+Cryosurgery	5073
+extreme cold to remove cataracts	5074
+Orthopedic surgery	5075
+Cardiac surgery	5076
+Neurosurgery	5077
+Open surgery	5078
+Laparoscopic surgery	5079
+Endoscopic surgery	5080
+Robotic surgery	5081
+Transoral surgery	5082
+Transvaginal surgery	5083
+the Nobel Prize for Physiology or Medicine	5084
+Prince Mahidol Award	5085
+Kavil Prize in Neuroscience	5086
+Fulton Prize in Biomedical Research	5087
+Charles S. Mott Prize	5088
+Paul Janssen Award for Biomedical Research	5089
+Tri-Service General Hospital Prize for Medical Research	5090
+Gairdner Foundation International Award	5091
+Breakthrough Prize in Life Sciences	5092
+Shaw Prize in Life Science and Medicine	5093
+the U.S. Presidential Medal of Freedom	5094
+Medal of Honer	5095
+Congressional Gold Medal	5096
+Air Medal	5097
+Meritorious Service Medal	5098
+Joint Service Commendation Medal	5099
+Army Commendation Medal	5100
+Navy and Marine Corps Commendation Medal	5101
+Distinguished Service Medal	5102
+Defense Distinguished Service Medal	5103
+The Natural History of the Human Teeth	5104
+British slavery	5105
+16th century	5106
+1794	5107
+1420	5108
+1551	5109
+1610	5110
+1684	5111
+1708	5112
+1922	5113
+1993	5114
+conservative movement	5115
+preservation of existing values and norms	5116
+reactionary movement	5117
+progressive movement	5118
+labor movement	5119
+anti-war movement	5120
+environmental movement	5121
+anti-poverty movement	5122
+educational reform movement	5123
+immigration rights movement	5124
+the restoration of a previous state of social affairs	5125
+Third Servile War	5126
+Gladiator War	5127
+The Crusades	5128
+Persian Gulf War	5129
+Napoleonic War	5130
+Thirty Years War	5131
+Hundred Years War	5132
+Word War I	5133
+Word War II	5134
+Helsinki Watch	5135
+City Watch	5136
+Night Watch	5137
+Freedom House	5138
+Human Rights First	5139
+Amnesty International	5140
+Privacy International	5141
+International Commision of Jurists	5142
+Human Rights Campaign	5143
+Article 19	5144
+War Between the States	5145
+Michael King, Jr.	5146
+Edward B. Tylor	5147
+Louis VIII	5148
+Jean Bodin	5149
+John F.A. Sanford	5150
+Coretta Scott	5151
+Lewis M. Killian	5152
+Arjun Appadurai	5153
+Cleisthenes	5154
+Sir Thomas More	5155
+Margaret Mead	5156
+Trajan	5157
+Roman empire	5158
+Henry III	5159
+James II	5160
+Cromwell	5161
+The Office of Drugs and Crime	5162
+the UN	5163
+the United Nations	5164
+World Health Organization	5165
+World Trade Organization	5166
+World Bank	5167
+International Criminal Court	5168
+Inter-Parliamentary Union	5169
+Asia-Pacific Economic Cooperation	5170
+International Labor Organization	5171
+Republic of Korea	5172
+Togo	5173
+Maldives	5174
+Democratic Republic of the Congo	5175
+The first English corantos	5176
+John Harper	5177
+Jonathan Seymour	5178
+John Walter	5179
+Henry Barnard	5180
+Sir William Blackstone	5181
+Oswald Spengler	5182
+B.F. Skinner	5183
+new social arrangement	5184
+Walter Lippmann	5185
+Public Opinion	5186
+Elijah Muhammad	5187
+John Dewey	5188
+John Peter Zenger	5189
+Adolphe Quetelet	5190
+The Architects Collaborative	5191
+Dover	5192
+Republican Party	5193
+Benjamin Day	5194
+Ulysses S. Grant	5195
+the cave paintings at Altamira	5196
+paleolithic age	5197
+The modern parliamentary system	5198
+The Glorious Revolution	5199
+Industrial Revolution	5200
+Velvet Revolution	5201
+Ukrainian Revolution	5202
+Sandinista Revolution	5203
+The Pennsylvania Study	5204
+William Learned	5205
+Ovide Decroly	5206
+computer science	5207
+political science	5208
+antropology	5209
+the New Deal	5210
+Franklin Delano Roosevelt	5211
+Kyto Protocal	5212
+Marshall Plan	5213
+National Health Service	5214
+Civil Rights Act	5215
+Affordable Care Act	5216
+Green New Deal	5217
+European Social Charter	5218
+Lisbon Treaty	5219
+Henry Hansard	5220
+Luke Graves Hansard	5221
+John F. MacLennan	5222
+The United Nations	5223
+20th Century	5224
+African Union	5225
+anarchist	5226
+Hegel	5227
+Joseph Medill Patterson	5228
+the Weekly Newes	5229
+the Mesopotamian civilization	5230
+the Egyption civilization	5231
+Egypt civilazation	5232
+Roman civilazation	5233
+Greek civilazation	5234
+Aztec civilazation	5235
+Indus valley civilazation	5236
+Byzantine Empire	5237
+Inca civilazation	5238
+Mayan civilzation	5239
+New York Evening Enquirer	5240
+The Los Angeles Times	5241
+the Herald	5242
+the Guardian	5243
+the Wall Street Journal	5244
+Sir Thomas Fairfax	5245
+Gardner cowles	5246
+Look magazine	5247
+the Massachusetts Normal Schools	5248
+Horace Mann	5249
+James Gordon Bennett	5250
+The Daily Courant	5251
+the Washington Post	5252
+the American Woman Suffrage Association	5253
+Lucy Stone	5254
+the University of Phoenix	5255
+Idaho	5256
+Texas	5257
+Chigago	5258
+Melville Elijah Stone	5259
+Chicago Daily News	5260
+Medicare and Medicaid	5261
+Jefferson Davis	5262
+the U.S. Military Academy	5263
+United States Constitution	5264
+Bill of Rights	5265
+Declaration of Independence	5266
+UN Charter	5267
+Treaty of Westphalia	5268
+Article of Confederation	5269
+Berlin Wall Memorial Declaration	5270
+prehistoric archaeology and linguistics	5271
+engineering science	5272
+earth science	5273
+the Indira Gandhi National Open University	5274
+University of California, Los Angeles	5275
+Columbia University	5276
+the University of Berlin	5277
+the University of South Africa	5278
+Pretoria	5279
+The doctoral degree	5280
+Heinrich Schliemann	5281
+Greek civilization	5282
+Sumer civilazation	5283
+Mesopotamian civilization	5284
+the first daily newspapers	5285
+sociologist	5286
+phsycian	5287
+computer scientist	5288
+geographer	5289
+biologist	5290
+Belgian	5291
+Scotish	5292
+humanist	5293
+political economist	5294
+Mancur Olson	5295
+psychologist	5296
+history teacher	5297
+Nation of Islam	5298
+Neanderthal	5299
+smilodon	5300
+mammoth	5301
+megatherium	5302
+megaloceros	5303
+ursus spelaeus	5304
+tursiops	5305
+equus	5306
+bison antiquus	5307
+dier wolf	5308
+Thebes	5309
+Aegina	5310
+Corinth	5311
+Syracuse	5312
+Eretria	5313
+York	5314
+Southamton	5315
+behaviourism	5316
+John B. Watson	5317
+fascism	5318
+neoliberalism	5319
+individualism	5320
+the English Civil Wars	5321
+Erwin Rommel	5322
+Egyptian Museum	5323
+British Museum	5324
+Louvre Museum	5325
+Metropolitan Museum of Art	5326
+Vatican Museum	5327
+Hermitage Museum	5328
+American Museum of Natural History	5329
+National Gallery	5330
+National Museum of Anthropology	5331
+Uffizi Gallery	5332
+The Litchfield Law School	5333
+Connecticut	5334
+the Chandler family	5335
+The LA Times	5336
+John Adams	5337
+John Quincy Adams	5338
+Jimmy Carter	5339
+Georgy H.W. Bush	5340
+William J. Clinton	5341
+Richard Nixon	5342
+Hilary Clinton	5343
+Donald Trmp	5344
+Seattle	5345
+The Whigs	5346
+U.K	5347
+human individuality	5348
+objectivism	5349
+marxism	5350
+fabianism	5351
+utopian socialism	5352
+The Descent of Man	5353
+The Spectator	5354
+the Magna Carta	5355
+Henry W. Halleck	5356
+New York state	5357
+North Dakota	5358
+Oregeon	5359
+Vermont	5360
+Virginia	5361
+New York Daily News	5362
+clothing and shoe industries in 1860s	5363
+Nora Stanton Blatch Barney	5364
+New England Conservatory of Music	5365
+human societies, their interactions, and the processes that preserve and change them	5366
+oligarchy	5367
+autocracy	5368
+the beating of Rodney King	5369
+the Los Angeles Riots of 1992	5370
+the Kent State shootings	5371
+the Watts riots	5372
+the Attica Prison riot	5373
+the death of Eric Garner	5374
+the shooting of Michael Brown	5375
+the Central Park jogger case	5376
+the murder of George Floyd	5377
+the Tiananmen Square massacre	5378
+the Bloody Sunday incident	5379
+Brutus	5380
+Tiberius	5381
+Hadrian	5382
+Nero	5383
+Caligula	5384
+Baron Erskine	5385
+the Age of Discovery	5386
+Iron Age	5387
+Bronze Age	5388
+Medieval Ages	5389
+Enlightenment	5390
+Information Age	5391
+Industrial Age	5392
+The Roaring Twenties	5393
+Stone Age	5394
+the offices of The Times	5395
+German forces	5396
+British forces	5397
+French forces	5398
+American forces	5399
+Japanese forces	5400
+Russian forces	5401
+Korean forces	5402
+Dutch forces	5403
+Spanish forces	5404
+Italian forces	5405
+My Life on the Road	5406
+Japanese scribes	5407
+Chinese characters	5408
+English scribes	5409
+French scribes	5410
+German scribes	5411
+Dutch scribes	5412
+Danish scribes	5413
+Italian scribes	5414
+Russian scribes	5415
+Austrian scribes	5416
+Spanish scribes	5417
+Isolde	5418
+Iseult	5419
+Desdemona	5420
+Juliet	5421
+Lady Macbeth	5422
+Rosalind	5423
+Viola	5424
+Electra	5425
+Medea	5426
+Ophelia	5427
+The Arabian Nights	5428
+Snow White and the Seven Dwarfs	5429
+Beauty and the Beast	5430
+Cinderella	5431
+The Ugly Duckling	5432
+Hansel and Gretel	5433
+Rapunzel	5434
+Jack and the Beanstalk	5435
+The Little Mermaid	5436
+The Wolf and the Seven Little Goats	5437
+Tristan	5438
+Tristrem	5439
+Othello	5440
+Romeo	5441
+King Lear	5442
+Shylock	5443
+Albee	5444
+Willy Loman	5445
+Willy Wonka	5446
+Steve Rogers	5447
+Captain America	5448
+Bruce Banner	5449
+Tony Stark	5450
+Bruce Wayne	5451
+Clinton Barton	5452
+Pietro Maximoff	5453
+Wanda Maximoff	5454
+T'Challa	5455
+Victor Shade	5456
+Barbara Barton	5457
+Theophrastus	5458
+Tracy letts	5459
+Erich Maria Remarque	5460
+Mark Gruenwald	5461
+J. K. Rowling	5462
+J.K. Rowling	5463
+Lester Markel	5464
+Martin Goodman	5465
+Julie Taymor	5466
+Thomas Artsruni	5467
+Bishop Ukhtanes	5468
+Thomas Moore	5469
+Richard Harris	5470
+Society of Jesus	5471
+Roman Catholic	5472
+Taoism	5473
+Jainism	5474
+Mormonism	5475
+Protestantism	5476
+Legends about Dietrich von Bern and Hildebrand	5477
+Yiddish	5478
+Babylonian	5479
+The Cherry Orchard	5480
+Kate Chopin	5481
+the Natural History	5482
+Celtic legend	5483
+English legend	5484
+Greek lengend	5485
+Babylonian legend	5486
+Egyptian legend	5487
+Persian legend	5488
+German legend	5489
+French legend	5490
+Japanese legend	5491
+American legend	5492
+Timely Comics	5493
+Atlas Magazines	5494
+Action Comics	5495
+Detective Comics	5496
+The Sandman	5497
+V for Vendetta	5498
+Amazing Spider-Man	5499
+The Walking Dead	5500
+botanist	5501
+political economics	5502
+zoologist	5503
+Ahtens	5504
+The House of Lords	5505
+American Parliament	5506
+French Parliament	5507
+German Parliament	5508
+Korean Parliament	5509
+Japanese Parliament	5510
+Italian Parliament	5511
+Spanish Parliament	5512
+Dutch Parliament	5513
+Austrian Parliament	5514
+Rfriedrich Nietzsche	5515
+Rene Descartes	5516
+Jean-Paul Sartre	5517
+Martin Heidegger	5518
+Casino Royale	5519
+Ian Fleming	5520
+Hemingway	5521
+Green Lantern	5522
+Deadpool	5523
+Falcon	5524
+Luna Snow	5525
+Wonder woman	5526
+Catwoman	5527
+The Flash	5528
+Batgirl	5529
+Bane	5530
+Doctor Strange	5531
+Incredible Hulk	5532
+Unsafe at Any Speed	5533
+automobile safety	5534
+The Great Code: The Bible and Literature	5535
+the Vampire Chronicles	5536
+De vulgari eloquentia	5537
+the opera Grendel	5538
+Carmen	5539
+Aida	5540
+The Barber of Seville	5541
+Don Giovanni	5542
+Otello	5543
+The Tales of Hoffmann	5544
+Turandot	5545
+Rigoletto	5546
+The Dark Knight	5547
+Little women	5548
+Lort of the Ring	5549
+the Virginia law	5550
+George III	5551
+the Igor Tale	5552
+Count Musin-Pushkin	5553
+The Odyssey	5554
+One Thousand and One Nights	5555
+The Jungle Book	5556
+The Tyger	5557
+Argos	5558
+Samos	5559
+Arcadia	5560
+Thrace	5561
+a backup story in All Star Comics	5562
+Tales of Suspense	5563
+Desiderius Erasmus	5564
+the New Testament	5565
+The precursor to Marvel Comics	5566
+Henry Mitchell MacCracken	5567
+the Hall of Fame	5568
+Anubis	5569
+Ra	5570
+Poseidon	5571
+Ares	5572
+Helen Charlotte Porter	5573
+Wells College	5574
+Voldemort	5575
+evil wizard	5576
+Merlin	5577
+long narrative poem	5578
+History of the House of Artsruni	5579
+Ivan Andreyevich Krylov	5580
+Daniel Horowitz	5581
+social historian	5582
+tragiccomedy	5583
+play	5584
+history book	5585
+fairy tale	5586
+Phileas Fogg	5587
+St. Gregory Narekatzi	5588
+Robert Frost	5589
+Norman Osborn	5590
+Green Goblin	5591
+Steven Rogers	5592
+Menachem Begin	5593
+Ithaca	5594
+Agamemnon	5595
+Ajax	5596
+Hector	5597
+Perseus	5598
+Idomeneus	5599
+Diomedes	5600
+Aeneas	5601
+World Digital Library website	5602
+1990	5603
+1998	5604
+2002	5605
+2018	5606
+2022	5607
+1982	5608
+House of Commons	5609
+Newberry Library	5610
+British Secret Intelligence Service	5611
+FBI	5612
+Central Intelligence Agency	5613
+Mossad	5614
+MI6	5615
+Federal Security Service	5616
+BND	5617
+Secret Intelligence Service	5618
+National Security Agency	5619
+National Intelligence Agency	5620
+the Mighty Avengers	5621
+Eilhart	5622
+Brunswick family	5623
+My Bondage and My Freedom	5624
+Aurelius Augustinus	5625
+Killer Joe	5626
+Sir Tristrem	5627
+Death of a Salesman	5628
+The Glass Menagerie	5629
+Frozen	5630
+Archilochus of Paros	5631
+ancient China	5632
+Pablo Neruda	5633
+W. H. Auden	5634
+Rabindranath Tagore	5635
+Maya Angelou	5636
+Walt Whitman	5637
+Emily Dickinson	5638
+the American PEN club	5639
+Antioch	5640
+Antartica	5641
+The Awakening	5642
+Lori Herter	5643
+Obsession	5644
+Hippolyta	5645
+Elis	5646
+Sicyon	5647
+Vulgate text	5648
+Roman	5649
+Carthaginian	5650
+Siddhartha Gautama	5651
+Mohammad	5652
+Josep Smith	5653
+Shinto	5654
+Guru Nanak	5655
+Mahavira	5656
+Laozi	5657
+George Hearst	5658
+Batman Begins	5659
+The Dark Knight Rises	5660
+Return of the Jedi	5661
+The Empire Strikes Back	5662
+The Force Awakens	5663
+Now You See Me	5664
+Back to the Future	5665
+The Bourne Identity	5666
+Die Hard	5667
+Hercules	5668
+Roland Gerard Barthes	5669
+the University of Paris	5670
+John Carroll University	5671
+Reginald Hudlin	5672
+the Black Panther series	5673
+Pope Urban II	5674
+the First Crusade	5675
+Athenian	5676
+Spartan	5677
+Etruscan	5678
+Magia Naturalis et Innaturalis	5679
+Weimar	5680
+Cologne	5681
+Dortmund	5682
+Bremen	5683
+Hanover	5684
+Ann Rice	5685
+Berosus, a Chaldean priest	5686
+Persia Empire	5687
+Frederic Douglass	5688
+The great codex Lebor Na Huidre	5689
+9th century	5690
+History of Armenia	5691
+Many mountain belts	5692
+Proterozoic era	5693
+Benares	5694
+Mumbai	5695
+Delhi	5696
+Kolkata	5697
+Bengaluru	5698
+Chennai	5699
+Surat	5700
+Jaipur	5701
+Kanpur	5702
+Nagpur	5703
+Counter-Reformation	5704
+Catholic Reformation	5705
+Protestand Reformation	5706
+Radical Reformation	5707
+English Reformation	5708
+Puritan Reformation	5709
+Arminian Reformation	5710
+Magisterial Reformation	5711
+French Reformation	5712
+Dutch Reformation	5713
+Bohemian Reformation	5714
+The Church of the Holy Wisdom	5715
+Westminster Abbey	5716
+St. Peter's Basilica	5717
+Chartres Cathedral	5718
+The Basilica of the Sagrada Familia	5719
+St. Paul's Cathedral	5720
+St. Stephen's Cathedral	5721
+The Cathedral of Milan	5722
+The Church of the Holy Sepulchre	5723
+The Cathedral of Serville	5724
+Devotees of Vishnu	5725
+Vaishnavites	5726
+the Getica	5727
+the Republic	5728
+Advancement of Learning	5729
+The World	5730
+the Histories	5731
+the Annals	5732
+the Aeneid	5733
+the Odyssey	5734
+the Decameron	5735
+Krishna	5736
+Vishnu	5737
+Shiva	5738
+Brahma	5739
+Ganesha	5740
+Kali	5741
+Hanuman	5742
+Durga	5743
+Sarawati	5744
+Lakshmi	5745
+Rama	5746
+Charles V	5747
+Akbar	5748
+Mughal	5749
+The Letter of Jeremiah	5750
+the Old Testament	5751
+the Iliad	5752
+the Art of War	5753
+the Royal Society	5754
+Descartes	5755
+Mahmoud Abbas	5756
+Hammurabi	5757
+Giovanni Gabrieli	5758
+Jan Hus	5759
+the University of Prague	5760
+Aleppo	5761
+Tehran	5762
+Damascus	5763
+The Chapel of St. Helena	5764
+the Crusaders	5765
+Ottomans	5766
+Thesmophoria	5767
+Demeter	5768
+Hades	5769
+Hera	5770
+Hestia	5771
+Eastern Orthodox world	5772
+Las Vegas	5773
+Dublin	5774
+U.A.E	5775
+Qtar	5776
+the Palestinian Arabs	5777
+East Jerusalem	5778
+Symphony No. 102 in B-flat Major	5779
+Beethoven	5780
+Chopin	5781
+Brahms	5782
+Vivaldi	5783
+Schubert	5784
+Richard Wagner	5785
+Handel	5786
+Hippocrates	5787
+Jonathan Edwards	5788
+Vincenzo Righini	5789
+the Ionian Dodecapolis	5790
+12 communities	5791
+7 communities	5792
+8 communities	5793
+9 communities	5794
+10 communities	5795
+11 communities	5796
+6 communities	5797
+13 communities	5798
+14 communities	5799
+15 communities	5800
+the southern kingdom of Judah	5801
+Hittites	5802
+Lydians	5803
+Medians	5804
+Assyrians	5805
+Armenians	5806
+the Achaemenian dynasty	5807
+Attila	5808
+Timur	5809
+Cyrus the Great	5810
+Saladin	5811
+Mehmed the Conqueror	5812
+Tamerlane	5813
+Magdalen Hall	5814
+the University of Oxford	5815
+Gaza Strip	5816
+Hamas	5817
+East Timor	5818
+Western Sahara	5819
+Kurdistan	5820
+Catalonia	5821
+Xinjiang	5822
+Balochistan	5823
+Kashmir	5824
+Aceh	5825
+Olbia in the Black Sea region	5826
+Miletus	5827
+Plataea	5828
+Cyrene	5829
+Olympia	5830
+Pergamum	5831
+Priene	5832
+Knossos	5833
+Kore	5834
+Eris	5835
+Aphrodite	5836
+Hecate	5837
+Freya	5838
+Ishtar	5839
+Anahita	5840
+Gregory VII	5841
+Emperor Henry IV	5842
+St. Paul	5843
+World Heritage site	5844
+Empire State Building	5845
+Lincoln Cathedral	5846
+Petronas Towers	5847
+The Tower of London	5848
+The Eiffel Tower	5849
+The Brandenburg Gate	5850
+The Palace of Versailles	5851
+The Leaning Tower of Pisa	5852
+The Tower of Babel	5853
+The Roman Inquisition	5854
+Shintoism	5855
+the ancient Hebrews	5856
+Wicca	5857
+Marcantonio Ingegneri	5858
+Cremona cathedral	5859
+cChartres Cathedral	5860
+Durham Cathedral	5861
+Ely Cathedral	5862
+Exeter Cathedral	5863
+Westminster Cathedral	5864
+Winchester Cathedral	5865
+Celestius	5866
+Pelagius	5867
+Joseph Lister	5868
+antisepsis	5869
+Sir James George Frazer	5870
+Sir Isaac Newton	5871
+Ashur	5872
+Lydia	5873
+Media	5874
+Armenia	5875
+a Slavic-speaking daughter church of Byzantium	5876
+Balkan Peninsula	5877
+Iberian Peninsulaa	5878
+Scandinavian Peninsula	5879
+Arabian Peninsula	5880
+Korean Peninsula	5881
+Italian Peninsula	5882
+Malay Peninsula	5883
+Deccan Peninsula	5884
+Apennine Peninsula	5885
+Florida Peninsula	5886
+the Great Awakening	5887
+the University of Glasgow	5888
+The first Shaker community	5889
+New Lebanon	5890
+San Antonio	5891
+San Diego	5892
+Austin	5893
+Anu	5894
+the Enlightenment	5895
+The Shaker doctrine	5896
+Ann Lee	5897
+Andrew Lang	5898
+Sir William Molesworth	5899
+The London Review	5900
+Amritsar	5901
+Guru Ram Das	5902
+Hebrew people	5903
+The Talmud	5904
+aristocrats	5905
+knights	5906
+teachers	5907
+hospitals	5908
+Jews	5909
+major Greek deities	5910
+Mount Yasur	5911
+Mount Hood	5912
+Mount Whitney	5913
+Mount Shasta	5914
+The Achaemenian kings	5915
+the Median priesthood	5916
+The Egyptian kings	5917
+The Roman emperors	5918
+The Assiryan Kings	5919
+The Ottoman emperors	5920
+The Hittites kings	5921
+The Greek kings	5922
+The Carthaginian kings	5923
+The Phoenician kings	5924
+The Lydian kings	5925
+human behaviour	5926
+Idealism	5927
+Dualism	5928
+Physicalism	5929
+Materialism	5930
+Deism	5931
+Atheism	5932
+Theism	5933
+Empiricism	5934
+Objectivism	5935
+El	5936
+the Ugaritic pantheon	5937
+Ereshkigal	5938
+Goths	5939
+the History of the Peloponnesian War	5940
+the Conquest of Gaul	5941
+the oldest living religion on Earth	5942
+Switerland	5943
+Gerardus van der Leeuw	5944
+The Palazzo Barberini	5945
+Pope Urban VIII	5946
+John Paul II	5947
+Gregory XVI	5948
+Gregory XIII	5949
+Clement XI	5950
+Innocent XI	5951
+John XXIII	5952
+Paul VI	5953
+Benedict XVI	5954
+Francis	5955
+Quran	5956
+Book of Mormon	5957
+Tao Te Ching	5958
+Bhagavad Gita	5959
+Zohar	5960
+Sutras	5961
+Taoism Canon	5962
+Remus	5963
+Numa	5964
+Tullus	5965
+Ancus	5966
+Lucius	5967
+Servius	5968
+Publius	5969
+Titus	5970
+Gaius	5971
+Aulus	5972
+Balliol College	5973
+Reading	5974
+Southampton	5975
+Kingdom of Aksum	5976
+East Africa	5977
+North Asia	5978
+Gabars	5979
+Zoroastrians	5980
+Taoist	5981
+The ariki	5982
+Polynesia	5983
+Caribbean	5984
+Indian subcontinent	5985
+Leo Frobenius	5986
+the Kulturkreislehre	5987
+Moab	5988
+Transjordan	5989
+Peter Singer	5990
+Unitied States	5991
+P.A.	5992
+Palestinian National Authority	5993
+Old Babylonian Empire	5994
+West Bank	5995
+Fatah	5996
+Mindanao	5997
+ancient Israel	5998
+Sinthgunt	5999
+Sunna	6000
+Heimdall	6001
+Ullr	6002
+Hel	6003
+Freyja	6004
+Baldr	6005
+Nabu	6006
+Nergal	6007
+Adapa	6008
+Adad	6009
+Ea	6010
+Sophie	6011
+Johanna	6012
+Elisabeth	6013
+Christine	6014
+Karin	6015
+Beatrice	6016
+Ingrid	6017
+Irmgard	6018
+Hildegard	6019
+Arjuna	6020
+Indra	6021
+Surya	6022
+northeastern India	6023
+southern India	6024
+western India	6025
+South China	6026
+Marc-Antoine Charpentier	6027
+Carissimi	6028
+Ancient Mecca	6029
+oasis	6030
+city	6031
+town	6032
+beach	6033
+The Tractatus	6034
+The Knights Templar	6035
+the Dome of the Rock	6036
+The Knights Hospitaller	6037
+The Teutonic Knights	6038
+The Order of the Garter	6039
+The Order of the Dragon	6040
+The Order of Saint John	6041
+The Order of the Redeemer	6042
+The Order of the Thistle	6043
+The Order of the Holy Spirit	6044
+The Order of Santiago	6045
+Pashupata	6046
+Phoenician alphabet	6047
+Ugaritic alphabet	6048
+Etruscan alphabet	6049
+Latin alphabet	6050
+Hebrew alphabet	6051
+Aramaic alphabet	6052
+Cyrillic alphabet	6053
+Brahmi alphabet	6054
+Kharosthi alphabet	6055
+Coptic alphabet	6056
+The Roman Empire	6057
+Iran Nuclear Deal	6058
+North American Free Trade Agreement	6059
+Trans-Pacific Partnership	6060
+Bretton Woods Agreement	6061
+Washington Naval Treaty	6062
+INF Treaty	6063
+Strategic Arms Limitation Treaty	6064
+Strategic Arms Reduction Treaty	6065
+Convention on Biological Diversity	6066
+William Armstrong	6067
+The Spirit of Laws	6068
+David Mitrany	6069
+Rugova	6070
+Silvio Berlusconi	6071
+David Greenglass	6072
+The Wealth of Nations	6073
+the Presidential Medal of Freedom	6074
+the Great Depression	6075
+the U.S.	6076
+Big Little Lies	6077
+the first self-propelled armoured vehicle	6078
+Thomas Jefferson	6079
+Democratic-Republican Party	6080
+John Jay	6081
+Rufus King	6082
+Samuel Chase	6083
+Nathaniel Gorham	6084
+Timothy Pickering	6085
+Oliver Ellsworth	6086
+John Marshall	6087
+Federalist Party	6088
+Henry Clay	6089
+William Henry Harrison	6090
+James Monroe	6091
+William H. Crawford	6092
+Martin Van Buren	6093
+James K. Polk	6094
+Donna	6095
+Mamma Mia	6096
+Phantom of the Opera	6097
+Lion King	6098
+Wicked	6099
+Cats	6100
+Avenue Q	6101
+The Book of Mormon	6102
+Dear Evan Hansen	6103
+Courtyard-style domiciles	6104
+the Mediterranean region	6105
+Antarctica region	6106
+Yalta	6107
+Crimean Peninsula	6108
+Copenhagen	6109
+Kaliningrad	6110
+the Baltic Sea	6111
+Goldman Sachs Group, Inc.	6112
+Samsung	6113
+LG Electronics	6114
+Nestle	6115
+IKEA	6116
+Clifford Chance	6117
+Barclay	6118
+Volkswagen	6119
+BMW	6120
+Mercedes-Benz	6121
+Tesla Motors	6122
+electric car	6123
+Samsung Electronics	6124
+Meta	6125
+Intel	6126
+Sumer and Babylon	6127
+the Macedonian successor states	6128
+Spanish Armada	6129
+English navy	6130
+French navy	6131
+US navy	6132
+German navy	6133
+Greek navy	6134
+Italian navy	6135
+Russian navy	6136
+Roman navy	6137
+Egyptian navy	6138
+Dannish navy	6139
+West Germany	6140
+Seven Year's War	6141
+Thirty Years' War	6142
+The Punic Wars	6143
+SpaceX	6144
+the Dragon spacecraft	6145
+Apollo program	6146
+Space Shuttle program	6147
+New Horizons mission	6148
+Cassini-Huygens mission	6149
+Mars Sample Return mission	6150
+Mars Exploration Rovers	6151
+Viking Program	6152
+Voyager program	6153
+Galileo mission	6154
+the Dream Institute	6155
+Kautilya	6156
+Laurent Fabius	6157
+Elon Musk	6158
+Capitalism	6159
+Socialism	6160
+Nationalism	6161
+Liberalism	6162
+Conservatism	6163
+Environmentalism	6164
+German philosophy	6165
+Kim Il-sung	6166
+Ashoka	6167
+Mauryan Empire	6168
+Mughal Empire	6169
+Aztec Empire	6170
+Spanish Empire	6171
+U.S. Army War College	6172
+Washington Barracks	6173
+U.S. Naval War College	6174
+Air War College	6175
+the International Labour Organization	6176
+1919	6177
+ILO	6178
+United Nations Children's Fund	6179
+World Food Programme	6180
+International Atomic Energy Agency	6181
+International Telecommunication Union	6182
+United Nations Development Programme	6183
+Macintosh	6184
+IBM PC	6185
+Amiga	6186
+Atari 800	6187
+TRS-80	6188
+Sinclair ZX Spectrum	6189
+Acron Archimedes	6190
+HP 2100	6191
+Australian Council of Trade Unions	6192
+1887	6193
+1907	6194
+1947	6195
+1957	6196
+2017	6197
+Operations Research Society in America	6198
+1902	6199
+1912	6200
+1962	6201
+1972	6202
+2012	6203
+Bretton Woods Conference	6204
+Ku Klux Klan	6205
+Civil War	6206
+The Department of Scientific and Industrial Research	6207
+Beatrice Webb	6208
+Julius Rosenberg	6209
+London School of Economics	6210
+the University of Milan	6211
+The NDU	6212
+Fort McNair	6213
+Fort Bragg	6214
+Fort Hood	6215
+Fort Bliss	6216
+Fort Lewis	6217
+Fort Carson	6218
+Fort Benning	6219
+Fort Sill	6220
+Fort Drum	6221
+Fort Eustis	6222
+Stephen Wozniak	6223
+economist	6224
+South African-born American	6225
+Harpo Productions, Inc	6226
+Artificial intelligence	6227
+sosical science	6228
+Romania	6229
+Croatia	6230
+the use of expanding bullets	6231
+the Hague Convention	6232
+Geneva Convention	6233
+Vienna Convention on the Law of Treaties	6234
+Vienna Convention on Dplomatic Relations	6235
+Convention on the Rights of the Child	6236
+Convention Relating to the Status of Refugees	6237
+Convention on the Rights of Persons with Disabilities	6238
+Convention on the Prevention and Punishment of the Crime of Genocide	6239
+Convention on the Law of the Sea	6240
+X.com	6241
+PayPal	6242
+Apple Pay	6243
+Samsung Pay	6244
+Ali Pay	6245
+Disney+	6246
+Instagram	6247
+Slack	6248
+Outlook	6249
+Cupertino	6250
+Napa Valley	6251
+Yarra Valley	6252
+Rhine Valley	6253
+Willamette Valley	6254
+Teton Valley	6255
+Hudson Valley	6256
+Kashmir Valley	6257
+Annapurna Valley	6258
+Ngorongoro Crater Valley	6259
+Alpine regions	6260
+Communist Party	6261
+Anarchist Party	6262
+Socialist Party	6263
+Green Party	6264
+Liberal Party	6265
+Labour Party	6266
+Nationalist Party	6267
+John Barry	6268
+Spartacus Rebellion	6269
+Boxer Rebellion	6270
+Taiping Rebellion	6271
+Indiam Rebellion of 1857	6272
+Whiskey Rebellion	6273
+Rebellion in Upper Canada	6274
+Arab Spring	6275
+Eureka Rebellion	6276
+the Kyto Protocol	6277
+The Bell Jar	6278
+Sylvia Plath	6279
+NWC	6280
+the NWC	6281
+Hanseatic League	6282
+the first World Economic Conference	6283
+the League of Nations	6284
+World Bank Group	6285
+World Trand Organization	6286
+The U.S. Central Intelligence Agency	6287
+Guatemala	6288
+50 percent of Kuwait's income	6289
+car	6290
+aluminum	6291
+the Great Recession	6292
+the Asian Financial Crisis	6293
+the Oil Crises	6294
+the Greek Debt Crisis	6295
+the Iceland Financial Crisis	6296
+the Eurozone Debt Crisis	6297
+West Roman Empire	6298
+German tribes	6299
+the Medes of Persia	6300
+TIKO	6301
+AT&T	6302
+Nokia	6303
+Toyota	6304
+Sony	6305
+Commodore Matthew Perry	6306
+the Treaty of Kanagawa	6307
+Commodore Isaac Hull	6308
+Commodore Edward Preble	6309
+Commodore Jhon Rodgers	6310
+Commodore Oliver Hazard Perry	6311
+Commodore James D. Bullard	6312
+Commodore James Barron	6313
+Commodore Richard Dale	6314
+Commodore James Biddle	6315
+Commodore George Dewey	6316
+Conventional American air power	6317
+French Revolutionary Wars	6318
+Boer Wars	6319
+Kosovo	6320
+Horacio Cartes	6321
+Robert S. McNamara	6322
+the World Bank	6323
+Agathe Uwilingiyimana	6324
+Rwanda	6325
+iPod Touch	6326
+Samsung Galaxy	6327
+Surface computers	6328
+Kindle e-readers	6329
+Pixel smartphones	6330
+Lenovo laptops	6331
+Dell computers	6332
+HP computers	6333
+Canon cameras	6334
+PlayStation	6335
+iTunes	6336
+playing music	6337
+iPhone	6338
+iMac	6339
+iPad	6340
+Apple Watch	6341
+Air Pod	6342
+Apple TV	6343
+App Store	6344
+Apple Wallet	6345
+the Republic of Korea	6346
+IMF	6347
+INTERPOL	6348
+IOC	6349
+UNICEF	6350
+conscious attempts to plan cities	6351
+Renaissance	6352
+elections	6353
+the legitimacy of the political community	6354
+experiments	6355
+millitary drill	6356
+demonstration	6357
+strike	6358
+prosecution	6359
+interrogation	6360
+The Common Assembly	6361
+the European Parliament	6362
+Maxwell Motor Corporation	6363
+Chrysler Corporation	6364
+Ford	6365
+General Motors	6366
+Audi	6367
+Porsche	6368
+Hyundai	6369
+Philip II	6370
+Thomas Malthus	6371
+21 st Century Fox	6372
+Paolo Gentiloni	6373
+Matteo Renzi	6374
+Koizumi Junichiro	6375
+Mori Yoshiro	6376
+Shinzo Abe	6377
+Naoto Kan	6378
+Yukio Hatoyama	6379
+Taro Aso	6380
+Yasuo Fukuda	6381
+Keizo Obuchi	6382
+Ryutaro Hashimoto	6383
+Tomiichi Murayama	6384
+the General Agreement on Trade	6385
+UN	6386
+eneral Agreement on Tariffs and Trade	6387
+U.S.S.R.	6388
+the Russian Empire	6389
+U.S.A	6390
+The fundamental cause of the Great Depression	6391
+spending	6392
+import	6393
+export	6394
+GDP	6395
+inflation	6396
+interest rate	6397
+supply	6398
+demand	6399
+subsidy	6400
+Bulgaria	6401
+The Paris Agreement	6402
+the Kyoto Protocol	6403
+the Didascalia Apostolorum	6404
+Londinium	6405
+Alexandria	6406
+Ephesus	6407
+Mediolanum	6408
+Manhattan Project	6409
+Environmental Protection Agency	6410
+the U.S. government	6411
+the U.K government	6412
+France government	6413
+Canada government	6414
+Mexico government	6415
+Japan government	6416
+Korea government	6417
+Germany government	6418
+Netherland government	6419
+Italy government	6420
+exobiology	6421
+biochemistry	6422
+botany	6423
+paleontology	6424
+immunology	6425
+evolutionary biology	6426
+neuroscience	6427
+Robert Koch	6428
+Robert Hooke	6429
+Frank Tipler	6430
+John Barrow	6431
+Hugh Everett	6432
+Morris W. Travers	6433
+Arthur D. Little	6434
+Henri Moissan	6435
+Trilobites	6436
+Traissic Period	6437
+The first known archosaurs	6438
+armadillos	6439
+carapace	6440
+dolphines	6441
+elephants	6442
+cows	6443
+whales	6444
+fishes	6445
+monkeys	6446
+Edward O. Wilson	6447
+The New Synthesis	6448
+Dennis Gabor	6449
+Ernst Ruska	6450
+Carol W. Greider	6451
+Tereshkova	6452
+Gabriele Veneziano	6453
+Girolamo Fracastoro	6454
+Nobel Prize for Physiology or Medicine	6455
+Fields Medal	6456
+Turing Award	6457
+Academy Awards	6458
+Golden Globe Awards	6459
+Grammy Awards	6460
+Pritzker Architecture Prize	6461
+MacArthur Fellowship	6462
+Old World monkeys	6463
+Cercopithecidae	6464
+Canidae	6465
+Felidae	6466
+Ursidae	6467
+Hyaenidae	6468
+Bovidae	6469
+Equidae	6470
+Cervidae	6471
+Carnivora	6472
+Rodentia	6473
+waterwheel plant	6474
+Aldrovanda	6475
+nightshade	6476
+mosse	6477
+conifer	6478
+flowering plant	6479
+oak	6480
+poplar	6481
+Milky Way Galaxy	6482
+Andromeda	6483
+Triangulum Galaxy	6484
+Whirlpool Galaxy	6485
+Sombrero Galaxy	6486
+Pinwheel Galaxy	6487
+Cigar Galaxy	6488
+Sunflower Galaxy	6489
+Tadpole Galaxy	6490
+Small Magellanic Cloud	6491
+A NASA microgravity laboratory	6492
+Destiny	6493
+Alan Turing Institute	6494
+Brookhaven National Laboratory	6495
+CERN	6496
+Lawrence Livermore National Laboratory	6497
+Max Planck Institute	6498
+Cold Spring Harbor Laboratory	6499
+Los Alamos National Laboratory	6500
+Sandia National Laboratories	6501
+Oak Ridge National Laboratory	6502
+insects	6503
+thunderstorm	6504
+drought	6505
+flood	6506
+landslide	6507
+wildfire	6508
+blizzard	6509
+Henry Cavendish	6510
+Pluto	6511
+Ancient Carthage	6512
+Robert E. Lee	6513
+Dwight D. Eisenhower	6514
+The outer planets have atmospheres	6515
+light gases	6516
+heavy gases	6517
+toxic gases	6518
+acid gases	6519
+noble gases	6520
+industrial gases	6521
+regrigerant gases	6522
+fuel gases	6523
+explosive gases	6524
+medical gases	6525
+organic compounds	6526
+chains of carbon atoms	6527
+nitrogens	6528
+oxygens	6529
+argons	6530
+hydrogens	6531
+fluorines	6532
+silicons	6533
+aluminums	6534
+magnesiums	6535
+irons	6536
+Coleoptera	6537
+the greatest numbers of species	6538
+Aves	6539
+Mamalia	6540
+Reptilia	6541
+Amphibia	6542
+Fish	6543
+Cnidaria	6544
+Annelida	6545
+Nematoda	6546
+Gastropoda	6547
+SpaceShipOne	6548
+Burt Rutan	6549
+Dragon spacecraft	6550
+Apollo Command	6551
+Soyuz spacecraft	6552
+Orion Multi-Purpose Crew Vehicle	6553
+Hubble Space Telescope	6554
+Progress spacecraft	6555
+New Horizons spacecraft	6556
+Juno spacecraft	6557
+Voyager 1 & 2 spacecraft	6558
+Fukushima Daiichi power station	6559
+volcano eruption	6560
+elemental fluorine	6561
+flerovium	6562
+Georgy Flerov	6563
+fluorine	6564
+silicon	6565
+copernicium	6566
+seaborgium	6567
+rutherfordium	6568
+bohrium	6569
+oganesson	6570
+Neon	6571
+Oxygen	6572
+Argon	6573
+Hydrogen	6574
+Carbon dioxide	6575
+Helium	6576
+Nitrogen	6577
+Krypton	6578
+Methane	6579
+Radon	6580
+1930	6581
+Moon	6582
+bats	6583
+night	6584
+kangaroos	6585
+giraffes	6586
+zebras	6587
+hippos	6588
+rhinos	6589
+deers	6590
+the first water-powered bloomery	6591
+sun	6592
+Heracleides Ponticus	6593
+Pythagoras	6594
+Homeros	6595
+Darius	6596
+NaCl	6597
+sodium chloride	6598
+ethanol	6599
+acetaldehyde	6600
+formaldehyde	6601
+Benzene	6602
+The fossils of Pteranodon	6603
+bottle tree	6604
+Kimberley region	6605
+Mediterranean region	6606
+Alps region	6607
+Alaskan Tundra	6608
+Himalayan region	6609
+Sahara desert	6610
+Kalahari desert	6611
+Australian outback	6612
+GHO Ventures	6613
+Greg Olsen	6614
+modern taxonomy	6615
+Scottand	6616
+hostile atmosphere containing clouds of sulfuric acid droplets	6617
+Vesta	6618
+Pallas	6619
+Davida	6620
+Hygiea	6621
+Ceres	6622
+Interamnia	6623
+craters	6624
+canyons	6625
+ice caps	6626
+river beds	6627
+dunes	6628
+small inner planets	6629
+solid surfaces	6630
+outer planets	6631
+ice giants	6632
+dwarf planets	6633
+Hot Jupiters	6634
+Halley	6635
+Mini-Neptunes	6636
+Sub Neptunes	6637
+rogue planets	6638
+chthonian planets	6639
+yeasts	6640
+carbonhydrates	6641
+Harvard-Smithsonian Center for Astrophysics	6642
+Montana	6643
+Free oxygen in the atmosphere	6644
+holography	6645
+electron microscope	6646
+strontium	6647
+The number 1	6648
+every positive integer	6649
+The number 2	6650
+The number 3	6651
+The number 4	6652
+The number 5	6653
+The number 6	6654
+The number 7	6655
+The number 8	6656
+The number 9	6657
+The number 10	6658
+Mark Vande Hei	6659
+The assimilation of inorganic carbon into organic compounds	6660
+carbon fixation	6661
+oxygen fixation	6662
+nitrogen fixation	6663
+argon fixation	6664
+aluminum fixation	6665
+magnesium fixation	6666
+iron fixation	6667
+fluorine fixation	6668
+helium fixation	6669
+calcium fixation	6670
+Alfred Russel Wallace	6671
+Coryphodon	6672
+pantodonts	6673
+Smilodon	6674
+Mammoth	6675
+Whooly Rhinoceros	6676
+Glyptodon	6677
+Megatherium	6678
+Titanotherium	6679
+Diprotodon	6680
+Palaeoloxodon	6681
+Tylacosmilus	6682
+O. vulgaris	6683
+squid	6684
+cod	6685
+energy exchange	6686
+DNA	6687
+Proteins	6688
+NO	6689
+Cellulose	6690
+Hemoglobin	6691
+Lipids	6692
+Carbonhydrates	6693
+Vitamins	6694
+fat metabolism	6695
+prostate	6696
+spleen	6697
+Caviar	6698
+sturgeon	6699
+white shark	6700
+sea turtle	6701
+sardine	6702
+trout	6703
+catfish	6704
+halibut	6705
+Paleontology	6706
+fossils	6707
+ocean animals	6708
+mountains	6709
+atom	6710
+Psychoacoustics	6711
+the physical effects of sound on biological systems	6712
+Neuropsychology	6713
+Botany	6714
+Entomology	6715
+Pathology	6716
+Oceanography	6717
+Climatology	6718
+Geomorphology	6719
+Demography	6720
+rat kangaroo	6721
+Arthropleura	6722
+Apatosaurus	6723
+Diplodocus	6724
+Dilophosaurus	6725
+Plateosaurus	6726
+Pisanosaurus	6727
+Eoraptor	6728
+Herrerasaurus	6729
+Pteranodon	6730
+Late Cretaceous Period	6731
+solar system	6732
+NASA Johnson Space Center	6733
+Calicornia	6734
+New Hampshire	6735
+Perthshire	6736
+The Pacific Tsunami Warning Center	6737
+Honolulu	6738
+Papeete	6739
+Tyrannobdella rex	6740
+upper Amazon River	6741
+Polar Bear	6742
+Reindeer	6743
+Walrus	6744
+Grizzly Bear	6745
+Siberian Tiger	6746
+Snow Leopard	6747
+Beluga Whale	6748
+Blue Whale	6749
+Humpback Whale	6750
+the art of iron making	6751
+Benjamin Martin of London	6752
+a pioneering set of colour - corrected lenses	6753
+ancient Egyptian medical papyri	6754
+various medicinal plants	6755
+Anatomy	6756
+Principles of Internal Medicine	6757
+The Oxford Handbook of Clinical Medicine	6758
+Campbell-Walsh Urology	6759
+Medical dictionary	6760
+Manual of Diagnosis andd Theraphy	6761
+Anesthesia Secrets	6762
+Textbook of Pediatrics	6763
+The U.S. Apollo program	6764
+firsthand information on lunar geology	6765
+Project Mercury	6766
+Gemini Program	6767
+Skylab	6768
+Space Shuttle Program	6769
+Mir Space Station	6770
+International Space Station	6771
+Mars Rover Mission	6772
+Cassini-Huygens Mission	6773
+New Horizons Mission	6774
+the Galaxy Evolution Explorer	6775
+National Aeronautics and Space Administration	6776
+Roscosmos	6777
+CNSA	6778
+JAXA	6779
+ESA	6780
+ISRO	6781
+UKSA	6782
+CASIS	6783
+DLR	6784
+CNES	6785
+sustainability	6786
+sustainable development	6787
+durability	6788
+resilience	6789
+efficiency	6790
+productivity	6791
+carbon footprint	6792
+conservation	6793
+waste reduction	6794
+Blue Origin	6795
+Liebig	6796
+extrasolar planet	6797
+exoplanet	6798
+Euclid	6799
+the Library of Alexandria	6800
+Bodelian Library	6801
+British Library	6802
+Vatican Library	6803
+National Library of Russia	6804
+New York Public Library	6805
+Library of Congress	6806
+National Central Library	6807
+Uffizi Library	6808
+National Library of South Africa	6809
+Fe	6810
+rubidium	6811
+A Babylonian cuneiform tablet	6812
+water clocks	6813
+wall clock	6814
+desk clock	6815
+sundial	6816
+alarm clock	6817
+pocket watch	6818
+wristwatch	6819
+mantel clock	6820
+atomic clock	6821
+digital clock	6822
+Apollo 11	6823
+the first crewed lunar landing mission	6824
+Apollo 1	6825
+Apollo 10	6826
+Apollo 7	6827
+Apollo 8	6828
+Apollo 13	6829
+Apollo 14	6830
+Apollo 15	6831
+Apollo 16	6832
+Apollo 17	6833
+the Order of Lenin	6834
+three catalogs of astronomical radio sources	6835
+London School of. Conomics	6836
+Asian elephant	6837
+5,500 kg	6838
+African elephant	6839
+8,000 kg	6840
+European Organization for Nuclear Research	6841
+Return to Earth	6842
+Buzz Aldrin	6843
+Endurance: A Year in Space, A Lifetime of Discovery	6844
+My Journey to the Stars	6845
+Packing for Mars	6846
+Shooting for the Moon	6847
+The Moon and the Worlds Beyond	6848
+Carrying the Fire: An Astronaut's Journeys	6849
+The Cosmic Connection	6850
+The Right Stuff	6851
+An Astronaut's Guide to Life on Earth	6852
+The Rhind papyrus	6853
+Armenian	6854
+Lydian	6855
+Median	6856
+Assyrian	6857
+LA Lakers	6858
+New York Knicks	6859
+Houston Rockets	6860
+San Antonio Spurs	6861
+Toronto Rapters	6862
+Bambino	6863
+Aaron Rodgers	6864
+Jameis Winston	6865
+Jens Emmahusen	6866
+William Strickland	6867
+Robert Mills	6868
+bait fishing	6869
+bottom fishing	6870
+freshwater fishing	6871
+saltwater fishing	6872
+spin fishing	6873
+fly fishing	6874
+trolling	6875
+surf fishing	6876
+ice fishing	6877
+spear fishing	6878
+noodle fishing	6879
+pocket billiards	6880
+badminton	6881
+judo	6882
+taekwondo	6883
+The Gasparilla Pirate Fest	6884
+Tampa	6885
+The Oceania Football Confederation	6886
+The Italian Rugby Federation	6887
+The Amateur Softball Association of America	6888
+Asian Football Confederation	6889
+The Professional Bowlers Association of America	6890
+International Swimming Federation	6891
+World Rugby	6892
+the Welsh Rugby Union	6893
+The Metropolitan Swimming Clubs of London	6894
+Amateur Swimming Association	6895
+North Baltimore Aquatic Club	6896
+Irvine Novaquatics	6897
+SwimMAC Carolina	6898
+Aquajets Swim Team	6899
+Rockville Montgomery Swim Club	6900
+Nation's Capital Swim Club	6901
+Dynamo Swim Club	6902
+Longhorn Aquatics	6903
+Mission Viejo Nadadores	6904
+Air Jordan	6905
+Victoria Beckham	6906
+David Jones	6907
+Joe Montana	6908
+Comeback Kid	6909
+Adrian Peterson	6910
+Henry Myers	6911
+Gertrude Ederle	6912
+King James	6913
+Posh Spice	6914
+Pole Position	6915
+the Worm	6916
+Tennessee	6917
+San Jose	6918
+Columbus	6919
+The National League	6920
+15 teams	6921
+6 teams	6922
+7 teams	6923
+8 teams	6924
+9 teams	6925
+10 teams	6926
+11 teams	6927
+12 teams	6928
+13 teams	6929
+14 teams	6930
+podcast	6931
+a combination of iPod and broadcast	6932
+podgy	6933
+podite	6934
+podzolic	6935
+podunk	6936
+podophyllin	6937
+broadcast	6938
+forecast	6939
+recast	6940
+overcast	6941
+Call of Duty	6942
+Infinity Ward	6943
+Duke Nukem 3D	6944
+Warcraft	6945
+Starcraft	6946
+Diablo	6947
+League of Legend	6948
+Civilization	6949
+Elderscroll	6950
+Witcher 3	6951
+The Washington Monument	6952
+The State Capitol	6953
+GTA	6954
+Guinea pigs	6955
+New World	6956
+chickens	6957
+turkeies	6958
+monkeies	6959
+crows	6960
+Wimbledon tennis competition	6961
+MLS	6962
+NHL	6963
+Ligue 1	6964
+Franco Harris	6965
+Pennsylvania State University	6966
+1944	6967
+1904	6968
+Bucephalus	6969
+Las Vagas	6970
+Captain Matthew Webb	6971
+Dover to Calais	6972
+Zinedine Zidane	6973
+Aberdeen FC	6974
+Bayern Munich	6975
+Juventus FC	6976
+Chelsea FC	6977
+Arsenal FC	6978
+Boca Juniors	6979
+Santos FC	6980
+Joan Gamper	6981
+1881	6982
+Bushnell and Dabney	6983
+Atari Inc.	6984
+Nintendo	6985
+Electronic Arts	6986
+Microsoft Game Studios	6987
+Sega	6988
+Ubisoft	6989
+Capcom	6990
+Blizzard	6991
+Rockstart Games	6992
+Rockstar Games	6993
+the Alpine Club	6994
+World Chess Federation	6995
+AFL	6996
+the International Rugby Board	6997
+International Country Music Fan Fair	6998
+June	6999
+January	7000
+February	7001
+March	7002
+April	7003
+May	7004
+December	7005
+July	7006
+August	7007
+September	7008
+Berlin Summer Olympic Games	7009
+1936	7010
+Helsinki	7011
+Antwerp	7012
+Melbourne	7013
+Lillehammer Winter Olympic  Games	7014
+Oslo	7015
+Innsbruck	7016
+Nagono	7017
+Salt Lake City	7018
+Sochi	7019
+Pyeongchang	7020
+Albertville	7021
+Calgary	7022
+Sapporo	7023
+Everest	7024
+Fuji	7025
+Table Mountain	7026
+Xenophon	7027
+Camp de Les Corts	7028
+Anfield	7029
+Old Trafford	7030
+Stamford Bridge	7031
+Santiago Bernabeu	7032
+Signal Iduna Park	7033
+Emirates Statidum	7034
+Prac des Princes	7035
+Goodison Park	7036
+Wembley Stadium	7037
+James Robertson	7038
+Cumberland Valley	7039
+Busch Gardens Tampa Bay	7040
+amusement park	7041
+botanical garden	7042
+regional park	7043
+national park	7044
+water park	7045
+wildlife park	7046
+urban park	7047
+historical park	7048
+state park	7049
+wilderness park	7050
+basketball player	7051
+FPS game	7052
+Mount & Blade	7053
+quaterback	7054
+high-low	7055
+poker game	7056
+Uno	7057
+Enchre	7058
+Canasta	7059
+Spades	7060
+Rummy	7061
+Solitaire	7062
+Go Fish	7063
+Cribbage	7064
+Dallas Cowboys	7065
+Bittsburg Steelers	7066
+Miami Dolphins	7067
+Chicago Bears	7068
+Philadelphia Eagles	7069
+Denver Broncos	7070
+Keirin	7071
+UAE	7072
+country music	7073
+FIFA membership	7074
+all national associations	7075
+European associations	7076
+African associations	7077
+East Asian associations	7078
+Southeastern Asian associations	7079
+Australian associations	7080
+North American associations	7081
+South American associations	7082
+Central Assian associations	7083
+Middle East assiciations	7084
+Lotto	7085
+BMX racing	7086
+Dartmouth College	7087
+Stuttgard	7088
+Dusseldorf	7089
+Leipzig	7090
+Nuremberg	7091
+Tennessee State University	7092
+The earlist botanical garden	7093
+Pisa	7094
+Napoli	7095
+the Royal Gymnastics Central Institute	7096
+Stockholm	7097
+National Aquarium	7098
+The Inner Harbor area	7099
+Georgia Aquarium	7100
+Monterey Bay Aquarium	7101
+Vancouver Aquarium	7102
+Sydney Aquarium	7103
+Osaka Aquarium	7104
+Dubai Aquarium	7105
+Lisbon Oceanarium	7106
+Okinawa Aquarium	7107
+Ripley's Aquarium	7108
+Baltimore/Washington International Airport	7109
+Hartsfield-Jackson Atlanta International Airport	7110
+Los Angeles International Airport	7111
+O'Hare International Airport	7112
+Dallas/Fort Worth International Airport	7113
+Denver International Airport	7114
+San Francisco International Airport	7115
+Seattle-Tacoma International Airport	7116
+McCarran International Airport	7117
+Logan International Airport	7118
+Fort Nashborough	7119
+Francis Nash	7120
+1958	7121
+Olympic Games	7122
+Modern football	7123
+modern bowling	7124
+the Vichy government	7125
+rugby league	7126
+England government	7127
+US government	7128
+Germany governemt	7129
+Italian government	7130
+Australia government	7131
+New Zealand government	7132
+Spain government	7133
+Hungary government	7134
+Wilt Chamberlain	7135
+the University of Kansas	7136
+The first T20 World Cup	7137
+The first NCAA tournament	7138
+1909	7139
+1949	7140
+1959	7141
+1969	7142
+1989	7143
+1999	7144
+AC Milan	7145
+five players	7146
+2010 World Cup quaterfinals	7147
+Begium	7148
+seven Ballon d'Or awards	7149
+Yankees	7150
+United State	7151
+Valencia	7152
+Seville	7153
+Malaga	7154
+Zaragoza	7155
+Bilbao	7156
+Murica	7157
+Palma de Mallorca	7158
+Doherty brothers	7159
+butterfly stroke	7160
+freestyle	7161
+backstrok	7162
+breaststroke	7163
+sidestroke	7164
+trudgen	7165
+combat swimmer stroke	7166
+front crawl	7167
+elementary backstroke	7168
+rescue stroke	7169
+baseball player	7170
+football player	7171
+tennis player	7172
+hockey player	7173
+swimming player	7174
+badminton player	7175
+rugby player	7176
+softball player	7177
+cycling player	7178
+the first racing game	7179
+F1	7180
+Mario Kart	7181
+Dirt Rally	7182
+Project Cars 3	7183
+Assetto Corsa	7184
+Burnout Paradise	7185
+Forza Motorsport	7186
+Gran Turismo	7187
+Need for Speed	7188
+pridiron football player	7189
+Pleasant Valley High School	7190
+Young Player of the Year	7191
+NBA Rookie of the Year	7192
+NBA All-Rookie Team	7193
+NBA Rising Stars Challenge MVP	7194
+Summer League MVP	7195
+Golden Glove	7196
+MLB All-Rookie Team	7197
+AllStar	7198
+Golden Bat	7199
+Players Choice Award for Outstanding Rookie	7200
+Norwegians	7201
+IMT-Advanced	7202
+4G	7203
+1G	7204
+2G	7205
+3G	7206
+5G	7207
+VoIP	7208
+NFC	7209
+Bluetooth	7210
+Broadband	7211
+apiculture	7212
+horticulture	7213
+floriculture	7214
+sericulture	7215
+viticulture	7216
+dairy farming	7217
+mass transit	7218
+public transporation	7219
+automobiles	7220
+bicycles	7221
+motorcycles	7222
+airplanes	7223
+ships	7224
+boats	7225
+cable cars	7226
+taxis	7227
+pedestrian	7228
+Bell Laboratories	7229
+The Advanced Research Projects Agency	7230
+U.S. Defense Department	7231
+U.S. Commerce Department	7232
+U.S. Agriculture Department	7233
+U.S. Education Department	7234
+U.S. Energy Department	7235
+U.S. Homeland Security Department	7236
+U.S. Housing and Urban Development Department	7237
+U.S. Labor Department	7238
+U.S. Justice Department	7239
+U.S. State Department	7240
+Aerospace and Defence Industries Association of Europe	7241
+Brussels	7242
+Athenes	7243
+Android team	7244
+Linux	7245
+Windows 95	7246
+iOS	7247
+DOS	7248
+macOS	7249
+Ubuntu	7250
+Solaris	7251
+Windows 11	7252
+Hereford	7253
+Angus	7254
+Limousin	7255
+Simmental	7256
+Gelbvieh	7257
+Chianina	7258
+Salers	7259
+Belgian Blue	7260
+Murray Grey	7261
+Highland	7262
+Android Inc	7263
+Syncom 3	7264
+the 1964 Olympic Games	7265
+the 1988 Olympic Games	7266
+the 1984 Olympic Games	7267
+the 1980 Olympic Games	7268
+the 1976 Olympic Games	7269
+the 1956 Olympic Games	7270
+the 1952 Olympic Games	7271
+the 2004 Olympic Games	7272
+the 2008 Olympic Games	7273
+the 2012 Olympic Games	7274
+John V. Atanasoff	7275
+the first electronic digital computer	7276
+William C. Durant	7277
+Henry M. Leland	7278
+Berners Lee	7279
+David Packard	7280
+William Withering	7281
+John Boyd Dunlop	7282
+the Web	7283
+BroadBand	7284
+Coventry	7285
+bicyble industry	7286
+Hewlett-Packard Company	7287
+Thomas J. Watson, Jr	7288
+Clifford E. Berry	7289
+Konrad Zuse	7290
+TeliaSonera	7291
+1885 Rover Safety	7292
+John Kemp Starley	7293
+Tricycle	7294
+Mountain bike	7295
+Penny farthing	7296
+Cargo bike	7297
+Electric bike	7298
+Folding bike	7299
+Tandem bike	7300
+Recumbent bike	7301
+City bike	7302
+The first smartphone	7303
+Motorola Inc.	7304
+mumps vaccine	7305
+rubella vaccine	7306
+hepatitis B vaccine	7307
+COVID-19 vaccine	7308
+yellow fever vaccine	7309
+cholera vaccine	7310
+infuenza vaccine	7311
+Internet Explorer	7312
+AMPS	7313
+AT&T and Motorola Inc.	7314
+Advanced Mobile Phone Service	7315
+OpenAI	7316
+Shai Agassi	7317
+Better Place	7318
+William Froude	7319
+Chevrolet Motor Company	7320
+Safari 2.0	7321
+privacy mode	7322
+Chrome	7323
+IE	7324
+Whatsapp	7325
+Edge	7326
+FireFox	7327
+Opera	7328
+Brave	7329
+Tor Browser	7330
+artifically fertilized	7331
+bass	7332
+carp	7333
+snapper	7334
+mackerel	7335
+cultivating pearls	7336
+horse-drawn omnibus	7337
+Aerial Experiment Association	7338
+Biz Stone	7339
+the Pharmaceutical Society of Great Britain	7340
+1841	7341
+American Pharmacists Association	7342
+International Pharmaceutical Federation	7343
+European Federation of Pharmaceutical Industries and Associations	7344
+Pharmaceutical Society of Australia	7345
+Pharmaceutical Society of Ireland	7346
+Rroyal Pharmaceutical Society	7347
+Canadian Pharmacists Association	7348
+Indian Pharmaceutical Association	7349
+Mexican Association of Pharmaceutical Sciences	7350
+the Society of Apothecaries	7351
+Cadillac Motor Car Company	7352
+John Barran	7353
+Leeds clothing industry	7354
+Auer von Welsbach	7355
+C. H. Shaw	7356
+Volta Prize	7357
+electrical science	7358
+Nobel Prize	7359
+Rields Medal	7360
+Abel Prize	7361
+Kyoto Prize	7362
+Breakthrough Prize	7363
+Balzan Prize	7364
+Shaw Prize	7365
+Wolf Prize	7366
+steam power	7367
+electric power	7368
+thermal power	7369
+nuclear power	7370
+solar power	7371
+wind power	7372
+hydro power	7373
+chemical power	7374
+tidal power	7375
+gravitional power	7376
+magnetic power	7377
+UCL	7378
+Dell	7379
+Round Rock	7380
+Cisco Systems	7381
+Internet Society	7382
+Reston	7383
+Cornish Cross	7384
+Cornish and White Rock	7385
+Rhode Island Red	7386
+Plymouth Rock	7387
+Leghorn	7388
+Orpington	7389
+Sussex	7390
+Australorp	7391
+Cochin	7392
+Barnevelder	7393
+IBM Corporation	7394
+Unix	7395
+Chrome OS	7396
+the pneumatic tire	7397
+Evangelista Torricelli	7398
+barometer	7399
+Paul Baran	7400
+Charles Gabriel Pravaz	7401
+hollow hypodermic needle	7402
+duplex	7403
+Joseph Stearns	7404
+Tesla coil	7405
+Solenoid coil	7406
+Induction coil	7407
+Ignition coil	7408
+Pancake coil	7409
+Helmholtz coil	7410
+Air-core coil	7411
+Iron-core coil	7412
+Voice coil	7413
+Pickup coil	7414
+taximeter	7415
+Wilhelm Bruhn	7416
+bush roller chain	7417
+AquaBounty	7418
+biotech company	7419
+Canadian	7420
+Pedanius Dioscorides	7421
+Greek physician	7422
+Jelly	7423
+search app	7424
+WhatsApp	7425
+Telegram	7426
+LinkedIn	7427
+Quip	7428
+texting app	7429
+Teams	7430
+Zoom	7431
+Dumfriesshire	7432
+Albert E. Pope	7433
+Boston	7434
+Denver	7435
+Oklahoma City	7436
+El Paso	7437
+Fort Worth	7438
+the RAND Corporation think tank	7439
+Anik 1	7440
+Vostok 1	7441
+Gemini 3	7442
+Challenger	7443
+Viking 1	7444
+Soyuz 11	7445
+Mir	7446
+Freedom 7	7447
+Space Shuttle Columbia	7448
+the National Physical Laboratory	7449
+Galloway	7450
+Charolais	7451
+Wireless Ethernet Compatability Alliance	7452
+Mac	7453
+WIP	7454
+WIT	7455
+WIC	7456
+Wiki	7457
+Win	7458
+WIMP	7459
+John McCain	7460
+Kamala Harris	7461
+George H.W. Bush	7462
+Ronald Reagan	7463
+Gerald Ford	7464
+World Economic Forum	7465
+Forum of Young Global Leaders	7466
+United Nations General Assembly	7467
+World Health Assembly	7468
+World Social Forum	7469
+World Summit on Sustainable Development	7470
+World Conference on Women	7471
+World Youth Forum	7472
+World Summit on Food Security	7473
+International Civil Aviation Organization Assembly	7474
+Asiatic Brahma	7475
+Limousin breed	7476
+west central France	7477
+George VI	7478
+Edward VIII	7479
+George V	7480
+Edward VII	7481
+Victoria	7482
+William IV	7483
+George IV	7484
+George I	7485
+Anne	7486
+Alexander Wood	7487
+Ernst Mach	7488
+cyanide	7489
+aresenic	7490
+lead	7491
+strychnine	7492
+botulinum toxin	7493
+ricin	7494
+aflatoxin	7495
+tetrodotoxin	7496
+hemlock	7497
+Electromatic Typewriters, Inc.	7498
+pigs	7499
+Edison Medal	7500
+Windows 98	7501
+Internet Explore	7502
+Microsoft Edge	7503
+Azure	7504
+AWS	7505
+the United States Motor Corporation	7506
+Maxwell Motor Company	7507
+Honda	7508
+Tesla	7509
+Syscom 3	7510
+North Atlantic	7511
+South Atlantic	7512
+West Pacific	7513
+East Pacific	7514
+South Pacific	7515
+North Pacific	7516
+Bering Sea	7517
+Andaman Sea	7518
+Bay of Bengal	7519
+SAP	7520
+Lee Byung-Chull	7521
+Taegu	7522
+Busan	7523
+Incheon	7524
+Suwon	7525
+Cheongju	7526
+Daejeon	7527
+Cheonan	7528
+Gyeongju	7529
+Jeonju	7530
+The cable car	7531
+the Royal Society of London	7532
+De materia medica	7533
+Silent Spring	7534
+Codex Atlanticus	7535
+sand painting	7536
+dry painting	7537
+oil painting	7538
+watercolor painting	7539
+acrylic painting	7540
+pastel painting	7541
+charcoal drawing	7542
+ink drawing	7543
+digital painting	7544
+miniature painting	7545
+tempera painting	7546
+Laos	7547
+Oscar de la Renta	7548
+Dominican Republic	7549
+Colombia	7550
+Ecuador	7551
+Meret Oppenheim	7552
+Gavin Hamilton	7553
+Edward S Curtis	7554
+Graceland Cemetery	7555
+Arlington National Cemetery	7556
+Recoleta Cemetery	7557
+Waverley Cemetery	7558
+Highgate Cemetery	7559
+La Recoleta Cemetery	7560
+Green-Wood Cemetery	7561
+Mount of Olives Cemetery	7562
+St. Louis Cemetery	7563
+Bonaventure Cemetery	7564
+Cuzco	7565
+Inca Empire	7566
+The Paekche kingdom	7567
+southwestern Korea	7568
+southeastern Korea	7569
+northeastern Korea	7570
+northwestern Korea	7571
+southern Manchuria	7572
+northern Manchuria	7573
+southeastern Manchuria	7574
+northeastern Manchuria	7575
+northwestern Manchuria	7576
+southwestern Manchuria	7577
+All Souls College	7578
+International Congresses of Modern Architecture	7579
+La Sarraz	7580
+Zurich	7581
+Bern	7582
+Basel	7583
+Thun	7584
+Biel	7585
+Lugano	7586
+St. Gallen	7587
+Winterthur	7588
+Italian word barocco	7589
+Pop Art	7590
+Minimalism	7591
+Conceptual Art	7592
+Realism	7593
+Romanticism	7594
+Neoclassicism	7595
+Henri Matisse	7596
+Louis Malle	7597
+Marcel Duchamp	7598
+Van Loo	7599
+Helen Levit	7600
+Leiden University	7601
+Pablo Ruiz	7602
+Royal Acamedy of San Fernando	7603
+Gianni Versace	7604
+Gianni Versace SpA	7605
+Yohji Yamamoto	7606
+Antonio de Covarrubias	7607
+Sumerian civilization	7608
+4000 BCE	7609
+Indus Valley Civilization	7610
+Ancient Persia	7611
+Inca Civilization	7612
+Maya Civilization	7613
+Cretan civilization	7614
+2500 BCE	7615
+Ancient Mesopotamia	7616
+The Viceroyalty of New Spain	7617
+1535	7618
+1500	7619
+1520	7620
+1550	7621
+1570	7622
+1600	7623
+1620	7624
+1640	7625
+1480	7626
+1660	7627
+The Viceroyalty of Peru	7628
+1543	7629
+1555	7630
+Koguryo	7631
+Paekche	7632
+Silla	7633
+Goryeo	7634
+Joseon	7635
+Hellenistic period	7636
+Romanesque period	7637
+Gothic period	7638
+Renaissance period	7639
+Baroque period	7640
+Rococo period	7641
+Neoclassical period	7642
+Romanticism period	7643
+Realism period	7644
+Impressionism period	7645
+theatre construction	7646
+Hellenistic Ages	7647
+castle construction	7648
+plant construction	7649
+apartment construction	7650
+church construction	7651
+palace construction	7652
+library construction	7653
+fortress construction	7654
+airport construction	7655
+colosseum construction	7656
+between World Wars I and II	7657
+American Dance Asylum	7658
+Lois Welk and Jill Becker	7659
+The Metropolitan Opera	7660
+The Royal Shakespeare Company	7661
+The Bolshoi Ballet	7662
+The New York City Ballet	7663
+The Vienna Philharmonic Orchestra	7664
+The Berlin Philharmonic Orchestra	7665
+The Royal Opera House	7666
+The Paris Opera Ballet	7667
+The Moscow Art Theatre	7668
+the Royal Scientific and Literary Academy and the Clinical Institutes	7669
+University of Milan	7670
+Henri Cartier Bresson	7671
+Magnum Photos	7672
+Charles II	7673
+Royal Hospital Chelsea	7674
+Shelley McNamara	7675
+Fray Hortensio Paravicino	7676
+Royal Society	7677
+dark colours	7678
+red colours	7679
+green colours	7680
+blue colours	7681
+yellow colours	7682
+pink colours	7683
+orange colours	7684
+magenta colours	7685
+lime green colours	7686
+cyan colours	7687
+The basic trend of Korean art	7688
+United Silla period	7689
+Gojoseon Period	7690
+Three Kingdoms Period	7691
+Goryeo Dynasty	7692
+Joseon Dynasty	7693
+Japanese Occupation	7694
+Contemporary Period	7695
+Koguryo Period	7696
+Paekche Period	7697
+Rei Kawakubo	7698
+Keio University	7699
+The Chateau de Sceaux	7700
+Korean architecture	7701
+gently sloping roof	7702
+British architecture	7703
+French architecture	7704
+Russian architecture	7705
+American architecture	7706
+German architecture	7707
+Dutch architecture	7708
+Danish architecture	7709
+Swedish architecture	7710
+Austrian architecture	7711
+Trinitarian order in Spain	7712
+The 1893 Columbian Exposition	7713
+Paekche kingdom	7714
+Sila kingdom	7715
+Koguryo kingdom	7716
+Gaya kingdom	7717
+Goryeo kingdom	7718
+Joseon kingdom	7719
+Gojoseon kingdom	7720
+3D Printing	7721
+PCR	7722
+MRI	7723
+Chromatography	7724
+Spectroscopy	7725
+Nanotechnology	7726
+Genetic Engineering	7727
+X-ray	7728
+Carbon Dating	7729
+fashion designer	7730
+Chanel	7731
+John Grierson	7732
+Trinitarian	7733
+William Hogarth	7734
+Stockholom	7735
+French word	7736
+Riccardo Tisci	7737
+Central Music Hall	7738
+Mauritshuis museum	7739
+Dover Street Market	7740
+Coit Memorial Tower	7741
+Villa Sarego	7742
+Santa Sofia	7743
+Naples	7744
+Turin	7745
+Bologna	7746
+Vernoa	7747
+Campo di Santi Giovanni e Paolo	7748
+the Old Kingdom	7749
+2130 BCE	7750
+Gucci	7751
+Prada	7752
+Armani	7753
+Burberry	7754
+Calvin Klein	7755
+Alexander McQueen	7756
+Versace	7757
+Tommy Hilfiger	7758
+The Phoenicians	7759
+Romanesque	7760
+Gothic	7761
+Hellenistic	7762
+Neoclassical	7763
+Cranbrook Academy of Art	7764
+Royal School of Arts and Crafts	7765
+Dresden	7766
+Castleford	7767
+Yorkshire	7768
+Essex	7769
+Fife	7770
+Kent	7771
+Lanarkshire	7772
+Renfrewshire	7773
+Carmarthenshire	7774
+Kensington Market	7775
+High Street	7776
+Abbey Road	7777
+La Rambia	7778
+Orchard Road	7779
+ Las Vegas Strip	7780
+Lombard Street	7781
+Bourbon Street	7782
+The Royal Mile	7783
+Via Dolorosa	7784
+the Teutonic Knights	7785
+Classical Age	7786
+Renaissance Age	7787
+Age of Discovery	7788
+Age of Enlightenment	7789
+Atomic Age	7790
+the First International Dada Fair	7791
+Girl Reading a Letter at an Open Window	7792
+Sandro Botticelli	7793
+Leonardo da vinci	7794
+Albrecht Durer	7795
+El Creco	7796
+William Turner	7797
+Salvador Dali	7798
+Mark Morris	7799
+Tigris and Euphrates river system	7800
+the Alonso de Covarrubias	7801
+Thomas Wedgwood	7802
+Josiah Wedgwood	7803
+Metal Age in Europe	7804
+3rd millennium BC	7805
+Stone Age in Europe	7806
+Bronze Age in Europe	7807
+Classical Age in Europe	7808
+Middle Ages in Europe	7809
+Renaissance in Europe	7810
+Industrial Age in Europe	7811
+Atomic Age in Europe	7812
+Berenice Abbott	7813
+Robert Venturi	7814
+Princeton University School of Architecture	7815
+Yvonne Farrell	7816
+Jacques Herzog	7817
+University of Basel	7818
+Beaumont Newhall	7819
+Unified Silla	7820
+Koryo dynasity	7821
+Gaya	7822
+Germans	7823
+modern American architecture	7824
+Asian dragon	7825
+emperor	7826
+Unicorn	7827
+Chimera	7828
+Kraken	7829
+Mermaid	7830
+Pegasus	7831
+Minotaur	7832
+Cyclops	7833
+The Chalcolithic Age	7834
+the greater Bronze Age	7835
+Space Age	7836
+Venetian	7837
+Dior	7838
+Parisian fashion	7839
+Paekche art	7840
+Chinese influences	7841
+Japanese influence	7842
+Vietnamese influence	7843
+Indian influence	7844
+British influence	7845
+French influence	7846
+Roman influence	7847
+Spanish influence	7848
+Russian influence	7849
+Austrian influence	7850
+memoir IM	7851
+Fall of the Roman Empire	7852
+Yekaterina Velikaya	7853
+Ho Chi Minh	7854
+Mikhail Gorbachev	7855
+Louis Desaix	7856
+A. J. P. Taylor	7857
+Tony Blair	7858
+Arthur Wellesley	7859
+Colin Renfrew	7860
+Simon de Montfort	7861
+Northumbria	7862
+Arundel	7863
+Wessex	7864
+Derby	7865
+Suffolk	7866
+Devon	7867
+Tostig	7868
+Tokugawa period	7869
+Edo period	7870
+Jomon period	7871
+Yayoi period	7872
+Kofun period	7873
+Asuka period	7874
+Nara period	7875
+Heian period	7876
+Kamakura period	7877
+Muromachi period	7878
+Azuchi-Momoyama period	7879
+Father of His Country	7880
+William Legge	7881
+influenza pandemic of 2009	7882
+H1N1 flu	7883
+Covid pandamic	7884
+Plague of Justinian	7885
+Third Pandemic	7886
+Asian Flue	7887
+Hongkong Flue	7888
+SARS	7889
+Ebola outbreak	7890
+German Air Force	7891
+German Navy	7892
+German Cavalry	7893
+German Infantry	7894
+U.S. Air Force	7895
+U.K. Air Force	7896
+France Air Force	7897
+Russia Air Force	7898
+German Artillery	7899
+U.K. Navy	7900
+Neolithic	7901
+New Stone Age	7902
+Chalcolithic	7903
+Jurrasic	7904
+Triassic	7905
+Cambrian	7906
+Silurian	7907
+Permian	7908
+Devonian	7909
+Ordovician	7910
+Persian Wars	7911
+Peloponnesian War	7912
+Second Persian Gulf War	7913
+Odoacer	7914
+Numa Pompilius	7915
+Theodosius I	7916
+Giustiniani	7917
+Akhenaton	7918
+Cyrus II	7919
+Gaius Octavius	7920
+The Immortals	7921
+Hoplites	7922
+Berserkers	7923
+Legionaries	7924
+Musketeers	7925
+Redcoats	7926
+Gurkhas	7927
+Marines	7928
+Highlanders	7929
+Zouaves	7930
+Li Shimin	7931
+Japanese Empire	7932
+Robert Koldewey	7933
+Oriel College	7934
+Wolfson College	7935
+Magdalen College	7936
+Hertford College	7937
+Merton College	7938
+Trinity College	7939
+Exeter College	7940
+Christ Church	7941
+University College	7942
+Edward, Prince of Wales	7943
+Black Prince	7944
+Prince William	7945
+Prince Charles	7946
+Prince George	7947
+Prince Henry	7948
+Prince Andrew	7949
+Prince Richard	7950
+Prince Michael	7951
+Prince arthur	7952
+Prince Leopold	7953
+Charles the Great	7954
+Urban II	7955
+the Second Crusade	7956
+the Third Crusade	7957
+the Fourth Crusade	7958
+the Fifth Crusade	7959
+the Children's Crusade	7960
+the Sixth Crusade	7961
+the Seventh Crusade	7962
+the Eighth Crusade	7963
+the People's Crusade	7964
+The Middle Paleolithic	7965
+sword	7966
+bow	7967
+axe	7968
+horse	7969
+the Second Punic War	7970
+Leonidas	7971
+Gaius Marius	7972
+Homma Masaharu	7973
+Gen. Sir Archibald P. Wavell	7974
+ABDACOM	7975
+Alexander Helios	7976
+Bohemond I	7977
+Mehmed II	7978
+Constantine XI	7979
+Sasanian empire	7980
+Muslim Arabs	7981
+Western Roman Empire	7982
+Osama bin Laden	7983
+World Trade Center	7984
+Livonian knights	7985
+The first high civilization on Europe	7986
+the island of Crete	7987
+Anatolia	7988
+the island of Britain	7989
+the Bei Wei dynasty	7990
+North China	7991
+West China	7992
+Treaty of Dresden	7993
+Silesia	7994
+Treaty of Versailles	7995
+Treaty of Ghent	7996
+Treaty of Utrecht	7997
+Treaty of Tordesillas	7998
+Treaty of Paris	7999
+Helsinki Accords	8000
+Treaty of Brest-Litovsk	8001
+Treaty of Nanjing	8002
+the Pelican	8003
+the Santa Maria	8004
+the Mary Rose	8005
+the Vasa	8006
+the Golden Hind	8007
+the Revenge	8008
+the Nao Victoria	8009
+the Sao Gabriel	8010
+the Batavia	8011
+the Santa Catarina	8012
+the United States and its European allies	8013
+Southeast Asia Treaty Organization	8014
+Australia, New Zealand, United States Security Treaty	8015
+Central Treaty Organization	8016
+Collective Security Treaty Organization	8017
+Arab League	8018
+Organization of American States	8019
+European Union Military Staff	8020
+Five Eyes	8021
+Ionian Dodecapolis	8022
+Levant	8023
+Caucasus	8024
+Cappadocia	8025
+Fertile Crecent	8026
+Democratic Republic of Vietnam	8027
+Achaemenian dynasty	8028
+Parthian dynasity	8029
+Sassanian dynasty	8030
+Umayyad Caliphate	8031
+Abbasid Caliphate	8032
+Seljuk Empire	8033
+Ghaznavid Empire	8034
+Safavid Empire	8035
+Timurid Empire	8036
+Zhu Yuanzhang	8037
+Lysias	8038
+Lebanon	8039
+Jordan	8040
+Cyprus	8041
+Khirbet Kerak ware	8042
+Rearly Bronze Age	8043
+Athens and Sparta	8044
+the end of the Mycenaean civilization and about 900 BCE	8045
+Dark Age	8046
+Micoquian	8047
+elongated hand axes	8048
+Acheulian	8049
+Mousterian	8050
+Solutrean	8051
+Clovis	8052
+Folsom	8053
+Magdalenian	8054
+Natufian	8055
+Aurignacian	8056
+Oldowan	8057
+The capstone at Brownshill	8058
+Charles VIII	8059
+Huns	8060
+Xerxes I	8061
+Friedrich II	8062
+Archidamus II	8063
+Chalcis	8064
+4 years	8065
+1 year	8066
+3 years	8067
+5 years	8068
+6 years	8069
+10 years	8070
+15 years	8071
+20 years	8072
+30 years	8073
+Arvernian Vercingetorix	8074
+U.S.S.R	8075
+Soviet Uniton	8076
+Delian League	8077
+The Rebellion in Upper Canada	8078
+William Lyon Mackenzie	8079
+slave soldier	8080
+elite soilder	8081
+heavy infantry	8082
+heavy cavalry	8083
+light cavalry	8084
+light infantry	8085
+archers	8086
+khanate of Astrakhan	8087
+Volga	8088
+Yangtze	8089
+Congo	8090
+Mississippi	8091
+Yenisei	8092
+Mekong	8093
+Niger	8094
+Wiltshire	8095
+Battle of Marathon	8096
+Battle of Gaugamela	8097
+Battle of Waterloo	8098
+Battle of Stalingrad	8099
+Battle of Somme	8100
+Battle of Midway	8101
+Xanthippus	8102
+Augustus	8103
+China and Inner Asia	8104
+Swine Flue	8105
+Zika virus	8106
+HIV/AIDS	8107
+MERS	8108
+Ebola virus	8109
+David Hume	8110
+the Meiji Constitution	8111
+1889	8112
+1689	8113
+1859	8114
+1829	8115
+1809	8116
+1489	8117
+1589	8118
+Uruk	8119
+Nippur	8120
+Eridu	8121
+Lagash	8122
+Kish	8123
+Adab	8124
+Larsa	8125
+Girsu	8126
+Zabalam	8127
+Catherine the Great	8128
+Saguntum	8129
+Scipio Africanus	8130
+Hamilcar Barca	8131
+Robert Guiscard	8132
+Trojan king	8133
+Azilian	8134
+Chalcolithic Europe	8135
+Bronze Age Europe	8136
+Jurrasic Europe	8137
+Triassic Europe	8138
+Cambrian Europe	8139
+Silurian Europe	8140
+Permian Europe	8141
+Devonian Europe	8142
+Ordovician Europe	8143
+Louis XII	8144
+Tullus Hostilius	8145
+unified Roman Empire	8146
+Wellington	8147
+Dartmouth	8148
+Lewis Cass	8149
+Secretary of War	8150
+Personal Secretary	8151
+Executive Secretary	8152
+Legal Secretary	8153
+Medical Secretary	8154
+School Secretary	8155
+Financial Secretary	8156
+Unit Secretary	8157
+Digital Secretary	8158
+Corporate Secretary	8159
+Adm. Thomas C. Hart	8160
+US Asiatic Fleet	8161
+US Fleet Forces Command	8162
+US Pacific Fleet	8163
+US Naval Forces Europe	8164
+US Navel Forces Central Command	8165
+US Fourth Fleet	8166
+US Seventh Fleet	8167
+US Fifth Fleet	8168
+US Sixth Fleet	8169
+US Arctic Fleet	8170
+U.S. Military Academy	8171
+Royal Military Academy Sandhurst	8172
+Indian Military Academy	8173
+Pakistan Military Academy	8174
+PLA National Defense University	8175
+Millitary College of Canada	8176
+South Korean Military Academy	8177
+Hellenic Army Academy	8178
+Theresianum	8179
+Chilean Army Officer School	8180
+Pearl Harbor	8181
+Vietnamese	8182
+Indonesian	8183
+Helen	8184
+Menelaus of Sparta	8185
+Sophia	8186
+Maria	8187
+Eleni	8188
+Katerina	8189
+Anna	8190
+Despina	8191
+Irini	8192
+Ahina	8193
+Dimitra	8194
+William Henry Fox Talbot	8195

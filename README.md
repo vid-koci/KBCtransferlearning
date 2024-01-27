@@ -1,6 +1,6 @@
 # Knowledge Base Completion Meets Transfer Learning
 
-This code accompanies the paper [Knowledge Base Completion Meets Transfer Learning](https://arxiv.org/abs/2108.13073) published at EMNLP 2021.
+This code accompanies the paper [Knowledge Base Completion Meets Transfer Learning](https://arxiv.org/abs/2108.13073) published at EMNLP 2021 and [ Pre-training and Diagnosing Knowledge Base Completion Models](tbd) published in AI journal.
 
 
 ## Setup
@@ -32,6 +32,19 @@ To train the with same setup but from a randomly-initialized model, just remove 
 ```
 python main.py -data Data/ReVerb20K -dim 300 -lr 3e-4 -batch 512 -n_epochs 500 -embedding TuckER -dropout 0.3 -encoder NoEncoder -hits [1,3,5,10,30,50] -output_dir TuckERReVerb20K
 ```
+
+## Running diagnostics on the DOGE dataset
+
+Given you have trained a pre-trained model, use the `run_full_diagnostics.sh` script to run all the diagnostics on the model.
+Update the parameters at the top of the script to fit your usecase. This will run the following tests:
+ * Detect how much the model associates gender names with stereotypical occupations on `diagnostics/gender_stereotypical` dataset
+ * Detect how much the model associates gender names with anti-stereotypical occupations on `diagnostics/gender_anti-stereotypical` dataset
+ * Detect how well the model performs on the knowledge of occupations, used in the above test, using the `diagnostics/occupations_knowledge` dataset
+ * Detect how well the model performs on the general knowledge test, using the `diagnostics/general_knowledge` dataset
+ * Perform the deductive reasoning tests, with and without fine-tuning (for comparison), using `diagnostics/deductive_reasoning_test` dataset
+ * Repeat the tests on gender stereotypical and gender anti-stereotypical tests, this time with fine-tuning on facts about individuals, to detect how the stereotypes affect its deductive reasoning ability.
+ * Run the diagnostics and tests of statistical significance with `diagnostics/output_analysis.py`
+
 ## Reference
 If you use the code from this repo, please cite the following work.
 ```

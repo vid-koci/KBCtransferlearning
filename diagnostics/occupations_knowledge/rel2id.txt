@@ -1,0 +1,130 @@
+129
+carves	0
+creates	1
+lays	2
+shapes	3
+repairs	4
+changes	5
+diagnoses	6
+unclogs	7
+uses	8
+fixes	9
+works with	10
+installs	11
+replaces	12
+does	13
+chiseled	14
+places	15
+roofed	16
+ripping off	17
+builds	18
+constructs	19
+built	20
+puts out	21
+saves	22
+extinguishes	23
+part of	24
+performs maintenance on	25
+fixed 	26
+inspects	27
+navigates	28
+makes	29
+drives	30
+flies	31
+transports	32
+operates	33
+is helping	34
+paints	35
+draws	36
+designs	37
+made a design for	38
+invented a novel	39
+earns by	40
+has	41
+conducts	42
+sells	43
+acts as	44
+negotiates	45
+member of	46
+responsible for	47
+arrests	48
+enforces	49
+leads	50
+has a	51
+is a	52
+famous for	53
+washes	54
+cleans	55
+rubs	56
+puts away	57
+writes	58
+knows	59
+implements	60
+is an expert in	61
+maintains	62
+relieves	63
+heals	64
+helps with	65
+travels with	66
+delivers	67
+owns	68
+cultivates	69
+grows	70
+safeguards	71
+prevents	72
+guards	73
+protects	74
+takes care of	75
+grooms	76
+feed	77
+works in	78
+dispenses	79
+prepares	80
+recommends	81
+is expert in	82
+styles	83
+apply	84
+works for	85
+organizes	86
+plans	87
+teaches	88
+educates	89
+spends time in	90
+serves	91
+explains	92
+prepares coffee for	93
+keeps track of	94
+expert in	95
+helps	96
+raises	97
+treat	98
+picks	99
+sews	100
+put together	101
+stitches	102
+manages	103
+receives	104
+first contact of	105
+can be found in	106
+takes record of	107
+tracks	108
+produces	109
+records	110
+assists	111
+prepares patients for	112
+performs surgery on	113
+polishes	114
+vacuums	115
+sweeps	116
+transcribe	117
+improves	118
+expert for	119
+provides	120
+cuts	121
+colors	122
+advises	123
+is knowledgeable about	124
+does basic chores for	125
+specializes in	126
+can perform	127
+supervises	128

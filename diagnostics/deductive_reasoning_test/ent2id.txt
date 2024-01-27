@@ -1,0 +1,668 @@
+667
+Sara 	0
+Tyler 	1
+Catherine 	2
+Joseph 	3
+Bobby 	4
+Alan 	5
+Samantha 	6
+Carolyn 	7
+Olivia 	8
+Kelly 	9
+Frank 	10
+Kevin 	11
+Shirley 	12
+Jacob 	13
+George 	14
+Janet 	15
+Anthony 	16
+Christina 	17
+Emily 	18
+Theresa 	19
+Steven 	20
+Alexis 	21
+Megan 	22
+Diane 	23
+Jessica 	24
+Victoria 	25
+Teresa 	26
+Jack 	27
+Roy 	28
+Albert 	29
+Michael 	30
+Sean 	31
+Alexander 	32
+Elizabeth 	33
+Arthur 	34
+Matthew 	35
+Frances 	36
+Evelyn 	37
+Kyle 	38
+Dennis 	39
+Jordan 	40
+Austin 	41
+Andrea 	42
+Jason 	43
+Zachary 	44
+Rachel 	45
+Cynthia 	46
+Noah 	47
+Eric 	48
+Denise 	49
+Susan 	50
+Vincent 	51
+Deborah 	52
+Judith 	53
+Eugene 	54
+Marie 	55
+Jerry 	56
+Michelle 	57
+Rose 	58
+Edward 	59
+Robert 	60
+Joyce 	61
+Natalie 	62
+Russell 	63
+Joan 	64
+Henry 	65
+Roger 	66
+Jeremy 	67
+Kathleen 	68
+movement of the body in a rhythmic way	69
+dance	70
+art	71
+philosophy	72
+criticism	73
+history	74
+writing	75
+time	76
+emotion	77
+culture	78
+pleasure	79
+fruit	80
+orange	81
+bread	82
+chocolate	83
+carrot	84
+veil	85
+beer	86
+coffee	87
+milk	88
+butter	89
+wine	90
+NBA	91
+basketball	92
+baseball	93
+cricket	94
+rugby	95
+tennis	96
+football	97
+chess	98
+boxing	99
+golf	100
+figure skating	101
+Star Wars	102
+A New Hope	103
+Titanic	104
+The Return of the King	105
+Toy Story	106
+A Bug’s Life	107
+The Incredibles	108
+Finding Nemo	109
+Crash	110
+The Prairie	111
+Under California Stars	112
+flute	113
+wind instrument	114
+keyboard instrument	115
+electronic instrument	116
+stringed instrument	117
+percussion instrument	118
+plucked string instrument	119
+tuning	120
+wood	121
+musical key	122
+song	123
+drum	124
+Broadway	125
+Manhattan	126
+Philadelphia	127
+Los Angeles	128
+San Francisco	129
+Paris	130
+Berlin	131
+London	132
+Chicago	133
+Washington	134
+Houston	135
+making and manipulation of puppets	136
+puppetry	137
+acting	138
+performing arts	139
+comedy	140
+design	141
+theatrical production	142
+stagecraft	143
+costumography	144
+mimicry	145
+imitation	146
+Saudi Arabia	147
+Riyadh	148
+Buraydah	149
+Doha	150
+Al-Jubayl	151
+Al-Kharj	152
+Layla	153
+Medina	154
+Dubai	155
+Mecca	156
+Al-Dammām	157
+Quebec	158
+Canada	159
+USA	160
+UK	161
+France	162
+Switzerland	163
+China	164
+Australia	165
+Egypt	166
+Brazil	167
+Germany	168
+Hamburg	169
+New York	170
+Karachi	171
+Montreal	172
+Zürich	173
+Washington, D.C.	174
+Seoul	175
+Ukraine	176
+Eastern Europe	177
+Russia	178
+Central Europe	179
+Asia	180
+North America	181
+South America	182
+Oceania	183
+Africa	184
+Antarctica	185
+Indochina	186
+New Delhi	187
+India	188
+Hungary	189
+Austria	190
+Indonesia	191
+Italy	192
+United Kingdom	193
+United States	194
+Pacific Crest Trail	195
+Whitehall	196
+King’s Highway	197
+Ho Chi Minh Trail	198
+Karakoram Highway	199
+Appian Way	200
+Unter den Linden	201
+Roman road system	202
+Silk Road	203
+Trans-Canada Highway	204
+Route 66	205
+highway	206
+footpath	207
+river	208
+building	209
+mountain trail	210
+sea passage	211
+town street	212
+scenic trail	213
+gravel road	214
+country border	215
+English language	216
+Germanic language	217
+romance language	218
+slavic language	219
+celtic language	220
+Sino-tibetan language	221
+slang	222
+calligraphy	223
+Niger-Congo language	224
+Uralic language	225
+Hindi language	226
+Chinese language	227
+Cantonese	228
+Latin	229
+French	230
+Persian	231
+Finnish	232
+Swahili	233
+Arabic	234
+Spanish	235
+Sanskrit	236
+Hindi	237
+Mexico	238
+Portugal	239
+Mount Aconcagua	240
+Argentina	241
+Chile	242
+Uruguay	243
+Paraguay	244
+Nepal	245
+Pakistan	246
+Southern Ocean	247
+Antarctic Ocean	248
+Great Pacific Garbage Patch	249
+Arctic Ocean	250
+Atlantic Ocean	251
+Pacific Ocean	252
+Indian Ocean	253
+Nile	254
+Amazon	255
+Lake Ontario	256
+Lake Baikal	257
+California	258
+Sequoia National Park	259
+Alaska	260
+Alberta	261
+Utah	262
+Colorado	263
+North Carolina	264
+Wyoming	265
+Norway	266
+Denali	267
+Mount McKinley	268
+Mount Everest	269
+Half Dome	270
+El Capitan	271
+Aconcagua	272
+Yellowstone	273
+Joshua Tree	274
+Clingmans Dome	275
+Kilimanjaro	276
+Elbrus	277
+Old Faithful geyser	278
+Yellowstone National Park	279
+Denali National Park	280
+Banff National Park	281
+Yosemite National Park	282
+Zion National Park	283
+Mesa Verde National Park	284
+Great Smoky Mountains National Park	285
+Joshua Tree National Park	286
+Wrangell-Saint Elias National Park	287
+Queensland	288
+Minnesota	289
+Michigan	290
+Tibet	291
+Kentucky	292
+England	293
+Taiwan	294
+Baltic states	295
+New Zealand	296
+Caspian sea	297
+Central Asia	298
+North Africa	299
+Silicon Valley	300
+Sub-Saharan Africa	301
+North Europe	302
+Southeast Asia	303
+Red Sea	304
+Mediterranean Sea	305
+Wisconsin	306
+Midwest	307
+Caspian Sea	308
+West Coast	309
+The Bible Belt	310
+Taj Mahal	311
+Agra	312
+Peru	313
+Japan	314
+South Africa	315
+Toronto	316
+Mali	317
+functioning of living organisms and their cells	318
+physiology	319
+anatomy	320
+meiosis	321
+zoology	322
+genetics	323
+physics	324
+morality	325
+psychology	326
+medicine	327
+motivation	328
+decline in memory	329
+Alzheimer disease	330
+anorexia nervosa	331
+bulimia	332
+renal system disease	333
+cardiovascular disease	334
+speech disorder	335
+poison	336
+cancer	337
+food allergy	338
+inflammation	339
+malnutrition	340
+obesity	341
+malignant tumors	342
+memory loss	343
+lung damage	344
+eyesight loss	345
+albinism	346
+absence of pigment	347
+upright walking	348
+explantion for organic change	349
+hypothetical extinct creature	350
+splitting of an evolutionary line	351
+inheritance of characteristics	352
+theory by Charles Darwin	353
+fitting to environment	354
+cells with a clearly defined nucleus	355
+physical activity	356
+exercise	357
+disease	358
+nutrition	359
+mental hygiene	360
+digestive system	361
+public health	362
+warm-up	363
+endurance	364
+3.4 kg	365
+average newborn infant	366
+average teenager	367
+average adult man	368
+average adult woman	369
+average toddler	370
+typical elder man	371
+typical parent	372
+average child	373
+body cell	374
+human tooth	375
+gerontology	376
+study of aging	377
+study of death	378
+adulthood	379
+study of infancy	380
+childhood development	381
+phase of adolescence	382
+type of fat	383
+blood clot	384
+type of enzyme	385
+adolescence	386
+puberty	387
+demography	388
+infancy	389
+old age	390
+human aging	391
+childhood	392
+parenting	393
+life cycle	394
+online learning	395
+distance learning	396
+discipline	397
+teaching	398
+military	399
+higher education	400
+study	401
+in-person learning	402
+internet	403
+electronic communications	404
+school	405
+teacher	406
+researcher	407
+lawyer	408
+nurse	409
+writer	410
+president	411
+priest	412
+medic	413
+engineer	414
+farmer	415
+process through which individuals become permanent residents of another country	416
+immigration	417
+asylum	418
+refuge	419
+emigration	420
+Hijrah	421
+diaspora	422
+exclusion	423
+human migration	424
+draft	425
+nationalism	426
+homosexual rights movement	427
+gay rights movement	428
+discrimination	429
+civil rights movement	430
+feminist movement	431
+same-sex marriage	432
+Don’t Ask, Don’t Tell policy	433
+Wolfenden report	434
+homosexuality	435
+AIDS crisis	436
+criminalization of sexual conduct between two consenting adults of the same sex	437
+evaluation of literary works	438
+literary critic	439
+merchant	440
+mathematician	441
+romantic	442
+bookbinder	443
+philosopher	444
+linguist	445
+liberal	446
+poet	447
+historian	448
+blog	449
+journal	450
+diary	451
+prose	452
+essay	453
+report	454
+autobiography	455
+epitaph	456
+scientific papers	457
+biography	458
+hedonism	459
+animal rights	460
+ethical relativism	461
+metaethics	462
+altruism	463
+moral responsibility	464
+legal ethics	465
+biocentrism	466
+mathematics	467
+utilitarianism	468
+writing of history	469
+historiography	470
+chronology	471
+humanism	472
+linguistics	473
+art criticism	474
+museum	475
+epigraphy	476
+anthropology	477
+economics	478
+written matter on hard material	479
+human mind	480
+human societies	481
+language and their development	482
+time and event sequence	483
+human behavior	484
+human body	485
+animal body	486
+Christianity	487
+Eastern Orthodoxy	488
+Islam	489
+Judaism	490
+Mesopotamian religion	491
+Confucianism	492
+Sikhism	493
+Hinduism	494
+Daoism	495
+Paganism	496
+Buddhism	497
+Shruti	498
+Eschatology	499
+Roman Catholicism	500
+to promote and facilitate exchange	501
+marketing	502
+government budget	503
+organized labour	504
+slavery	505
+art market	506
+Great Depression	507
+international trade	508
+Soviet Union	509
+insurance	510
+theft	511
+search for extraterrestrial life	512
+astrobiology	513
+astronomy	514
+geology	515
+biology	516
+space tourism	517
+planetarium	518
+universe	519
+infrared astronomy	520
+astrophysics	521
+astronauts	522
+marine biology	523
+animals and plants that live in sea	524
+progressive changes in size of an organism	525
+science of classification	526
+heredity and genes in particular	527
+suite of interactions that appear between two or more animals	528
+all living matter	529
+microorganisms or microbes	530
+members of animal kingdom and animal life in general	531
+chemical structures and processes of biological phenomena	532
+all vertebrates	533
+jellyfish	534
+animal	535
+plant	536
+microorganism	537
+microbe	538
+fungus	539
+vertebrates	540
+insect	541
+protists	542
+monerans	543
+grass	544
+microbiology	545
+taxonomy	546
+molecular biology	547
+animals	548
+animal social behaviour	549
+biotechnology	550
+vertebrates only	551
+atmospheric phenomena in troposphere and lower stratosphere	552
+meteorology	553
+geography	554
+climatology	555
+geochronology	556
+ecology	557
+cartography	558
+oceanography	559
+paleoclimatology	560
+tropical rainforest	561
+equator	562
+arctic	563
+subarctic region	564
+subantarctic region	565
+Mediterranean	566
+East Asia	567
+Patagonia	568
+taiga	569
+Riemman hypothesis	570
+Millennium problem	571
+solved problem	572
+geometric problem	573
+fractal	574
+trigonometric problem	575
+number	576
+STEM field	577
+random phenomenon	578
+analysis of random phenomena	579
+probability theory	580
+number theory	581
+arithmetic	582
+algebra	583
+trigonometry	584
+geometry	585
+foundations of mathematics	586
+philosophy of mathematics	587
+function	588
+calculus	589
+Stanley Cup	590
+ice hockey	591
+gridiron football	592
+volleyball	593
+handball	594
+soccer	595
+running	596
+pommel horse	597
+gymnastics	598
+ice skating	599
+swimming	600
+cycling	601
+weightlifting	602
+skiing	603
+jumping	604
+wrestling	605
+gambling	606
+roulette	607
+gardening	608
+number game	609
+mountaineering	610
+fishing	611
+bowling	612
+book collecting	613
+Grand Theft Auto	614
+Chess	615
+Bridge	616
+knocking down the pins	617
+card game	618
+poker	619
+pet	620
+videogame	621
+sport	622
+shooter game	623
+crime	624
+lottery	625
+physically dangerous activity	626
+chauffeur	627
+taxicab	628
+subway	629
+train	630
+ship	631
+airplane	632
+sled	633
+bicycle	634
+bus	635
+underground	636
+cable car	637
+air traffic control	638
+radar	639
+naval architecture	640
+nanotechnology	641
+railroad	642
+operations research	643
+particle accelerator	644
+dam	645
+surveying	646
+microscope	647
+radiation measurement	648
+pottery	649
+mosaic	650
+glassware	651
+tapestry	652
+jewelry	653
+heraldry	654
+metalwork	655
+stained glass	656
+clay	657
+paper	658
+ink	659
+glass	660
+fabric	661
+metal	662
+jewels	663
+minerals	664
+wax	665
+beautiful handwriting	666

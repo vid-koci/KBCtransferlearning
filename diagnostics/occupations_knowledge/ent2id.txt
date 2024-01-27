@@ -1,0 +1,244 @@
+243
+stonemason	0
+stones	1
+tombstones	2
+carved stones	3
+rocks	4
+car mechanic	5
+cars	6
+tires	7
+motor oil	8
+malfunctioning cars	9
+plumber	10
+pipes	11
+toilets	12
+plunger	13
+clogged drain	14
+electrician	15
+electricity	16
+electrical equipment	17
+broken wires	18
+electrical installations	19
+carpenter	20
+heavy woodwork	21
+wood	22
+wooden house framework	23
+mast of a ship	24
+roofer	25
+roof of a house	26
+shingles	27
+shed	28
+slates	29
+construction laborer	30
+bricks	31
+houses	32
+buildings	33
+repair worker	34
+maintenance	35
+faulty equipment	36
+malfunctioning objects	37
+broken equipment	38
+firefighter	39
+fire	40
+people in danger	41
+forest fires	42
+fire brigade	43
+aircraft mechanic	44
+helicopters	45
+airplanes	46
+boeing 737	47
+aircraft	48
+pilot	49
+airplane	50
+transatlantic flights	51
+hot air balloons	52
+truck driver	53
+truck	54
+items	55
+heavy goods vehicle	56
+loading cargo on the truck	57
+painter	58
+pictures	59
+portraits	60
+walls	61
+on canvas	62
+mechanical engineer	63
+power-producing machines	64
+complicated machinery	65
+escalator	66
+combustion engine	67
+taxi driver	68
+taxi	69
+customers around the town	70
+driving people around	71
+taxi sign on the car	72
+salesperson	73
+sales	74
+goods	75
+middleman between businesses	76
+price of the products	77
+police officer	78
+police force	79
+maintenance of public order	80
+criminals	81
+law and order	82
+chef	83
+restaurant	84
+michelin star	85
+skilled cook	86
+soup recipe	87
+dishwasher	88
+glasses	89
+plates	90
+dirty cutlery	91
+clean plates	92
+software developer	93
+computer code	94
+multiple programming languages	95
+software	96
+computer programs	97
+computer system administrator	98
+maintenance of computers	99
+computer equipment	100
+cybersecurity	101
+local computer network	102
+chiropractor	103
+chiropractic	104
+problems with bones	105
+back pain	106
+arthritis pain	107
+courier	108
+letters	109
+express mail	110
+messenger	111
+packages	112
+farmer	113
+farm	114
+grain	115
+vegetables	116
+farming tools	117
+security guard	118
+building	119
+illegal entry to buildings	120
+boss of a famous company	121
+entrance of an institution	122
+animal caretaker	123
+animals	124
+pets	125
+animal shelter	126
+pharmacist	127
+medicinal drugs	128
+medications	129
+drug treatments	130
+drug preparation	131
+manicurist	132
+fingers	133
+nails	134
+fingernails	135
+artificial nails	136
+travel agent	137
+travel agency	138
+travel	139
+holidays for customers	140
+travel plans	141
+elementary school teacher	142
+basic mathematics	143
+children	144
+elementary school	145
+classroom	146
+flight attendant	147
+aircraft passengers	148
+passengers of an aircraft	149
+how to act in the case of an emergency landing	150
+teller	151
+money	152
+bank	153
+bank customers	154
+opening a bank account	155
+special education teacher	156
+education of children with disabilities	157
+kids with disabilities	158
+disabled children	159
+special education	160
+florist	161
+flowers	162
+bouquets	163
+potted plants	164
+psychiatrist	165
+psychiatry	166
+patients with mental illness	167
+mental health issues	168
+people with chronic mental health issues	169
+interior designer	170
+building interior	171
+interior design of a flat	172
+placing of furniture	173
+fittings of a flat	174
+sewer	175
+textile goods	176
+embroidery	177
+wedding dress	178
+pieces of cloth together	179
+librarian	180
+library	181
+bookshelves	182
+books	183
+written materials	184
+receptionist	185
+guests	186
+hotel reception	187
+hotel guests	188
+hotel lobby	189
+bookkeeper	190
+financial affairs of a trader	191
+finances of a company	192
+financial records for a business	193
+financial transactions	194
+nurse	195
+a medical professional	196
+hospital	197
+surgeries	198
+sick and injured people	199
+veterinarian	200
+sick pets	201
+animal diseases	202
+injured animals	203
+housekeeping cleaner	204
+hotel rooms	205
+windows	206
+rugs and carpets	207
+floor	208
+clerk	209
+office skills	210
+photocopies	211
+office meetings	212
+office supplies	213
+social worker	214
+child abuse	215
+clients well-being	216
+children with family issues	217
+mental support in case of a divorce	218
+hairdresser	219
+hair	220
+wigs	221
+braiding	222
+nutritionist	223
+nutrition	224
+how to provide proper nourishment for a person	225
+healthy diets	226
+food and nutrition	227
+personal care aide	228
+adult daycare center	229
+elderly	230
+people who are unable to use the restroom	231
+physically disabled	232
+dermatologist	233
+skincare	234
+conditions that affect skin	235
+skin infections	236
+face lifts	237
+childcare worker	238
+kindergarden	239
+toddlers	240
+infants and younger children	241
+diapers	242
