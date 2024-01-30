@@ -1,6 +1,6 @@
 # Knowledge Base Completion Meets Transfer Learning
 
-This code accompanies the paper [Knowledge Base Completion Meets Transfer Learning](https://arxiv.org/abs/2108.13073) published at EMNLP 2021 and [ Pre-training and Diagnosing Knowledge Base Completion Models](tbd) published in AI Journal.
+This code accompanies the paper [Knowledge Base Completion Meets Transfer Learning](https://arxiv.org/abs/2108.13073) published at EMNLP 2021 and [ Pre-training and Diagnosing Knowledge Base Completion Models](https://arxiv.org/abs/2401.15439) published in AI Journal.
 
 
 ## Setup
