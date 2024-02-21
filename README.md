@@ -46,7 +46,7 @@ Update the parameters at the top of the script to fit your usecase. This will ru
  * Run the diagnostics and tests of statistical significance with `diagnostics/output_analysis.py`
 
 ## Reference
-If you use the code from this repo, please cite the following work.
+If you use the code from this repo, please cite the following works.
 ```
 @inproceedings{kocijan2021KBCtransfer,
     title = "Knowledge Base Completion Meets Transfer Learning",
@@ -57,5 +57,19 @@ If you use the code from this repo, please cite the following work.
     year = "2021",
     address = "Punta Cana, Dominican Republic",
     publisher = "Association for Computational Linguistics",
+}
+```
+```
+@article{KOCIJAN2024104081,
+    title = {Pre-training and diagnosing knowledge base completion models},
+    journal = {Artificial Intelligence},
+    volume = {329},
+    pages = {104081},
+    year = {2024},
+    issn = {0004-3702},
+    doi = {https://doi.org/10.1016/j.artint.2024.104081},
+    url = {https://www.sciencedirect.com/science/article/pii/S0004370224000171},
+    author = {Vid Kocijan and Myeongjun Jang and Thomas Lukasiewicz},
+    keywords = {Knowledge base completion, Transfer learning, Bias detection},
 }
 ```
